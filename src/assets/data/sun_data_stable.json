@@ -1,0 +1,55 @@
+{
+    "name": "Non-pollutant",
+    "children": [
+        {
+            "name": "Heavy Metals",
+            "children": [
+                {
+                    "name": "Krypton (Kr)",
+                    "value": 0.000114,
+                    "pollutant": false
+                },
+                {
+                    "name": "Xenon (Xe)",
+                    "value": 9e-06,
+                    "pollutant": false
+                }
+            ]
+        },
+        {
+            "name": "Stable Gases",
+            "children": [
+                {
+                    "name": "Nitrogen (N2)",
+                    "value": 78.084,
+                    "pollutant": false
+                },
+                {
+                    "name": "Oxygen (O2)",
+                    "value": 20.946,
+                    "pollutant": false
+                },
+                {
+                    "name": "Argon (Ar)",
+                    "value": 0.934,
+                    "pollutant": false
+                },
+                {
+                    "name": "Neon (Ne)",
+                    "value": 0.0018182,
+                    "pollutant": false
+                },
+                {
+                    "name": "Helium (He)",
+                    "value": 0.000524,
+                    "pollutant": false
+                },
+                {
+                    "name": "Hydrogen (H2)",
+                    "value": 5.5e-05,
+                    "pollutant": false
+                }
+            ]
+        }
+    ]
+}

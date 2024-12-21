@@ -1,0 +1,182 @@
+{
+  "timeSeriesData": [
+    {
+      "Date": "2024-01-01",
+      "Site ID": 60370016,
+      "Pollutant": "CO",
+      "Concentration": 0.2,
+      "Daily AQI Value": 2,
+      "Units": "ppm"
+    },
+    {
+      "Date": "2024-01-02",
+      "Site ID": 60370016,
+      "Pollutant": "CO",
+      "Concentration": 0.3,
+      "Daily AQI Value": 3,
+      "Units": "ppm"
+    },
+    {
+      "Date": "2024-01-03",
+      "Site ID": 60370016,
+      "Pollutant": "CO",
+      "Concentration": 0.3,
+      "Daily AQI Value": 3,
+      "Units": "ppm"
+    },
+    {
+      "Date": "2024-01-04",
+      "Site ID": 60370016,
+      "Pollutant": "CO",
+      "Concentration": 0.3,
+      "Daily AQI Value": 3,
+      "Units": "ppm"
+    },
+    ...
+    {
+      "Date": "2024-01-05",
+      "Site ID": 60370016,
+      "Pollutant": "CO",
+      "Concentration": 0.3,
+      "Daily AQI Value": 3,
+      "Units": "ppm"
+    }
+  ],
+  "stations": [
+    {
+      "Site ID": 60370016,
+      "Local Site Name": "Glendora",
+      "Site Latitude": 34.14435,
+      "Site Longitude": -117.85036,
+      "Pollutant": [
+        "CO",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5"
+      ]
+    },
+    {
+      "Site ID": 60370113,
+      "Local Site Name": "West Los Angeles",
+      "Site Latitude": 34.05111,
+      "Site Longitude": -118.45636,
+      "Pollutant": [
+        "NO2",
+        "O3"
+      ]
+    },
+    ...
+    {
+      "Site ID": 60371103,
+      "Local Site Name": "Los Angeles-North Main Street",
+      "Site Latitude": 34.0665900008759,
+      "Site Longitude": -118.22688,
+      "Pollutant": [
+        "CO",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    }
+  ],
+  "stationStats": [
+    {
+      "Site ID": 60370016,
+      "Local Site Name": "Glendora",
+      "Site Latitude": 34.14435,
+      "Site Longitude": -117.85036,
+      "Pollutant": "CO",
+      "Concentration_count": 222,
+      "Concentration_mean": 0.31216216216216214,
+      "Concentration_max": 0.5,
+      "Concentration_min": 0.2,
+      "AQI_mean": 3.445945945945946,
+      "AQI_max": 6,
+      "AQI_min": 2
+    },
+    {
+      "Site ID": 60370016,
+      "Local Site Name": "Glendora",
+      "Site Latitude": 34.14435,
+      "Site Longitude": -117.85036,
+      "Pollutant": "NO2",
+      "Concentration_count": 216,
+      "Concentration_mean": 14.281018518518518,
+      "Concentration_max": 34.3,
+      "Concentration_min": 2.7,
+      "AQI_mean": 12.972222222222221,
+      "AQI_max": 32,
+      "AQI_min": 2
+    },
+    {
+      "Site ID": 60370016,
+      "Local Site Name": "Glendora",
+      "Site Latitude": 34.14435,
+      "Site Longitude": -117.85036,
+      "Pollutant": "O3",
+      "Concentration_count": 293,
+      "Concentration_mean": 0.0603037542662116,
+      "Concentration_max": 0.114,
+      "Concentration_min": 0.02,
+      "AQI_mean": 81.69283276450511,
+      "AQI_max": 209,
+      "AQI_min": 19
+    },
+    ...
+    {
+      "Site ID": 60370016,
+      "Local Site Name": "Glendora",
+      "Site Latitude": 34.14435,
+      "Site Longitude": -117.85036,
+      "Pollutant": "PM10",
+      "Concentration_count": 287,
+      "Concentration_mean": 28.37630662020906,
+      "Concentration_max": 187.0,
+      "Concentration_min": 5.0,
+      "AQI_mean": 25.958188153310104,
+      "AQI_max": 117,
+      "AQI_min": 5
+    }
+  ],
+  "metadata": {
+    "dateRange": {
+      "start": "2024-01-01",
+      "end": "2024-11-16"
+    },
+    "pollutants": [
+      "CO",
+      "NO2",
+      "O3",
+      "PM10",
+      "PM2.5",
+      "SO2"
+    ],
+    "stationNames": [
+      "Compton",
+      "Glendora",
+      "Lancaster - Fairgrounds",
+      "Long Beach (Hudson)",
+      "Long Beach-Route 710 Near Road",
+      "Los Angeles-North Main Street",
+      "North Hollywood (NOHO)",
+      "Pasadena",
+      "Pico Rivera #2",
+      "Pomona",
+      "Reseda",
+      "Santa Clarita",
+      "Signal Hill (LBSH)",
+      "West Los Angeles"
+    ],
+    "units": {
+      "CO": "ppm",
+      "NO2": "ppb",
+      "O3": "ppm",
+      "PM10": "ug/m3 SC",
+      "PM2.5": "ug/m3 LC",
+      "SO2": "ppb"
+    }
+  }
+}

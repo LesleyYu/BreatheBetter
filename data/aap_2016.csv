@@ -1,0 +1,560 @@
+﻿Country,City/Town,Year,"Annual mean PM10, ug/m3","Annual mean PM2.5, ug/m3",Temporal coverage,Number and type of monitoring stations,Database version (year)
+United States of America,Adrian,2014,(16)-converted value,9,NA,-,2016
+United States of America,Akron,2014,(19)-converted value,10,NA,-,2016
+United States of America,Albany,2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Albany-Schenectady-Troy,2014,(13)-converted value,7,NA,-,2016
+United States of America,Albuquerque,2016,(10)-converted value,5,50% -< 75%,1 Urban And Center City,2018
+United States of America,Alexandria,2014,(14)-converted value,8,NA,-,2016
+United States of America,Allegan,2014,(16)-converted value,9,NA,-,2016
+United States of America,Allen Park,2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Allentown,2016,(22)-converted value,10,>75%,1 Suburban,2018
+United States of America,Allentown-Bethlehem-Easton,2014,(17)-converted value,9,NA,-,2016
+United States of America,Altoona,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Anacortes,2015,(14)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Anaheim,2016,(20)-converted value,9,>75%,1 Suburban,2018
+United States of America,Anchorage,2016,(12)-converted value,6,>75%,2 Suburban,2018
+United States of America,Anderson,2015,(19)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Ann Arbor,2014,(18)-converted value,10,NA,-,2016
+United States of America,Anthony,2016,(16)-converted value,8,>75%,1 Rural,2018
+United States of America,Apple Valley,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Appleton,2014,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Arden-Arcade,2016,(18)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Arnold,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Arroyo Grande,2016,(17)-converted value,8,>75%,1 Rural,2018
+United States of America,Asheville,2014,(14)-converted value,8,NA,-,2016
+United States of America,Ashland,2014,(16)-converted value,9,NA,-,2016
+United States of America,Atascadero,2016,(13)-converted value,6,>75%,1 Suburban,2018
+United States of America,Athens,2014,(14)-converted value,8,NA,-,2016
+United States of America,Athens-Clarke County,2014,(19)-converted value,10,NA,-,2016
+United States of America,Atlanta,2016,(23)-converted value,11,>75%,1 Urban And Center City,2018
+United States of America,Atlanta-Sandy Springs-Marietta,2014,(19)-converted value,10,NA,-,2016
+United States of America,Atlantic City,2014,(14)-converted value,8,NA,-,2016
+United States of America,Auburn,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Augusta-Richmond County,2014,(18)-converted value,10,NA,-,2016
+United States of America,Augusta-Waterville,2014,(13)-converted value,7,NA,-,2016
+United States of America,Austin-Round Rock,2014,(17)-converted value,9,NA,-,2016
+United States of America,Bakersfield,2014,(37)-converted value,18,50% -< 75%,1 Urban And Center City,2018
+United States of America,Baltimore,2016,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Baltimore-Towson,2014,(18)-converted value,10,NA,-,2016
+United States of America,Bangor,2015,(14)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Banning,2016,(18)-converted value,8,50% -< 75%,1 Rural,2018
+United States of America,Baraboo,2014,(14)-converted value,7,NA,-,2016
+United States of America,Baton Rouge,2016,(22)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Battlement Mesa,2014,(8)-converted value,4,>75%,1 Suburban,2018
+United States of America,Bay City,2014,(15)-converted value,8,NA,-,2016
+United States of America,Bayport,2016,(13)-converted value,6,50% -< 75%,2 Suburban,2018
+United States of America,Beaver Dam,2014,(16)-converted value,8,NA,-,2016
+United States of America,Beaver Falls,2016,(18)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Bellevue,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Bellingham,2014,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Bennington,2016,(10)-converted value,5,>75%,1 Rural,2018
+United States of America,Birmingham-Hoover,2014,(20)-converted value,11,NA,-,2016
+United States of America,Bishop,2014,(15)-converted value,8,NA,-,2016
+United States of America,Bismarck,2014,(8)-converted value,4,NA,-,2016
+United States of America,Blaine,2016,(13)-converted value,6,50% -< 75%,1 Suburban,2018
+United States of America,Bloomington,2016,(14)-converted value,7,50% -< 75%,1 Suburban,2018
+United States of America,Blue Ash,2016,(19)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Boone,2014,(13)-converted value,7,NA,-,2016
+United States of America,Boston,2016,(14)-converted value,7,50% -< 75%,3 Urban And Center City,2018
+United States of America,Boston-Cambridge-Quincy,2014,(12)-converted value,7,NA,-,2016
+United States of America,Boulder,2014,(13)-converted value,7,NA,-,2016
+United States of America,Boulevard,2016,(10)-converted value,5,>75%,1 Rural,2018
+United States of America,Bountiful,2016,(17)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Bowling Green,2014,(17)-converted value,9,NA,-,2016
+United States of America,Brainerd,2016,(12)-converted value,6,>75%,1 Rural,2018
+United States of America,Bremerton,2016,(9)-converted value,4,>75%,1 Suburban,2018
+United States of America,Bremerton-Silverdale,2014,(9)-converted value,5,NA,-,2016
+United States of America,Bridgeport,2016,(18)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Bridgeport-Stamford-Norwalk,2014,(15)-converted value,8,NA,-,2016
+United States of America,Brigham City,2014,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Bristol,2015,(23)-converted value,11,>75%,1 Suburban,2018
+United States of America,Brockton,2016,(12)-converted value,6,50% -< 75%,1 Suburban,2018
+United States of America,Brunswick,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Bryson City (Rr Name Bryson),2016,(19)-converted value,9,>75%,1 Suburban,2018
+United States of America,Burlington,2016,(11)-converted value,5,>75%,1 Urban And Center City,2018
+United States of America,Burlington-South Burlington,2014,(10)-converted value,5,NA,-,2016
+United States of America,Burns,2015,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Butte-Silver Bow,2014,(17)-converted value,9,NA,-,2016
+United States of America,Butte-Silver Bow (Remainder),2016,(16)-converted value,7,50% -< 75%,1 Urban And Center City,2018
+United States of America,Cadillac,2014,(10)-converted value,6,NA,-,2016
+United States of America,Calexico,2016,(26)-converted value,12,50% -< 75%,1 Suburban,2018
+United States of America,Cambridge,2014,(16)-converted value,9,NA,-,2016
+United States of America,Camden,2016,(20)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Candor,2016,(14)-converted value,6,>75%,1 Rural,2018
+United States of America,Canton-Massillon,2014,(21)-converted value,11,NA,-,2016
+United States of America,Cape Coral-Fort Myers,2014,(11)-converted value,6,NA,-,2016
+United States of America,Carlisle,2016,(17)-converted value,8,>75%,1 Rural,2018
+United States of America,Carmel Valley Village,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Carson City,2016,(9)-converted value,4,50% -< 75%,1 Urban And Center City,2018
+United States of America,Casa Grande,2016,(18)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Castle Hayne,2016,(12)-converted value,6,50% -< 75%,1 Rural,2018
+United States of America,Cedar Rapids,2016,(16)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,Charleroi,2016,(20)-converted value,9,>75%,1 Suburban,2018
+United States of America,Charleston,2016,(15)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Charleston-North Charleston,2014,(16)-converted value,9,NA,-,2016
+United States of America,Charlotte-Gastonia-Concord,2014,(16)-converted value,9,NA,-,2016
+United States of America,Charlottesville,2014,(14)-converted value,7,NA,-,2016
+United States of America,Chattanooga,2014,(17)-converted value,9,NA,-,2016
+United States of America,Chester,2016,(23)-converted value,11,>75%,1 Urban And Center City,2018
+United States of America,Cheyenne,2014,(7)-converted value,4,NA,-,2016
+United States of America,Chicago-Naperville-Joliet,2014,(22)-converted value,12,NA,-,2016
+United States of America,Chico,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Cincinnati-Middletown,2014,(19)-converted value,10,NA,-,2016
+United States of America,Clarksburg,2014,(16)-converted value,9,NA,-,2016
+United States of America,Clarksville,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Clearlake,2014,(8)-converted value,4,NA,-,2016
+United States of America,Cleveland,2016,(20)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Cleveland-Elyria-Mentor,2014,(19)-converted value,10,NA,-,2016
+United States of America,Clinton,2016,(17)-converted value,8,>75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,Cloquet,2016,(11)-converted value,5,>75%,1 Rural,2018
+United States of America,Clovis,2016,(25)-converted value,12,50% -< 75%,1 Urban And Center City,2018
+United States of America,Cockeysville,2016,(14)-converted value,7,50% -< 75%,1 Suburban,2018
+United States of America,Coconut Creek,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Colorado Springs,2014,(11)-converted value,6,NA,-,2016
+United States of America,Columbia,2015,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Columbia Falls,2016,(11)-converted value,6,>75%,1 Suburban,2018
+United States of America,Columbus,2015,(20)-converted value,10,50% -< 75%,1 Suburban,2018
+United States of America,Colusa,2014,(13)-converted value,7,NA,-,2016
+United States of America,Concord,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Cookeville,2014,(16)-converted value,9,NA,-,2016
+United States of America,Corning,2014,(11)-converted value,6,NA,-,2016
+United States of America,Cornwall,2016,(11)-converted value,5,50% -< 75%,1 Rural,2018
+United States of America,Corpus Christi,2014,(18)-converted value,10,NA,-,2016
+United States of America,Cortina Indian Rancheria,2014,(14)-converted value,7,>75%,1 Rural,2018
+United States of America,Crossett,2014,(16)-converted value,9,NA,-,2016
+United States of America,Dale,2014,(20)-converted value,11,NA,-,2016
+United States of America,Dallas,2016,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Dallas-Fort Worth-Arlington,2014,(18)-converted value,10,NA,-,2016
+United States of America,Daphne-Fairhope-Foley,2014,(16)-converted value,9,NA,-,2016
+United States of America,Darrington,2016,(11)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Davenport,2016,(17)-converted value,8,50% -< 75%,2 Urban And Center City,2018
+United States of America,Davenport-Moline-Rock Island,2014,(18)-converted value,10,NA,-,2016
+United States of America,Davie,2016,(12)-converted value,6,50% -< 75%,1 Suburban,2018
+United States of America,Dayton,2014,(17)-converted value,9,NA,-,2016
+United States of America,Decatur,2014,(17)-converted value,9,NA,-,2016
+United States of America,Deer Park,2016,(17)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,Delaware City,2014,(20)-converted value,10,>75%,1 Rural,2018
+United States of America,Denver,2016,(17)-converted value,8,>75%,3 Urban And Center City,2018
+United States of America,Denver-Aurora,2014,(13)-converted value,7,NA,-,2016
+United States of America,Des Moines,2016,(15)-converted value,7,50% -< 75%,1 Urban And Center City,2018
+United States of America,Des Moines-West Des Moines,2014,(16)-converted value,8,NA,-,2016
+United States of America,Detroit,2016,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Detroit Lakes,2016,(8)-converted value,4,>75%,1 Rural,2018
+United States of America,Detroit-Warren-Livonia,2014,(18)-converted value,10,NA,-,2016
+United States of America,Dickinson,2014,(8)-converted value,4,NA,-,2016
+United States of America,Douglas,2015,(11)-converted value,5,>75%,1 Urban And Center City,2018
+United States of America,Dover,2014,(15)-converted value,8,NA,-,2016
+United States of America,Duluth,2016,(11)-converted value,5,>75%,1 Suburban,2018
+United States of America,Durham,2016,(18)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Dyersburg,2014,(17)-converted value,9,NA,-,2016
+United States of America,East Brunswick,2016,(16)-converted value,8,50% -< 75%,1 Rural,2018
+United States of America,East Hartford,2016,(14)-converted value,7,50% -< 75%,1 Suburban,2018
+United States of America,East Highland Park,2016,(15)-converted value,7,50% -< 75%,1 Suburban,2018
+United States of America,East Providence,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,East Stroudsburg,2014,(16)-converted value,9,NA,-,2016
+United States of America,East Syracuse,2016,(11)-converted value,5,50% -< 75%,1 Suburban,2018
+United States of America,Eau Claire,2014,(15)-converted value,8,NA,-,2016
+United States of America,Edgewood,2016,(16)-converted value,8,>75%,1 Rural,2018
+United States of America,El Centro,2014,(19)-converted value,10,NA,-,2016
+United States of America,El Dorado,2014,(17)-converted value,9,NA,-,2016
+United States of America,El Paso,2016,(20)-converted value,10,>75%,1 Urban And Center City,2018
+United States of America,Elizabeth,2016,(20)-converted value,10,50% -< 75%,1 Suburban,2018
+United States of America,Elizabethtown,2014,(19)-converted value,10,NA,-,2016
+United States of America,Elkhart,2016,(18)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Elkhart-Goshen,2014,(28)-converted value,15,NA,-,2016
+United States of America,Emmetsburg,2014,(14)-converted value,8,NA,-,2016
+United States of America,Erie,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Eugene-Springfield,2014,(14)-converted value,8,NA,-,2016
+United States of America,Eureka-Arcata-Fortuna,2014,(8)-converted value,4,NA,-,2016
+United States of America,Evansville,2014,(21)-converted value,11,NA,-,2016
+United States of America,Fairbanks,2014,(19)-converted value,10,NA,-,2016
+United States of America,Fairmont,2014,(18)-converted value,10,NA,-,2016
+United States of America,Fall River,2016,(11)-converted value,5,50% -< 75%,1 Suburban,2018
+United States of America,Fargo,2014,(9)-converted value,5,NA,-,2016
+United States of America,Farmington,2014,(7)-converted value,4,NA,-,2016
+United States of America,Farrell,2015,(23)-converted value,11,>75%,1 Urban And Center City,2018
+United States of America,Fayetteville,2016,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Fayetteville-Springdale-Rogers,2014,(16)-converted value,9,NA,-,2016
+United States of America,Fishers (Corporate Name For Fishers Station),2016,(18)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Flint,2014,(16)-converted value,9,NA,-,2016
+United States of America,Florence,2014,(17)-converted value,9,NA,-,2016
+United States of America,Florence-Muscle Shoals,2014,(17)-converted value,9,NA,-,2016
+United States of America,Folsom,2016,(13)-converted value,6,>75%,1 Suburban,2018
+United States of America,Fort Collins,2016,(14)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Fort Collins-Loveland,2014,(12)-converted value,6,NA,-,2016
+United States of America,Fort Lee,2015,(24)-converted value,11,>75%,1 Urban And Center City,2018
+United States of America,Fort Madison-Keokuk,2014,(20)-converted value,11,NA,-,2016
+United States of America,Fort Smith,2014,(17)-converted value,9,NA,-,2016
+United States of America,Fort Wayne,2016,(17)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Franklin,2014,(11)-converted value,5,>75%,1 Rural,2018
+United States of America,Freemansburg,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Frenchtown,2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Fresno,2016,(27)-converted value,13,50% -< 75%,1 Urban And Center City,2018
+United States of America,Gainesville,2014,(16)-converted value,9,NA,-,2016
+United States of America,Galveston,2016,(14)-converted value,6,50% -< 75%,1 Suburban,2018
+United States of America,Garden City,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Gardnerville Ranchos,2016,(14)-converted value,7,>75%,1 Rural,2018
+United States of America,Gary,2016,(19)-converted value,9,50% -< 75%,2 Urban And Center City,2018
+United States of America,Gillette,2014,(8)-converted value,4,NA,-,2016
+United States of America,Gilroy,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Glendale,2016,(14)-converted value,7,>75%,1 Rural,2018
+United States of America,Glenpool,2016,(20)-converted value,10,>75%,1 Rural,2018
+United States of America,Goldsboro,2014,(22)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Goleta,2015,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Gordon,2014,(20)-converted value,11,NA,-,2016
+United States of America,Grand Island,2014,(12)-converted value,6,NA,-,2016
+United States of America,Grand Junction,2016,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Grand Rapids-Wyoming,2014,(18)-converted value,10,NA,-,2016
+United States of America,Grants Pass,2014,(14)-converted value,7,NA,-,2016
+United States of America,Grantsville,2015,(11)-converted value,5,>75%,1 Rural,2018
+United States of America,Greeley,2014,(14)-converted value,8,NA,-,2016
+United States of America,Green Bay,2014,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Greensboro,2016,(17)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,Greensboro-High Point,2014,(15)-converted value,8,NA,-,2016
+United States of America,Greensburg,2016,(20)-converted value,10,>75%,1 Suburban,2018
+United States of America,Greenville,2016,(20)-converted value,10,>75%,1 Urban And Center City,2018
+United States of America,Greenville-Mauldin-Easley,2014,(17)-converted value,9,NA,-,2016
+United States of America,Groton,2016,(12)-converted value,6,50% -< 75%,1 Suburban,2018
+United States of America,Groveton,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Gulfport-Biloxi,2014,(17)-converted value,9,NA,-,2016
+United States of America,Hagerstown-Martinsburg,2014,(18)-converted value,10,NA,-,2016
+United States of America,Hamilton,2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Hammond,2014,(15)-converted value,8,NA,-,2016
+United States of America,Hanford,2016,(32)-converted value,16,>75%,1 Suburban,2018
+United States of America,Hanford-Corcoran,2014,(30)-converted value,16,NA,-,2016
+United States of America,Harriman,2014,(17)-converted value,9,NA,-,2016
+United States of America,Harrisburg-Carlisle,2014,(18)-converted value,10,NA,-,2016
+United States of America,Harrisonburg,2014,(16)-converted value,9,NA,-,2016
+United States of America,Hartford,2016,(15)-converted value,7,50% -< 75%,1 Urban And Center City,2018
+United States of America,Hartford-West Hartford-East Hartford,2014,(14)-converted value,8,NA,-,2016
+United States of America,Hattiesburg,2014,(19)-converted value,10,NA,-,2016
+United States of America,Haverhill,2016,(11)-converted value,5,50% -< 75%,1 Suburban,2018
+United States of America,Hawaiian Ocean View,2016,(30)-converted value,15,>75%,1 Rural,2018
+United States of America,Hazard,2014,(16)-converted value,8,NA,-,2016
+United States of America,Helena,2014,(10)-converted value,5,NA,-,2016
+United States of America,Helena Valley West Central,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Henderson,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,Hickory,2016,(19)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Hickory-Lenoir-Morganton,2014,(17)-converted value,9,NA,-,2016
+United States of America,Hilo,2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Hollister,2016,(9)-converted value,4,>75%,1 Rural,2018
+United States of America,Homestead,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,Honolulu,2016,(6)-converted value,3,>75%,2 Urban And Center City,2018
+United States of America,Hot Springs,2014,(17)-converted value,9,NA,-,2016
+United States of America,Houma-Bayou Cane-Thibodaux,2014,(14)-converted value,8,NA,-,2016
+United States of America,Houston,2015,(25)-converted value,12,>75%,1 Urban And Center City,2018
+United States of America,Houston-Sugar Land-Baytown,2014,(19)-converted value,10,NA,-,2016
+United States of America,Huntington-Ashland,2014,(16)-converted value,9,NA,-,2016
+United States of America,Huntsville,2014,(17)-converted value,9,NA,-,2016
+United States of America,Hurricane,2015,(10)-converted value,5,>75%,1 Rural,2018
+United States of America,Indianapolis (Remainder),2016,(20)-converted value,10,50% -< 75%,"2 Suburban, 2 Urban And Center City",2018
+United States of America,Indianapolis-Carmel,2014,(21)-converted value,12,NA,-,2016
+United States of America,Iowa City,2016,(15)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Jackson,2014,(18)-converted value,10,NA,-,2016
+United States of America,Jacksonville,2016,(15)-converted value,7,>75%,3 Suburban,2018
+United States of America,Jamestown-Dunkirk-Fredonia,2014,(15)-converted value,8,NA,-,2016
+United States of America,Jamesville,2014,(14)-converted value,7,NA,-,2016
+United States of America,Jasper,2014,(21)-converted value,11,NA,-,2016
+United States of America,Jean,2016,(13)-converted value,6,>75%,1 Rural,2018
+United States of America,Jeffersonville,2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Jersey City,2016,(18)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Johnstown,2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Juneau,2015,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Kahului,2016,(6)-converted value,3,>75%,1 Urban And Center City,2018
+United States of America,Kalamazoo-Portage,2014,(18)-converted value,10,NA,-,2016
+United States of America,Kalispell,2014,(15)-converted value,8,NA,-,2016
+United States of America,Kansas City,2016,(16)-converted value,8,>75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,Kapaa,2014,(8)-converted value,4,NA,-,2016
+United States of America,Kealakekua,2015,(22)-converted value,10,>75%,1 Suburban,2018
+United States of America,Keeler,2016,(12)-converted value,6,50% -< 75%,1 Rural,2018
+United States of America,Keene,2016,(13)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Kenansville,2014,(14)-converted value,8,NA,-,2016
+United States of America,Kenner,2014,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Kennesaw,2016,(19)-converted value,9,>75%,1 Suburban,2018
+United States of America,Kent,2016,(11)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Kihei,2016,(8)-converted value,4,>75%,1 Suburban,2018
+United States of America,King City,2016,(11)-converted value,5,>75%,1 Urban And Center City,2018
+United States of America,Kingsport-Bristol-Bristol,2014,(16)-converted value,9,NA,-,2016
+United States of America,Kittanning,2016,(22)-converted value,10,>75%,1 Suburban,2018
+United States of America,Klamath Falls,2014,(16)-converted value,9,NA,-,2016
+United States of America,Knowlton (Township Of),2016,(18)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Knoxville,2016,(21)-converted value,10,50% -< 75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,Kokomo,2016,(18)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,La Crosse,2014,(15)-converted value,8,NA,-,2016
+United States of America,Laconia,2014,(8)-converted value,4,NA,-,2016
+United States of America,Ladue,2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Lafayette,2014,(20)-converted value,11,NA,-,2016
+United States of America,Lake Charles,2014,(13)-converted value,7,NA,-,2016
+United States of America,Lakeland,2014,(13)-converted value,7,NA,-,2016
+United States of America,Lakeview,2014,(16)-converted value,9,NA,-,2016
+United States of America,Lakeville,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Lancaster,2016,(19)-converted value,9,>75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,Lansing-East Lansing,2014,(17)-converted value,9,NA,-,2016
+United States of America,Las Vegas,2016,(19)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Las Vegas-Paradise,2014,(14)-converted value,8,NA,-,2016
+United States of America,Lawrence (Township Of),2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Lawrenceburg,2014,(15)-converted value,8,NA,-,2016
+United States of America,Lawton,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Lebanon,2016,(11)-converted value,5,50% -< 75%,1 Urban And Center City,2018
+United States of America,Lewiston,2016,(12)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Lewiston-Auburn,2014,(14)-converted value,8,NA,-,2016
+United States of America,Lexington,2016,(18)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,Lexington-Fayette,2014,(17)-converted value,9,NA,-,2016
+United States of America,Libby,2016,(20)-converted value,10,>75%,1 Urban And Center City,2018
+United States of America,Liberty,2015,(28)-converted value,13,50% -< 75%,1 Suburban,2018
+United States of America,Lincoln,2014,(14)-converted value,8,NA,-,2016
+United States of America,Little Rock-North Little Rock-Conway,2014,(19)-converted value,10,NA,-,2016
+United States of America,Live Oak,2016,(11)-converted value,5,>75%,1 Suburban,2018
+United States of America,Livermore,2016,(16)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Logan,2014,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Lompoc,2016,(15)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Long Beach,2016,(22)-converted value,11,>75%,3 Suburban,2018
+United States of America,Los Angeles,2016,(25)-converted value,12,50% -< 75%,1 Urban And Center City,2018
+United States of America,Los Angeles-Long Beach-Santa Ana,2014,(20)-converted value,11,NA,-,2016
+United States of America,Louisville,2016,(17)-converted value,8,50% -< 75%,2 Suburban,2018
+United States of America,Louisville/Jefferson County,2014,(21)-converted value,11,NA,-,2016
+United States of America,Lumberton,2014,(16)-converted value,9,NA,-,2016
+United States of America,Lynchburg,2014,(14)-converted value,8,NA,-,2016
+United States of America,Lynn,2016,(10)-converted value,5,50% -< 75%,1 Urban And Center City,2018
+United States of America,Macon,2014,(22)-converted value,11,50% -< 75%,1 Suburban,2018
+United States of America,Madawaska (Census Name For Madawaska Center),2016,(13)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Madera,2016,(23)-converted value,11,50% -< 75%,1 Suburban,2018
+United States of America,Madison,2014,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Manchester-Nashua,2014,(11)-converted value,6,NA,-,2016
+United States of America,Manistee,2014,(11)-converted value,6,NA,-,2016
+United States of America,Marcus Hook,2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Maricopa,2014,(29)-converted value,14,>75%,1 Rural,2018
+United States of America,Marshall,2016,(9)-converted value,4,>75%,1 Rural,2018
+United States of America,Marysville,2016,(13)-converted value,6,>75%,1 Suburban,2018
+United States of America,Mcalester,2016,(16)-converted value,8,50% -< 75%,1 Rural,2018
+United States of America,Mcallen-Edinburg-Mission,2014,(18)-converted value,10,NA,-,2016
+United States of America,Mccook,2016,(20)-converted value,10,50% -< 75%,1 Suburban,2018
+United States of America,Medford,2014,(17)-converted value,9,NA,-,2016
+United States of America,Memphis,2015,(18)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Mena,2014,(17)-converted value,9,NA,-,2016
+United States of America,Merced,2014,(20)-converted value,11,NA,-,2016
+United States of America,Mesa,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Miami,2016,(16)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,Miami-Fort Lauderdale-Pompano Beach,2014,(11)-converted value,6,NA,-,2016
+United States of America,Michigan City-La Porte,2014,(18)-converted value,10,NA,-,2016
+United States of America,Middlesborough,2014,(17)-converted value,9,NA,-,2016
+United States of America,Milton,2015,(10)-converted value,5,>75%,1 Suburban,2018
+United States of America,Milwaukee-Waukesha-West Allis,2014,(18)-converted value,10,NA,-,2016
+United States of America,Minneapolis,2016,(15)-converted value,7,>75%,2 Urban And Center City,2018
+United States of America,Minneapolis-St. Paul-Bloomington,2014,(14)-converted value,8,NA,-,2016
+United States of America,Mira Loma,2016,(29)-converted value,14,>75%,1 Suburban,2018
+United States of America,Missoula,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,Mobile,2014,(17)-converted value,9,NA,-,2016
+United States of America,Modesto,2016,(21)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Mojave,2016,(15)-converted value,7,>75%,1 Rural,2018
+United States of America,Montgomery,2014,(17)-converted value,9,NA,-,2016
+United States of America,Moore,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Morgantown,2014,(16)-converted value,9,NA,-,2016
+United States of America,Mount Vernon-Anacortes,2014,(11)-converted value,6,NA,-,2016
+United States of America,Mountain View,2015,(6)-converted value,3,>75%,1 Suburban,2018
+United States of America,Mountlake Terrace,2016,(8)-converted value,4,>75%,1 Suburban,2018
+United States of America,Muncie,2014,(19)-converted value,10,NA,-,2016
+United States of America,Muscatine,2016,(16)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Napa,2016,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Nashville,2016,(19)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Nashville-Davidson-Murfreesboro-Franklin,2014,(18)-converted value,10,NA,-,2016
+United States of America,New Albany,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,New Castle,2014,(18)-converted value,10,NA,-,2016
+United States of America,New Haven,2015,(17)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,New Haven-Milford,2014,(16)-converted value,9,NA,-,2016
+United States of America,New Orleans-Metairie-Kenner,2014,(14)-converted value,8,NA,-,2016
+United States of America,New York,2016,(14)-converted value,7,>75%,2 Urban And Center City,2018
+United States of America,New York-Northern New Jersey-Long Island,2014,(16)-converted value,9,NA,-,2016
+United States of America,Newark,2016,(18)-converted value,8,50% -< 75%,1 Urban And Center City,2018
+United States of America,Niles-Benton Harbor,2014,(16)-converted value,8,NA,-,2016
+United States of America,Nipomo,2016,(12)-converted value,6,>75%,1 Rural,2018
+United States of America,Nogales,2016,(21)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Norristown,2015,(19)-converted value,9,>75%,1 Suburban,2018
+United States of America,North Charleston,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,North Las Vegas,2016,(21)-converted value,10,>75%,1 Urban And Center City,2018
+United States of America,North Laurel,2016,(20)-converted value,10,>75%,1 Suburban,2018
+United States of America,North Little Rock,2016,(21)-converted value,10,50% -< 75%,1 Urban And Center City,2018
+United States of America,Norwich-New London,2014,(15)-converted value,8,NA,-,2016
+United States of America,Oakland,2016,(16)-converted value,8,>75%,3 Urban And Center City,2018
+United States of America,Ogden,2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Ogden Dunes (Wickliffe),2016,(16)-converted value,8,50% -< 75%,1 Suburban,2018
+United States of America,Ogden-Clearfield,2014,(14)-converted value,8,NA,-,2016
+United States of America,Ojai,2016,(19)-converted value,9,>75%,1 Suburban,2018
+United States of America,Oklahoma City,2014,(17)-converted value,9,NA,-,2016
+United States of America,Omaha,2016,(15)-converted value,7,50% -< 75%,1 Suburban,2018
+United States of America,Omaha-Council Bluffs,2014,(15)-converted value,8,NA,-,2016
+United States of America,Ontario,2016,(31)-converted value,15,>75%,1 Suburban,2018
+United States of America,Orlando-Kissimmee,2014,(12)-converted value,6,NA,-,2016
+United States of America,Owensboro,2014,(20)-converted value,11,NA,-,2016
+United States of America,Oxnard-Thousand Oaks-Ventura,2014,(16)-converted value,9,NA,-,2016
+United States of America,Paducah,2014,(19)-converted value,10,NA,-,2016
+United States of America,Pahala,2016,(12)-converted value,6,>75%,1 Rural,2018
+United States of America,Paia,2016,(9)-converted value,4,>75%,1 Suburban,2018
+United States of America,Pala,2016,(16)-converted value,8,>75%,1 Rural,2018
+United States of America,Palmer,2016,(6)-converted value,3,>75%,1 Suburban,2018
+United States of America,Parkersburg-Marietta-Vienna,2014,(18)-converted value,10,NA,-,2016
+United States of America,Pascagoula,2014,(18)-converted value,10,NA,-,2016
+United States of America,Pearl City,2016,(5)-converted value,3,>75%,1 Urban And Center City,2018
+United States of America,Peterborough (Peterboro),2016,(8)-converted value,4,50% -< 75%,1 Rural,2018
+United States of America,Philadelphia,2016,(20)-converted value,9,>75%,5 Urban And Center City,2018
+United States of America,Philadelphia-Camden-Wilmington,2014,(19)-converted value,10,NA,-,2016
+United States of America,Phoenix,2016,(18)-converted value,9,>75%,"2 Suburban, 3 Urban And Center City",2018
+United States of America,Phoenix-Mesa-Scottsdale,2014,(16)-converted value,9,NA,-,2016
+United States of America,Pierre,2016,(9)-converted value,4,>75%,1 Suburban,2018
+United States of America,Pikeville,2014,(16)-converted value,9,NA,-,2016
+United States of America,Pinehurst (Pine Creek),2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Piru,2016,(17)-converted value,8,>75%,1 Rural,2018
+United States of America,Pittsburgh,2015,(20)-converted value,9,>75%,1 Suburban,2018
+United States of America,Pittsfield,2016,(14)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Pocatello,2014,(13)-converted value,7,NA,-,2016
+United States of America,Ponca City,2016,(15)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Portland,2015,(16)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Portland-Vancouver-Beaverton,2014,(12)-converted value,7,NA,-,2016
+United States of America,Portola,2014,(29)-converted value,16,NA,-,2016
+United States of America,Portsmouth,2016,(12)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Poughkeepsie-Newburgh-Middletown,2014,(13)-converted value,7,NA,-,2016
+United States of America,Presque Isle,2016,(8)-converted value,4,>75%,1 Urban And Center City,2018
+United States of America,Prineville,2014,(18)-converted value,10,NA,-,2016
+United States of America,Providence,2016,(16)-converted value,8,>75%,2 Urban And Center City,2018
+United States of America,Providence-New Bedford-Fall River,2014,(11)-converted value,6,NA,-,2016
+United States of America,Provo,2016,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Provo-Orem,2014,(13)-converted value,7,NA,-,2016
+United States of America,Pueblo,2014,(11)-converted value,6,NA,-,2016
+United States of America,Quincy,2016,(18)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Raleigh,2016,(19)-converted value,9,50% -< 75%,1 Suburban,2018
+United States of America,Raleigh-Cary,2014,(17)-converted value,9,NA,-,2016
+United States of America,Rangely,2016,(16)-converted value,8,>75%,1 Rural,2018
+United States of America,Rapid City,2016,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Reading,2014,(18)-converted value,10,NA,-,2016
+United States of America,Red Lake,2016,(10)-converted value,5,>75%,1 Rural,2018
+United States of America,Redding,2014,(8)-converted value,5,NA,-,2016
+United States of America,Redwood City,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Reno,2016,(13)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Reno-Sparks,2014,(15)-converted value,8,NA,-,2016
+United States of America,Richmond,2016,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Richmond-Berea,2014,(16)-converted value,8,NA,-,2016
+United States of America,Riverside-San Bernardino-Ontario,2014,(20)-converted value,11,NA,-,2016
+United States of America,Roanoke,2014,(15)-converted value,8,NA,-,2016
+United States of America,Rochester,2016,(13)-converted value,6,50% -< 75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,Roosevelt,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,Rubidoux,2016,(26)-converted value,13,50% -< 75%,1 Suburban,2018
+United States of America,Rumford (Census Name For Rumford Compact),2016,(14)-converted value,7,50% -< 75%,1 Rural,2018
+United States of America,Rutland,2016,(14)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Sacramento--Arden-Arcade--Roseville,2014,(14)-converted value,8,NA,-,2016
+United States of America,Saint Petersburg,2015,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Salinas,2016,(12)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Salisbury,2014,(17)-converted value,9,NA,-,2016
+United States of America,Salt Lake City,2016,(18)-converted value,9,>75%,2 Suburban,2018
+United States of America,San Andreas,2016,(17)-converted value,8,>75%,1 Rural,2018
+United States of America,San Antonio,2014,(16)-converted value,9,NA,-,2016
+United States of America,San Diego,2015,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,San Diego-Carlsbad-San Marcos,2014,(15)-converted value,8,NA,-,2016
+United States of America,San Francisco,2016,(16)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,San Francisco-Oakland-Fremont,2014,(16)-converted value,9,NA,-,2016
+United States of America,San Jose,2016,(18)-converted value,9,>75%,2 Urban And Center City,2018
+United States of America,San Jose-Sunnyvale-Santa Clara,2014,(12)-converted value,7,NA,-,2016
+United States of America,San Luis Obispo,2014,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,San Luis Obispo-Paso Robles,2014,(16)-converted value,9,NA,-,2016
+United States of America,San Pablo,2016,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,San Rafael,2016,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Sandersville,2014,(18)-converted value,10,NA,-,2016
+United States of America,Sanford,2014,(20)-converted value,9,>75%,1 Rural,2018
+United States of America,Santa Barbara,2014,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Santa Barbara-Santa Maria-Goleta,2014,(15)-converted value,8,NA,-,2016
+United States of America,Santa Cruz-Watsonville,2014,(10)-converted value,5,NA,-,2016
+United States of America,Santa Maria,2016,(15)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Santa Rosa-Petaluma,2014,(14)-converted value,8,NA,-,2016
+United States of America,Sault Ste. Marie,2015,(18)-converted value,8,>75%,1 Rural,2018
+United States of America,Scranton,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Seaford,2014,(16)-converted value,8,NA,-,2016
+United States of America,Seattle,2016,(12)-converted value,6,>75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,Seattle-Tacoma-Bellevue,2014,(12)-converted value,6,NA,-,2016
+United States of America,Sebastopol,2016,(10)-converted value,5,>75%,1 Urban And Center City,2018
+United States of America,Seiling,2016,(12)-converted value,6,>75%,1 Rural,2018
+United States of America,Sheridan,2014,(10)-converted value,5,NA,-,2016
+United States of America,Sierra Vista-Douglas,2014,(13)-converted value,7,NA,-,2016
+United States of America,Simi Valley,2016,(18)-converted value,9,>75%,1 Suburban,2018
+United States of America,Sinclair,2015,(5)-converted value,2,>75%,1 Suburban,2018
+United States of America,Sioux City,2014,(16)-converted value,8,NA,-,2016
+United States of America,Sioux Falls,2014,(14)-converted value,8,NA,-,2016
+United States of America,Smithfield,2016,(15)-converted value,7,>75%,1 Rural,2018
+United States of America,Somerset,2014,(17)-converted value,9,NA,-,2016
+United States of America,South Bend,2016,(19)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,South Bend-Mishawaka,2014,(19)-converted value,10,NA,-,2016
+United States of America,South Valley,2016,(16)-converted value,8,>75%,1 Rural,2018
+United States of America,Sparks,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,Spartanburg,2016,(18)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Spokane,2014,(13)-converted value,7,NA,-,2016
+United States of America,Springfield,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,Spruce Pine,2014,(14)-converted value,8,NA,-,2016
+United States of America,St. Cloud,2016,(12)-converted value,6,>75%,1 Suburban,2018
+United States of America,St. Joseph,2016,(16)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,St. Louis,2016,(18)-converted value,9,>75%,"1 Suburban, 3 Urban And Center City",2018
+United States of America,St. Michael,2016,(13)-converted value,6,>75%,1 Suburban,2018
+United States of America,St. Paul,2016,(14)-converted value,7,>75%,"1 Suburban, 1 Urban And Center City",2018
+United States of America,State College,2015,(18)-converted value,9,>75%,1 Rural,2018
+United States of America,Steubenville,2015,(25)-converted value,12,50% -< 75%,1 Urban And Center City,2018
+United States of America,Stockton,2016,(26)-converted value,13,>75%,1 Urban And Center City,2018
+United States of America,Stuttgart,2014,(17)-converted value,9,NA,-,2016
+United States of America,Sunrise Manor,2014,(19)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Syracuse,2014,(12)-converted value,7,NA,-,2016
+United States of America,Tacoma,2016,(15)-converted value,7,50% -< 75%,1 Suburban,2018
+United States of America,Talladega-Sylacauga,2014,(17)-converted value,9,NA,-,2016
+United States of America,Tallahassee,2014,(17)-converted value,9,NA,-,2016
+United States of America,Tampa,2015,(20)-converted value,10,>75%,1 Suburban,2018
+United States of America,Tampa-St. Petersburg-Clearwater,2014,(12)-converted value,7,NA,-,2016
+United States of America,Tempe,2016,(15)-converted value,7,>75%,2 Urban And Center City,2018
+United States of America,Terre Haute,2016,(18)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Texarkana,2014,(18)-converted value,10,NA,-,2016
+United States of America,Thomasville-Lexington,2014,(18)-converted value,10,NA,-,2016
+United States of America,Thousand Oaks,2016,(20)-converted value,10,>75%,1 Suburban,2018
+United States of America,Toledo,2014,(19)-converted value,10,NA,-,2016
+United States of America,Toms River,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Tooele,2014,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Topeka,2014,(16)-converted value,8,NA,-,2016
+United States of America,Torrington,2016,(8)-converted value,4,>75%,1 Rural,2018
+United States of America,Trenton,2016,(15)-converted value,7,>75%,1 Urban And Center City,2018
+United States of America,Trenton-Ewing,2014,(15)-converted value,8,NA,-,2016
+United States of America,Tucson,2014,(11)-converted value,6,NA,-,2016
+United States of America,Tulsa,2014,(19)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Tuscaloosa,2014,(17)-converted value,9,NA,-,2016
+United States of America,Ukiah,2016,(13)-converted value,6,>75%,1 Suburban,2018
+United States of America,Underhill (Town Of),2016,(7)-converted value,3,50% -< 75%,1 Rural,2018
+United States of America,Valdosta,2014,(17)-converted value,9,NA,-,2016
+United States of America,Vallejo,2016,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Vallejo-Fairfield,2014,(18)-converted value,10,NA,-,2016
+United States of America,Valrico,2016,(15)-converted value,7,>75%,1 Rural,2018
+United States of America,Victorville,2016,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Vineland,2016,(16)-converted value,8,>75%,1 Rural,2018
+United States of America,Vinton,2015,(16)-converted value,8,>75%,1 Suburban,2018
+United States of America,Virginia,2016,(8)-converted value,4,>75%,1 Urban And Center City,2018
+United States of America,Virginia Beach,2016,(14)-converted value,7,>75%,1 Suburban,2018
+United States of America,Virginia Beach-Norfolk-Newport News,2014,(15)-converted value,8,NA,-,2016
+United States of America,Visalia-Porterville,2014,(33)-converted value,18,NA,-,2016
+United States of America,Ware (Census Name For Ware Center),2016,(10)-converted value,5,>75%,1 Rural,2018
+United States of America,Warner Robins,2014,(17)-converted value,9,NA,-,2016
+United States of America,Washington,2016,(15)-converted value,7,>75%,1 Suburban,2018
+United States of America,Washington-Arlington-Alexandria,2014,(16)-converted value,9,NA,-,2016
+United States of America,Wasilla,2014,(8)-converted value,4,>75%,1 Suburban,2018
+United States of America,Waterbury,2014,(18)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,Waterloo-Cedar Falls,2014,(17)-converted value,9,NA,-,2016
+United States of America,Watertown,2016,(11)-converted value,5,>75%,1 Urban And Center City,2018
+United States of America,Weirton-Steubenville,2014,(20)-converted value,11,NA,-,2016
+United States of America,Wenden,2016,(5)-converted value,2,>75%,1 Rural,2018
+United States of America,Wheeling,2014,(19)-converted value,10,NA,-,2016
+United States of America,Wichita,2014,(17)-converted value,9,NA,-,2016
+United States of America,Wilkinsburg,2016,(22)-converted value,11,>75%,1 Suburban,2018
+United States of America,Williston,2016,(5)-converted value,2,>75%,1 Suburban,2018
+United States of America,Willits,2016,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Wilmington,2016,(19)-converted value,9,>75%,1 Urban And Center City,2018
+United States of America,Winchester,2014,(17)-converted value,9,NA,-,2016
+United States of America,Winona,2014,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Winston-Salem,2015,(17)-converted value,8,>75%,1 Urban And Center City,2018
+United States of America,Winter Park,2015,(13)-converted value,6,>75%,1 Urban And Center City,2018
+United States of America,Worcester,2016,(12)-converted value,6,50% -< 75%,1 Urban And Center City,2018
+United States of America,Yakima,2016,(18)-converted value,9,50% -< 75%,1 Urban And Center City,2018
+United States of America,York,2016,(19)-converted value,9,>75%,1 Suburban,2018
+United States of America,Youngstown-Warren-Boardman,2014,(20)-converted value,11,NA,-,2016
+United States of America,Yreka,2014,(17)-converted value,9,NA,-,2016
+United States of America,Yuba City,2016,(17)-converted value,8,>75%,1 Suburban,2018
+United States of America,Yuma,2016,(17)-converted value,8,>75%,1 Urban And Center City,2018

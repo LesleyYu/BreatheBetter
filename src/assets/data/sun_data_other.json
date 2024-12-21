@@ -1,0 +1,60 @@
+{
+    "name": "Pollutant",
+    "children": [
+        {
+            "name": "Organic Compounds",
+            "children": [
+                {
+                    "name": "Methane (CH4)",
+                    "value": 0.000192,
+                    "pollutant": true
+                },
+                {
+                    "name": "Carbon Monoxide (CO)",
+                    "value": 1e-05,
+                    "pollutant": true
+                },
+                {
+                    "name": "Ammonia (NH3)",
+                    "value": 0,
+                    "pollutant": true
+                }
+            ]
+        },
+        {
+            "name": "Greenhouse Gases",
+            "children": [
+                {
+                    "name": "Carbon Dioxide (CO2)",
+                    "value": 0.042,
+                    "pollutant": true
+                },
+                {
+                    "name": "Nitrous Oxide (N2O)",
+                    "value": 3.3e-05,
+                    "pollutant": true
+                },
+                {
+                    "name": "Methane (CH4)",
+                    "value": 0.000192,
+                    "pollutant": true
+                }
+            ]
+        },
+        {
+            "name": "Reactive Gases",
+            "children": [
+                {
+                    "name": "Ozone (O3)",
+                    "value": 7e-06,
+                    "pollutant": true
+                },
+                {
+                    "name": "Nitrogen Dioxide (NO2)",
+                    "value": 2e-06,
+                    "pollutant": true
+                }
+            ]
+        }
+    ]
+}

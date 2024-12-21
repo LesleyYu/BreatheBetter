@@ -1,0 +1,4258 @@
+City or Locality,Measurement Year,PM2.5 (μg/m3),PM10 (μg/m3),NO2 (μg/m3),lat,lng
+Aberdeen (Sd),2011,,15.8,,45.4649,-98.4686
+Aberdeen (Sd),2011,,15.8,,46.9757,-123.8094
+Aberdeen (Sd),2011,,15.8,,39.5151,-76.1733
+Aberdeen (Sd),2011,,15.8,,35.135,-79.4326
+Aberdeen (Sd),2011,,15.8,,33.8287,-88.5539
+Aberdeen (Sd),2011,,15.8,,42.9441,-112.8384
+Aberdeen (Sd),2011,,15.8,,41.4418,-87.1167
+Aberdeen (Sd),2011,,15.8,,38.6713,-83.7704
+Albany-Schenectady-Troy (Ny),2010,7.9,,,,
+Albuquerque (Nm),2010,,23.4,,35.1054,-106.6465
+Albuquerque (Nm),2011,6.9,27.95,25.1,35.1054,-106.6465
+Albuquerque (Nm),2012,,30.95,,35.1054,-106.6465
+Albuquerque (Nm),2013,,27.8,,35.1054,-106.6465
+Albuquerque (Nm),2014,,28.77,22.0,35.1054,-106.6465
+Albuquerque (Nm),2015,,32.3,20.8,35.1054,-106.6465
+Albuquerque (Nm),2016,,33.5,,35.1054,-106.6465
+Albuquerque (Nm),2017,,32.0,,35.1054,-106.6465
+Albuquerque (Nm),2018,,42.4,,35.1054,-106.6465
+Albuquerque (Nm),2019,,18.3,17.7,35.1054,-106.6465
+Alexandria (La),2013,7.3,,,38.8185,-77.0861
+Alexandria (La),2013,7.3,,,31.2923,-92.4702
+Alexandria (La),2013,7.3,,,45.8776,-95.3767
+Alexandria (La),2013,7.3,,,38.9621,-84.3859
+Alexandria (La),2013,7.3,,,40.263,-85.6737
+Alexandria (La),2013,7.3,,,33.7675,-85.8792
+Alexandria (La),2013,7.3,,,36.0791,-86.0382
+Alexandria (La),2013,7.3,,,43.6541,-97.7798
+Alexandria (La),2013,7.3,,,40.09,-82.6118
+Alexandria (La),2013,7.3,,,40.5583,-78.0997
+Alexandria (La),2013,7.3,,,40.2475,-97.3878
+Alexandria (La),2013,7.3,,,40.3598,-91.4595
+Allentown-Bethlehem-Easton (Pa-Nj),2010,,,20.1,,
+Allentown-Bethlehem-Easton (Pa-Nj),2011,,,26.7,,
+Allentown-Bethlehem-Easton (Pa-Nj),2012,,,20.9,,
+Allentown-Bethlehem-Easton (Pa-Nj),2013,,,20.8,,
+Allentown-Bethlehem-Easton (Pa-Nj),2014,,,20.95,,
+Allentown-Bethlehem-Easton (Pa-Nj),2015,,12.9,,,
+Allentown-Bethlehem-Easton (Pa-Nj),2016,,11.5,16.5,,
+Allentown-Bethlehem-Easton (Pa-Nj),2017,,,19.1,,
+Allentown-Bethlehem-Easton (Pa-Nj),2018,,11.3,17.6,,
+Allentown-Bethlehem-Easton (Pa-Nj),2019,,,21.1,,
+Altoona (Pa),2016,,12.3,,40.5082,-78.4007
+Altoona (Pa),2016,,12.3,,41.6483,-93.4783
+Altoona (Pa),2016,,12.3,,44.8029,-91.4385
+Altoona (Pa),2016,,12.3,,34.0308,-86.3179
+Altoona (Pa),2016,,12.3,,37.5249,-95.6615
+Altoona (Pa),2016,,12.3,,46.2699,-123.6144
+Altoona (Pa),2016,,12.3,,28.9681,-81.6482
+Anchorage (Ak),2010,5.55,15.25,,61.1508,-149.1091
+Anchorage (Ak),2010,5.55,15.25,,38.2689,-85.5364
+Anchorage (Ak),2011,5.08,14.07,,61.1508,-149.1091
+Anchorage (Ak),2011,5.08,14.07,,38.2689,-85.5364
+Anchorage (Ak),2012,5.5,14.3,,61.1508,-149.1091
+Anchorage (Ak),2012,5.5,14.3,,38.2689,-85.5364
+Anchorage (Ak),2013,4.88,12.75,,61.1508,-149.1091
+Anchorage (Ak),2013,4.88,12.75,,38.2689,-85.5364
+Anchorage (Ak),2014,5.45,18.9,,61.1508,-149.1091
+Anchorage (Ak),2014,5.45,18.9,,38.2689,-85.5364
+Anchorage (Ak),2015,5.47,15.2,,61.1508,-149.1091
+Anchorage (Ak),2015,5.47,15.2,,38.2689,-85.5364
+Anchorage (Ak),2016,4.97,16.08,,61.1508,-149.1091
+Anchorage (Ak),2016,4.97,16.08,,38.2689,-85.5364
+Anchorage (Ak),2017,4.65,11.85,,61.1508,-149.1091
+Anchorage (Ak),2017,4.65,11.85,,38.2689,-85.5364
+Anchorage (Ak),2018,4.53,10.72,,61.1508,-149.1091
+Anchorage (Ak),2018,4.53,10.72,,38.2689,-85.5364
+Anchorage (Ak),2019,7.35,14.32,,61.1508,-149.1091
+Anchorage (Ak),2019,7.35,14.32,,38.2689,-85.5364
+Athens-Clarke County (Ga),2010,11.3,,,,
+Athens-Clarke County (Ga),2019,9.8,,,,
+Atlanta-Sandy Springs-Roswell (Ga),2010,12.2,,25.7,,
+Atlanta-Sandy Springs-Roswell (Ga),2011,12.9,,,,
+Atlanta-Sandy Springs-Roswell (Ga),2012,10.2,,21.7,,
+Atlanta-Sandy Springs-Roswell (Ga),2013,,,17.5,,
+Atlanta-Sandy Springs-Roswell (Ga),2014,,17.9,19.8,,
+Atlanta-Sandy Springs-Roswell (Ga),2015,,,18.4,,
+Atlanta-Sandy Springs-Roswell (Ga),2016,9.9,16.7,19.8,,
+Atlanta-Sandy Springs-Roswell (Ga),2017,9.8,,16.4,,
+Atlanta-Sandy Springs-Roswell (Ga),2018,9.5,17.1,14.6,,
+Atlanta-Sandy Springs-Roswell (Ga),2019,10.8,,17.6,,
+Augusta-Richmond County (Ga-Sc),2010,,19.1,,,
+Augusta-Richmond County (Ga-Sc),2011,,16.5,,,
+Augusta-Richmond County (Ga-Sc),2017,,23.4,,,
+Augusta-Waterville (Me),2010,,12.6,,,
+Augusta-Waterville (Me),2011,,11.2,,,
+Augusta-Waterville (Me),2012,,13.9,,,
+Augusta-Waterville (Me),2014,,12.9,,,
+Augusta-Waterville (Me),2015,,12.4,,,
+Augusta-Waterville (Me),2017,,11.6,,,
+Augusta-Waterville (Me),2018,,10.1,,,
+Augusta-Waterville (Me),2019,,10.3,,,
+Austin-Round Rock (Tx),2010,,13.8,,,
+Austin-Round Rock (Tx),2013,,,10.3,,
+Austin-Round Rock (Tx),2014,,,9.7,,
+Austin-Round Rock (Tx),2016,,,7.8,,
+Austin-Round Rock (Tx),2018,,17.5,9.3,,
+Austin-Round Rock (Tx),2019,,,9.6,,
+Bakersfield (Ca),2010,12.13,26.2,20.43,35.3529,-119.0359
+Bakersfield (Ca),2010,12.13,26.2,20.43,44.7821,-72.8032
+Bakersfield (Ca),2010,12.13,26.2,20.43,36.5238,-92.1442
+Bakersfield (Ca),2011,12.3,23.55,21.03,35.3529,-119.0359
+Bakersfield (Ca),2011,12.3,23.55,21.03,44.7821,-72.8032
+Bakersfield (Ca),2011,12.3,23.55,21.03,36.5238,-92.1442
+Bakersfield (Ca),2012,13.85,24.6,20.75,35.3529,-119.0359
+Bakersfield (Ca),2012,13.85,24.6,20.75,44.7821,-72.8032
+Bakersfield (Ca),2012,13.85,24.6,20.75,36.5238,-92.1442
+Bakersfield (Ca),2013,17.1,28.4,18.35,35.3529,-119.0359
+Bakersfield (Ca),2013,17.1,28.4,18.35,44.7821,-72.8032
+Bakersfield (Ca),2013,17.1,28.4,18.35,36.5238,-92.1442
+Bakersfield (Ca),2014,20.1,19.75,16.15,35.3529,-119.0359
+Bakersfield (Ca),2014,20.1,19.75,16.15,44.7821,-72.8032
+Bakersfield (Ca),2014,20.1,19.75,16.15,36.5238,-92.1442
+Bakersfield (Ca),2015,13.07,31.75,19.2,35.3529,-119.0359
+Bakersfield (Ca),2015,13.07,31.75,19.2,44.7821,-72.8032
+Bakersfield (Ca),2015,13.07,31.75,19.2,36.5238,-92.1442
+Bakersfield (Ca),2016,15.35,28.8,17.57,35.3529,-119.0359
+Bakersfield (Ca),2016,15.35,28.8,17.57,44.7821,-72.8032
+Bakersfield (Ca),2016,15.35,28.8,17.57,36.5238,-92.1442
+Bakersfield (Ca),2017,17.05,27.07,20.45,35.3529,-119.0359
+Bakersfield (Ca),2017,17.05,27.07,20.45,44.7821,-72.8032
+Bakersfield (Ca),2017,17.05,27.07,20.45,36.5238,-92.1442
+Bakersfield (Ca),2018,18.55,41.6,18.2,35.3529,-119.0359
+Bakersfield (Ca),2018,18.55,41.6,18.2,44.7821,-72.8032
+Bakersfield (Ca),2018,18.55,41.6,18.2,36.5238,-92.1442
+Bakersfield (Ca),2019,12.45,24.75,16.17,35.3529,-119.0359
+Bakersfield (Ca),2019,12.45,24.75,16.17,44.7821,-72.8032
+Bakersfield (Ca),2019,12.45,24.75,16.17,36.5238,-92.1442
+Baltimore-Columbia-Towson (Md),2010,,,33.0,,
+Baltimore-Columbia-Towson (Md),2011,11.6,,28.75,,
+Baltimore-Columbia-Towson (Md),2012,,,26.3,,
+Baltimore-Columbia-Towson (Md),2013,,13.4,24.1,,
+Baltimore-Columbia-Towson (Md),2014,,,25.05,,
+Baltimore-Columbia-Towson (Md),2015,,,25.85,,
+Baltimore-Columbia-Towson (Md),2016,,,24.1,,
+Baltimore-Columbia-Towson (Md),2017,,,22.15,,
+Baltimore-Columbia-Towson (Md),2018,,11.5,,,
+Bangor (Me),2011,,13.6,,44.8323,-68.7906
+Bangor (Me),2011,,13.6,,40.8678,-75.2085
+Bangor (Me),2011,,13.6,,42.312,-86.1135
+Bangor (Me),2011,,13.6,,43.8937,-90.9934
+Bangor (Me),2011,,13.6,,39.3761,-121.4117
+Bangor (Me),2016,,13.1,,44.8323,-68.7906
+Bangor (Me),2016,,13.1,,40.8678,-75.2085
+Bangor (Me),2016,,13.1,,42.312,-86.1135
+Bangor (Me),2016,,13.1,,43.8937,-90.9934
+Bangor (Me),2016,,13.1,,39.3761,-121.4117
+Bangor (Me),2017,,15.7,,44.8323,-68.7906
+Bangor (Me),2017,,15.7,,40.8678,-75.2085
+Bangor (Me),2017,,15.7,,42.312,-86.1135
+Bangor (Me),2017,,15.7,,43.8937,-90.9934
+Bangor (Me),2017,,15.7,,39.3761,-121.4117
+Bar Harbor,2010,,6.2,,,
+Bar Harbor,2011,,6.8,,,
+Bar Harbor,2012,,6.3,,,
+Bar Harbor,2013,,5.5,,,
+Bar Harbor,2014,,5.7,,,
+Bar Harbor,2015,,5.8,,,
+Bar Harbor,2016,,4.5,,,
+Bar Harbor,2017,,5.1,,,
+Bar Harbor,2018,,5.0,,,
+Bar Harbor,2019,,5.1,,,
+Baraboo (Wi),2011,,8.5,,43.4695,-89.7376
+Baraboo (Wi),2016,,9.0,,43.4695,-89.7376
+Baraboo (Wi),2017,,9.7,,43.4695,-89.7376
+Baton Rouge (La),2010,,27.8,16.38,30.442,-91.1311
+Baton Rouge (La),2011,,,11.57,30.442,-91.1311
+Baton Rouge (La),2012,,25.0,14.7,30.442,-91.1311
+Baton Rouge (La),2013,,,11.93,30.442,-91.1311
+Baton Rouge (La),2014,9.2,,10.18,30.442,-91.1311
+Baton Rouge (La),2015,,,11.8,30.442,-91.1311
+Baton Rouge (La),2016,,,11.93,30.442,-91.1311
+Baton Rouge (La),2017,,22.0,12.43,30.442,-91.1311
+Baton Rouge (La),2018,,26.5,10.48,30.442,-91.1311
+Baton Rouge (La),2019,8.9,,8.47,30.442,-91.1311
+Beaumont-Port Arthur (Tx),2010,,,9.9,,
+Beaumont-Port Arthur (Tx),2012,,,8.7,,
+Beaumont-Port Arthur (Tx),2013,,,10.1,,
+Beaumont-Port Arthur (Tx),2014,,,4.6,,
+Beaumont-Port Arthur (Tx),2015,,,6.1,,
+Beaumont-Port Arthur (Tx),2016,,,7.35,,
+Beaumont-Port Arthur (Tx),2017,,,5.25,,
+Beaumont-Port Arthur (Tx),2018,,,4.4,,
+Beaumont-Port Arthur (Tx),2019,,,8.13,,
+Beaver Dam (Wi),2013,,10.3,,43.4688,-88.8309
+Beaver Dam (Wi),2013,,10.3,,37.4042,-86.8741
+Beaver Dam (Wi),2013,,10.3,,36.907,-113.9362
+Beaver Dam (Wi),2013,,10.3,,41.0937,-85.9757
+Beaver Dam (Wi),2015,,10.8,,43.4688,-88.8309
+Beaver Dam (Wi),2015,,10.8,,37.4042,-86.8741
+Beaver Dam (Wi),2015,,10.8,,36.907,-113.9362
+Beaver Dam (Wi),2015,,10.8,,41.0937,-85.9757
+Beaver Dam (Wi),2016,,10.2,,43.4688,-88.8309
+Beaver Dam (Wi),2016,,10.2,,37.4042,-86.8741
+Beaver Dam (Wi),2016,,10.2,,36.907,-113.9362
+Beaver Dam (Wi),2016,,10.2,,41.0937,-85.9757
+Beaver Dam (Wi),2017,,8.5,,43.4688,-88.8309
+Beaver Dam (Wi),2017,,8.5,,37.4042,-86.8741
+Beaver Dam (Wi),2017,,8.5,,36.907,-113.9362
+Beaver Dam (Wi),2017,,8.5,,41.0937,-85.9757
+Birmingham-Hoover (Al),2010,12.77,26.08,,,
+Birmingham-Hoover (Al),2011,12.43,21.56,,,
+Birmingham-Hoover (Al),2012,10.93,20.15,,,
+Birmingham-Hoover (Al),2013,10.25,17.1,,,
+Birmingham-Hoover (Al),2014,11.0,19.9,,,
+Birmingham-Hoover (Al),2015,10.2,18.2,,,
+Birmingham-Hoover (Al),2016,9.2,18.5,,,
+Birmingham-Hoover (Al),2017,9.85,17.44,,,
+Birmingham-Hoover (Al),2018,9.07,18.24,,,
+Birmingham-Hoover (Al),2019,9.23,20.58,,,
+Bishop (Ca),2010,,24.0,,37.3665,-118.3958
+Bishop (Ca),2010,,24.0,,27.5852,-97.7975
+Bishop (Ca),2010,,24.0,,33.8171,-83.4372
+Bishop (Ca),2011,8.1,20.53,,37.3665,-118.3958
+Bishop (Ca),2011,8.1,20.53,,27.5852,-97.7975
+Bishop (Ca),2011,8.1,20.53,,33.8171,-83.4372
+Bishop (Ca),2012,,22.82,,37.3665,-118.3958
+Bishop (Ca),2012,,22.82,,27.5852,-97.7975
+Bishop (Ca),2012,,22.82,,33.8171,-83.4372
+Bishop (Ca),2013,,18.6,,37.3665,-118.3958
+Bishop (Ca),2013,,18.6,,27.5852,-97.7975
+Bishop (Ca),2013,,18.6,,33.8171,-83.4372
+Bishop (Ca),2014,,17.8,,37.3665,-118.3958
+Bishop (Ca),2014,,17.8,,27.5852,-97.7975
+Bishop (Ca),2014,,17.8,,33.8171,-83.4372
+Bishop (Ca),2015,,15.68,,37.3665,-118.3958
+Bishop (Ca),2015,,15.68,,27.5852,-97.7975
+Bishop (Ca),2015,,15.68,,33.8171,-83.4372
+Bishop (Ca),2016,6.6,17.93,,37.3665,-118.3958
+Bishop (Ca),2016,6.6,17.93,,27.5852,-97.7975
+Bishop (Ca),2016,6.6,17.93,,33.8171,-83.4372
+Bishop (Ca),2017,,22.42,,37.3665,-118.3958
+Bishop (Ca),2017,,22.42,,27.5852,-97.7975
+Bishop (Ca),2017,,22.42,,33.8171,-83.4372
+Bishop (Ca),2018,,18.21,,37.3665,-118.3958
+Bishop (Ca),2018,,18.21,,27.5852,-97.7975
+Bishop (Ca),2018,,18.21,,33.8171,-83.4372
+Bishop (Ca),2019,,14.78,,37.3665,-118.3958
+Bishop (Ca),2019,,14.78,,27.5852,-97.7975
+Bishop (Ca),2019,,14.78,,33.8171,-83.4372
+Bismarck (Nd),2010,,13.9,,46.8143,-100.7694
+Bismarck (Nd),2010,,13.9,,37.7674,-90.6224
+Bismarck (Nd),2010,,13.9,,40.2594,-87.6112
+Bismarck (Nd),2010,,13.9,,34.3178,-93.178
+Bismarck (Nd),2011,,7.4,5.75,46.8143,-100.7694
+Bismarck (Nd),2011,,7.4,5.75,37.7674,-90.6224
+Bismarck (Nd),2011,,7.4,5.75,40.2594,-87.6112
+Bismarck (Nd),2011,,7.4,5.75,34.3178,-93.178
+Bismarck (Nd),2012,,14.0,4.0,46.8143,-100.7694
+Bismarck (Nd),2012,,14.0,4.0,37.7674,-90.6224
+Bismarck (Nd),2012,,14.0,4.0,40.2594,-87.6112
+Bismarck (Nd),2012,,14.0,4.0,34.3178,-93.178
+Bismarck (Nd),2013,,,6.7,46.8143,-100.7694
+Bismarck (Nd),2013,,,6.7,37.7674,-90.6224
+Bismarck (Nd),2013,,,6.7,40.2594,-87.6112
+Bismarck (Nd),2013,,,6.7,34.3178,-93.178
+Bismarck (Nd),2014,4.9,,7.25,46.8143,-100.7694
+Bismarck (Nd),2014,4.9,,7.25,37.7674,-90.6224
+Bismarck (Nd),2014,4.9,,7.25,40.2594,-87.6112
+Bismarck (Nd),2014,4.9,,7.25,34.3178,-93.178
+Bismarck (Nd),2016,3.2,,,46.8143,-100.7694
+Bismarck (Nd),2016,3.2,,,37.7674,-90.6224
+Bismarck (Nd),2016,3.2,,,40.2594,-87.6112
+Bismarck (Nd),2016,3.2,,,34.3178,-93.178
+Bismarck (Nd),2017,,13.2,,46.8143,-100.7694
+Bismarck (Nd),2017,,13.2,,37.7674,-90.6224
+Bismarck (Nd),2017,,13.2,,40.2594,-87.6112
+Bismarck (Nd),2017,,13.2,,34.3178,-93.178
+Bismarck (Nd),2018,,,9.2,46.8143,-100.7694
+Bismarck (Nd),2018,,,9.2,37.7674,-90.6224
+Bismarck (Nd),2018,,,9.2,40.2594,-87.6112
+Bismarck (Nd),2018,,,9.2,34.3178,-93.178
+Bismarck (Nd),2019,4.4,9.0,6.5,46.8143,-100.7694
+Bismarck (Nd),2019,4.4,9.0,6.5,37.7674,-90.6224
+Bismarck (Nd),2019,4.4,9.0,6.5,40.2594,-87.6112
+Bismarck (Nd),2019,4.4,9.0,6.5,34.3178,-93.178
+Bloomington (In),2016,7.8,,,40.4757,-88.9703
+Bloomington (In),2016,7.8,,,39.1637,-86.5257
+Bloomington (In),2016,7.8,,,44.8306,-93.3151
+Bloomington (In),2016,7.8,,,34.0601,-117.4013
+Bloomington (In),2016,7.8,,,28.6504,-96.9022
+Bloomington (In),2016,7.8,,,42.8931,-90.9264
+Bloomington (In),2016,7.8,,,42.1908,-111.4042
+Bloomington (In),2016,7.8,,,39.4794,-79.0768
+Bloomington (In),2016,7.8,,,40.0938,-99.0384
+Boise City (Id),2010,,18.4,,36.7313,-102.5095
+Boise City (Id),2012,,26.4,,36.7313,-102.5095
+Boise City (Id),2013,,24.15,,36.7313,-102.5095
+Boise City (Id),2016,,21.0,,36.7313,-102.5095
+Boise City (Id),2017,,22.7,,36.7313,-102.5095
+Boise City (Id),2018,,20.5,,36.7313,-102.5095
+Boise City (Id),2019,,21.9,,36.7313,-102.5095
+Boston-Cambridge-Newton (Ma-Nh),2010,,14.2,27.23,,
+Boston-Cambridge-Newton (Ma-Nh),2011,,,25.02,,
+Boston-Cambridge-Newton (Ma-Nh),2012,,14.2,22.15,,
+Boston-Cambridge-Newton (Ma-Nh),2013,6.3,15.2,24.63,,
+Boston-Cambridge-Newton (Ma-Nh),2014,,,30.95,,
+Boston-Cambridge-Newton (Ma-Nh),2015,,11.7,20.95,,
+Boston-Cambridge-Newton (Ma-Nh),2016,,,20.07,,
+Boston-Cambridge-Newton (Ma-Nh),2017,4.7,,17.67,,
+Boston-Cambridge-Newton (Ma-Nh),2018,5.35,9.0,15.4,,
+Boston-Cambridge-Newton (Ma-Nh),2019,,10.1,17.67,,
+Boulder (Co),2011,5.8,,,40.0248,-105.2524
+Boulder (Co),2011,5.8,,,46.2359,-112.1198
+Boulder (Co),2011,5.8,,,37.9228,-111.4319
+Boulder (Co),2011,5.8,,,42.7461,-109.7067
+Boulder (Co),2012,,20.8,,40.0248,-105.2524
+Boulder (Co),2012,,20.8,,46.2359,-112.1198
+Boulder (Co),2012,,20.8,,37.9228,-111.4319
+Boulder (Co),2012,,20.8,,42.7461,-109.7067
+Boulder (Co),2013,6.0,23.3,,40.0248,-105.2524
+Boulder (Co),2013,6.0,23.3,,46.2359,-112.1198
+Boulder (Co),2013,6.0,23.3,,37.9228,-111.4319
+Boulder (Co),2013,6.0,23.3,,42.7461,-109.7067
+Boulder (Co),2014,7.5,23.7,,40.0248,-105.2524
+Boulder (Co),2014,7.5,23.7,,46.2359,-112.1198
+Boulder (Co),2014,7.5,23.7,,37.9228,-111.4319
+Boulder (Co),2014,7.5,23.7,,42.7461,-109.7067
+Boulder (Co),2015,6.5,19.8,,40.0248,-105.2524
+Boulder (Co),2015,6.5,19.8,,46.2359,-112.1198
+Boulder (Co),2015,6.5,19.8,,37.9228,-111.4319
+Boulder (Co),2015,6.5,19.8,,42.7461,-109.7067
+Boulder (Co),2016,6.9,20.8,,40.0248,-105.2524
+Boulder (Co),2016,6.9,20.8,,46.2359,-112.1198
+Boulder (Co),2016,6.9,20.8,,37.9228,-111.4319
+Boulder (Co),2016,6.9,20.8,,42.7461,-109.7067
+Boulder (Co),2018,6.4,20.4,,40.0248,-105.2524
+Boulder (Co),2018,6.4,20.4,,46.2359,-112.1198
+Boulder (Co),2018,6.4,20.4,,37.9228,-111.4319
+Boulder (Co),2018,6.4,20.4,,42.7461,-109.7067
+Boulder (Co),2019,,20.9,,40.0248,-105.2524
+Boulder (Co),2019,,20.9,,46.2359,-112.1198
+Boulder (Co),2019,,20.9,,37.9228,-111.4319
+Boulder (Co),2019,,20.9,,42.7461,-109.7067
+Bridgeport-Stamford-Norwalk (Ct),2010,9.1,,,,
+Bridgeport-Stamford-Norwalk (Ct),2011,9.6,,,,
+Bridgeport-Stamford-Norwalk (Ct),2012,8.4,16.7,,,
+Bridgeport-Stamford-Norwalk (Ct),2013,7.8,15.8,,,
+Bridgeport-Stamford-Norwalk (Ct),2014,,17.8,,,
+Bridgeport-Stamford-Norwalk (Ct),2015,9.5,,,,
+Bridgeport-Stamford-Norwalk (Ct),2016,,14.1,,,
+Bridgeport-Stamford-Norwalk (Ct),2017,6.9,12.2,,,
+Bridgeport-Stamford-Norwalk (Ct),2018,,14.2,,,
+Broadus,2012,,,1.9,45.4429,-105.4083
+Broadus,2013,,24.1,1.7,45.4429,-105.4083
+Broadus,2014,,,1.8,45.4429,-105.4083
+Broadus,2015,,27.4,,45.4429,-105.4083
+Broadus,2017,,,1.6,45.4429,-105.4083
+Broadus,2018,,20.1,1.7,45.4429,-105.4083
+Buffalo-Cheektowaga-Niagara Falls (Ny),2010,,,24.4,,
+Buffalo-Cheektowaga-Niagara Falls (Ny),2012,,,19.7,,
+Buffalo-Cheektowaga-Niagara Falls (Ny),2013,,,19.5,,
+Buffalo-Cheektowaga-Niagara Falls (Ny),2015,,,20.9,,
+Buffalo-Cheektowaga-Niagara Falls (Ny),2019,,,17.8,,
+Burlington-South Burlington (Vt),2010,,7.4,16.1,,
+Burlington-South Burlington (Vt),2012,4.6,6.8,,,
+Burlington-South Burlington (Vt),2013,4.8,6.6,,,
+Burlington-South Burlington (Vt),2014,3.8,6.8,12.9,,
+Burlington-South Burlington (Vt),2015,3.5,7.8,,,
+Burlington-South Burlington (Vt),2016,,6.4,,,
+Burlington-South Burlington (Vt),2017,,5.9,,,
+Burlington-South Burlington (Vt),2018,,5.6,,,
+Burlington-South Burlington (Vt),2019,4.5,4.9,,,
+Butte-Silver Bow (Mt),2010,,29.5,,,
+Butte-Silver Bow (Mt),2012,,27.8,,,
+Butte-Silver Bow (Mt),2014,,20.3,,,
+Butte-Silver Bow (Mt),2015,10.5,19.3,,,
+Butte-Silver Bow (Mt),2017,,18.6,,,
+Butte-Silver Bow (Mt),2019,,20.1,,,
+Cadillac (Mi),2011,,,1.9,44.2493,-85.4164
+Cadillac (Mi),2012,,,2.6,44.2493,-85.4164
+Cadillac (Mi),2013,,,2.6,44.2493,-85.4164
+Cadillac (Mi),2014,,,2.3,44.2493,-85.4164
+Cadillac (Mi),2017,4.8,,2.7,44.2493,-85.4164
+Cadillac (Mi),2018,,,2.6,44.2493,-85.4164
+Cadillac (Mi),2019,,,2.0,44.2493,-85.4164
+Canon City (Co),2012,,19.6,,,
+Canon City (Co),2013,,20.6,,,
+Canon City (Co),2017,,15.4,,,
+Canton-Massillon (Oh),2010,14.4,,,,
+Canton-Massillon (Oh),2011,12.8,,,,
+Cape Coral-Fort Myers (Fl),2011,,15.3,,,
+Cape Coral-Fort Myers (Fl),2014,,14.1,,,
+Cape Coral-Fort Myers (Fl),2016,5.7,14.0,,,
+Cape Coral-Fort Myers (Fl),2017,,15.6,,,
+Cape Coral-Fort Myers (Fl),2018,,16.7,,,
+Carlsbad-Artesia (Nm),2011,,,4.9,,
+Carlsbad-Artesia (Nm),2013,,,4.5,,
+Carlsbad-Artesia (Nm),2014,,,4.9,,
+Carlsbad-Artesia (Nm),2015,,,4.5,,
+Carlsbad-Artesia (Nm),2018,,,9.7,,
+Carlsbad-Artesia (Nm),2019,,,9.5,,
+Cedar Rapids (Ia),2012,,22.8,,41.9662,-91.6783
+Cedar Rapids (Ia),2012,,22.8,,41.5589,-98.1493
+Cedar Rapids (Ia),2013,,21.7,,41.9662,-91.6783
+Cedar Rapids (Ia),2013,,21.7,,41.5589,-98.1493
+Cedar Rapids (Ia),2019,,17.5,,41.9662,-91.6783
+Cedar Rapids (Ia),2019,,17.5,,41.5589,-98.1493
+Central Mckenzie,2010,,8.7,2.2,,
+Central Mckenzie,2011,,7.8,2.1,,
+Central Mckenzie,2012,,9.5,2.3,,
+Central Mckenzie,2013,3.6,7.1,2.2,,
+Central Mckenzie,2014,2.9,5.9,,,
+Central Mckenzie,2015,,5.9,3.1,,
+Central Mckenzie,2016,1.8,3.8,2.4,,
+Central Mckenzie,2018,5.2,10.3,3.1,,
+Central Mckenzie,2019,,7.4,3.2,,
+Charleston-North Charleston (Sc),2010,,,8.55,,
+Charleston-North Charleston (Sc),2011,,,12.4,,
+Charleston-North Charleston (Sc),2012,,,12.7,,
+Charleston-North Charleston (Sc),2013,,,12.5,,
+Charleston-North Charleston (Sc),2014,,,7.65,,
+Charleston-North Charleston (Sc),2015,,,11.0,,
+Charleston-North Charleston (Sc),2016,,,6.3,,
+Charleston-North Charleston (Sc),2017,,,7.85,,
+Charleston-North Charleston (Sc),2018,,,2.4,,
+Charleston-North Charleston (Sc),2019,,,11.7,,
+Charlotte-Concord-Gastonia (Nc-Sc),2010,,,22.1,,
+Charlotte-Concord-Gastonia (Nc-Sc),2011,,15.9,,,
+Charlotte-Concord-Gastonia (Nc-Sc),2013,,,15.9,,
+Charlotte-Concord-Gastonia (Nc-Sc),2014,,,16.0,,
+Charlotte-Concord-Gastonia (Nc-Sc),2015,,16.9,15.2,,
+Charlotte-Concord-Gastonia (Nc-Sc),2017,,11.5,,,
+Charlotte-Concord-Gastonia (Nc-Sc),2018,,,11.8,,
+Cheyenne (Wy),2011,4.35,11.6,,41.135,-104.7902
+Cheyenne (Wy),2011,4.35,11.6,,35.6109,-99.6763
+Cheyenne (Wy),2012,,13.5,7.1,41.135,-104.7902
+Cheyenne (Wy),2012,,13.5,7.1,35.6109,-99.6763
+Cheyenne (Wy),2013,3.25,10.0,,41.135,-104.7902
+Cheyenne (Wy),2013,3.25,10.0,,35.6109,-99.6763
+Cheyenne (Wy),2014,,,6.8,41.135,-104.7902
+Cheyenne (Wy),2014,,,6.8,35.6109,-99.6763
+Cheyenne (Wy),2015,,9.4,,41.135,-104.7902
+Cheyenne (Wy),2015,,9.4,,35.6109,-99.6763
+Cheyenne (Wy),2017,3.4,,6.9,41.135,-104.7902
+Cheyenne (Wy),2017,3.4,,6.9,35.6109,-99.6763
+Cheyenne (Wy),2018,4.7,,7.0,41.135,-104.7902
+Cheyenne (Wy),2018,4.7,,7.0,35.6109,-99.6763
+Cheyenne (Wy),2019,,10.0,,41.135,-104.7902
+Cheyenne (Wy),2019,,10.0,,35.6109,-99.6763
+Chicago-Naperville-Elgin (Il-In-Wi),2010,14.63,22.65,37.33,,
+Chicago-Naperville-Elgin (Il-In-Wi),2011,13.4,22.98,34.38,,
+Chicago-Naperville-Elgin (Il-In-Wi),2012,12.03,23.85,35.0,,
+Chicago-Naperville-Elgin (Il-In-Wi),2013,12.2,27.2,34.98,,
+Chicago-Naperville-Elgin (Il-In-Wi),2014,12.0,24.03,32.2,,
+Chicago-Naperville-Elgin (Il-In-Wi),2015,10.75,26.8,27.2,,
+Chicago-Naperville-Elgin (Il-In-Wi),2016,,21.77,26.64,,
+Chicago-Naperville-Elgin (Il-In-Wi),2017,,21.9,25.77,,
+Chicago-Naperville-Elgin (Il-In-Wi),2018,10.7,22.0,27.92,,
+Chicago-Naperville-Elgin (Il-In-Wi),2019,,18.86,27.27,,
+Chico (Ca),2012,,,15.0,39.7578,-121.8161
+Chico (Ca),2012,,,15.0,47.6226,-122.7193
+Chico (Ca),2012,,,15.0,33.296,-97.7986
+Chico (Ca),2013,,,15.7,39.7578,-121.8161
+Chico (Ca),2013,,,15.7,47.6226,-122.7193
+Chico (Ca),2013,,,15.7,33.296,-97.7986
+Chico (Ca),2014,,,13.2,39.7578,-121.8161
+Chico (Ca),2014,,,13.2,47.6226,-122.7193
+Chico (Ca),2014,,,13.2,33.296,-97.7986
+Chico (Ca),2015,,,12.6,39.7578,-121.8161
+Chico (Ca),2015,,,12.6,47.6226,-122.7193
+Chico (Ca),2015,,,12.6,33.296,-97.7986
+Chico (Ca),2016,,,11.2,39.7578,-121.8161
+Chico (Ca),2016,,,11.2,47.6226,-122.7193
+Chico (Ca),2016,,,11.2,33.296,-97.7986
+Chico (Ca),2017,,,11.8,39.7578,-121.8161
+Chico (Ca),2017,,,11.8,47.6226,-122.7193
+Chico (Ca),2017,,,11.8,33.296,-97.7986
+Chico (Ca),2018,,,12.8,39.7578,-121.8161
+Chico (Ca),2018,,,12.8,47.6226,-122.7193
+Chico (Ca),2018,,,12.8,33.296,-97.7986
+Cincinnati (Oh-Ky-In),2010,14.15,,18.0,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2010,14.15,,18.0,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2010,14.15,,18.0,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2011,13.2,,15.55,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2011,13.2,,15.55,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2011,13.2,,15.55,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2012,12.65,35.1,6.7,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2012,12.65,35.1,6.7,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2012,12.65,35.1,6.7,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2013,,30.25,22.4,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2013,,30.25,22.4,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2013,,30.25,22.4,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2014,12.9,25.7,14.65,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2014,12.9,25.7,14.65,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2014,12.9,25.7,14.65,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2016,,35.9,4.3,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2016,,35.9,4.3,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2016,,35.9,4.3,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2017,10.3,20.48,9.7,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2017,10.3,20.48,9.7,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2017,10.3,20.48,9.7,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2018,10.35,26.8,17.9,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2018,10.35,26.8,17.9,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2018,10.35,26.8,17.9,40.6309,-92.9222
+Cincinnati (Oh-Ky-In),2019,,40.1,17.2,39.1413,-84.506
+Cincinnati (Oh-Ky-In),2019,,40.1,17.2,36.0405,-94.5185
+Cincinnati (Oh-Ky-In),2019,,40.1,17.2,40.6309,-92.9222
+Claremont-Lebanon (Nh-Vt),2013,6.1,,,,
+Cleveland-Elyria (Oh),2010,13.5,24.1,29.7,,
+Cleveland-Elyria (Oh),2011,,23.0,28.7,,
+Cleveland-Elyria (Oh),2012,13.2,23.75,,,
+Cleveland-Elyria (Oh),2013,12.1,22.9,,,
+Cleveland-Elyria (Oh),2014,,21.85,23.1,,
+Cleveland-Elyria (Oh),2015,,24.9,24.3,,
+Cleveland-Elyria (Oh),2016,,24.73,20.8,,
+Cleveland-Elyria (Oh),2017,11.2,20.73,,,
+Cleveland-Elyria (Oh),2018,,21.77,21.2,,
+Cleveland-Elyria (Oh),2019,10.2,15.6,,,
+Clinton (Ia),2018,9.0,,,38.7499,-76.9063
+Clinton (Ia),2018,9.0,,,32.354,-90.3403
+Clinton (Ia),2018,9.0,,,41.8435,-90.2412
+Clinton (Ia),2018,9.0,,,41.1395,-112.0656
+Clinton (Ia),2018,9.0,,,36.0981,-84.1283
+Clinton (Ia),2018,9.0,,,38.3716,-93.7679
+Clinton (Ia),2018,9.0,,,35.5069,-98.9706
+Clinton (Ia),2018,9.0,,,35.0004,-78.3313
+Clinton (Ia),2018,9.0,,,34.4781,-81.8638
+Clinton (Ia),2018,9.0,,,40.1468,-88.9633
+Clinton (Ia),2018,9.0,,,39.6608,-87.4045
+Clinton (Ia),2018,9.0,,,42.0699,-83.9687
+Clinton (Ia),2018,9.0,,,35.5798,-92.4543
+Clinton (Ia),2018,9.0,,,42.5574,-88.868
+Clinton (Ia),2018,9.0,,,43.0489,-75.3784
+Clinton (Ia),2018,9.0,,,30.8613,-91.015
+Clinton (Ia),2018,9.0,,,36.6663,-88.9938
+Clinton (Ia),2018,9.0,,,40.9284,-81.6304
+Clinton (Ia),2018,9.0,,,47.9731,-122.3577
+Clinton (Ia),2018,9.0,,,40.4923,-80.297
+Clinton (Ia),2018,9.0,,,46.7718,-113.7169
+Clinton (Ia),2018,9.0,,,45.4632,-96.4414
+Clinton (Ia),2018,9.0,,,42.7598,-102.3479
+Colorado Springs (Co),2011,,19.1,,38.8674,-104.7605
+Colorado Springs (Co),2013,,19.4,,38.8674,-104.7605
+Colorado Springs (Co),2014,,19.5,,38.8674,-104.7605
+Colorado Springs (Co),2015,5.3,,,38.8674,-104.7605
+Colorado Springs (Co),2018,6.2,,,38.8674,-104.7605
+Colorado Springs (Co),2019,5.0,17.1,,38.8674,-104.7605
+Columbia (Sc),2010,,,10.0,34.0378,-80.9036
+Columbia (Sc),2010,,,10.0,38.9472,-92.3268
+Columbia (Sc),2010,,,10.0,39.2004,-76.859
+Columbia (Sc),2010,,,10.0,35.6238,-87.0484
+Columbia (Sc),2010,,,10.0,38.4581,-90.2156
+Columbia (Sc),2010,,,10.0,40.0347,-76.4944
+Columbia (Sc),2010,,,10.0,31.2564,-89.8266
+Columbia (Sc),2010,,,10.0,37.1036,-85.3073
+Columbia (Sc),2010,,,10.0,38.0333,-120.4096
+Columbia (Sc),2010,,,10.0,31.2968,-85.1103
+Columbia (Sc),2010,,,10.0,35.92,-76.2421
+Columbia (Sc),2010,,,10.0,32.1026,-92.077
+Columbia (Sc),2010,,,10.0,40.926,-75.0945
+Columbia (Sc),2010,,,10.0,45.6148,-98.3107
+Columbia (Sc),2010,,,10.0,37.7538,-78.1632
+Columbia (Sc),2012,,,8.7,34.0378,-80.9036
+Columbia (Sc),2012,,,8.7,38.9472,-92.3268
+Columbia (Sc),2012,,,8.7,39.2004,-76.859
+Columbia (Sc),2012,,,8.7,35.6238,-87.0484
+Columbia (Sc),2012,,,8.7,38.4581,-90.2156
+Columbia (Sc),2012,,,8.7,40.0347,-76.4944
+Columbia (Sc),2012,,,8.7,31.2564,-89.8266
+Columbia (Sc),2012,,,8.7,37.1036,-85.3073
+Columbia (Sc),2012,,,8.7,38.0333,-120.4096
+Columbia (Sc),2012,,,8.7,31.2968,-85.1103
+Columbia (Sc),2012,,,8.7,35.92,-76.2421
+Columbia (Sc),2012,,,8.7,32.1026,-92.077
+Columbia (Sc),2012,,,8.7,40.926,-75.0945
+Columbia (Sc),2012,,,8.7,45.6148,-98.3107
+Columbia (Sc),2012,,,8.7,37.7538,-78.1632
+Columbia (Sc),2017,,15.0,,34.0378,-80.9036
+Columbia (Sc),2017,,15.0,,38.9472,-92.3268
+Columbia (Sc),2017,,15.0,,39.2004,-76.859
+Columbia (Sc),2017,,15.0,,35.6238,-87.0484
+Columbia (Sc),2017,,15.0,,38.4581,-90.2156
+Columbia (Sc),2017,,15.0,,40.0347,-76.4944
+Columbia (Sc),2017,,15.0,,31.2564,-89.8266
+Columbia (Sc),2017,,15.0,,37.1036,-85.3073
+Columbia (Sc),2017,,15.0,,38.0333,-120.4096
+Columbia (Sc),2017,,15.0,,31.2968,-85.1103
+Columbia (Sc),2017,,15.0,,35.92,-76.2421
+Columbia (Sc),2017,,15.0,,32.1026,-92.077
+Columbia (Sc),2017,,15.0,,40.926,-75.0945
+Columbia (Sc),2017,,15.0,,45.6148,-98.3107
+Columbia (Sc),2017,,15.0,,37.7538,-78.1632
+Columbia (Sc),2018,,,8.1,34.0378,-80.9036
+Columbia (Sc),2018,,,8.1,38.9472,-92.3268
+Columbia (Sc),2018,,,8.1,39.2004,-76.859
+Columbia (Sc),2018,,,8.1,35.6238,-87.0484
+Columbia (Sc),2018,,,8.1,38.4581,-90.2156
+Columbia (Sc),2018,,,8.1,40.0347,-76.4944
+Columbia (Sc),2018,,,8.1,31.2564,-89.8266
+Columbia (Sc),2018,,,8.1,37.1036,-85.3073
+Columbia (Sc),2018,,,8.1,38.0333,-120.4096
+Columbia (Sc),2018,,,8.1,31.2968,-85.1103
+Columbia (Sc),2018,,,8.1,35.92,-76.2421
+Columbia (Sc),2018,,,8.1,32.1026,-92.077
+Columbia (Sc),2018,,,8.1,40.926,-75.0945
+Columbia (Sc),2018,,,8.1,45.6148,-98.3107
+Columbia (Sc),2018,,,8.1,37.7538,-78.1632
+Columbus (Ga-Al),2010,14.9,,,39.9862,-82.9855
+Columbus (Ga-Al),2010,14.9,,,32.51,-84.8771
+Columbus (Ga-Al),2010,14.9,,,39.2093,-85.9183
+Columbus (Ga-Al),2010,14.9,,,41.4366,-97.3565
+Columbus (Ga-Al),2010,14.9,,,33.5088,-88.4096
+Columbus (Ga-Al),2010,14.9,,,43.3354,-89.03
+Columbus (Ga-Al),2010,14.9,,,45.2685,-93.0809
+Columbus (Ga-Al),2010,14.9,,,29.7056,-96.5571
+Columbus (Ga-Al),2010,14.9,,,37.1716,-94.844
+Columbus (Ga-Al),2010,14.9,,,45.636,-109.2488
+Columbus (Ga-Al),2010,14.9,,,31.8271,-107.6422
+Columbus (Ga-Al),2010,14.9,,,35.2656,-82.1976
+Columbus (Ga-Al),2010,14.9,,,36.7596,-89.102
+Columbus (Ga-Al),2010,14.9,,,39.9883,-91.1456
+Columbus (Ga-Al),2010,14.9,,,48.905,-102.7812
+Columbus (Ga-Al),2011,11.85,,,39.9862,-82.9855
+Columbus (Ga-Al),2011,11.85,,,32.51,-84.8771
+Columbus (Ga-Al),2011,11.85,,,39.2093,-85.9183
+Columbus (Ga-Al),2011,11.85,,,41.4366,-97.3565
+Columbus (Ga-Al),2011,11.85,,,33.5088,-88.4096
+Columbus (Ga-Al),2011,11.85,,,43.3354,-89.03
+Columbus (Ga-Al),2011,11.85,,,45.2685,-93.0809
+Columbus (Ga-Al),2011,11.85,,,29.7056,-96.5571
+Columbus (Ga-Al),2011,11.85,,,37.1716,-94.844
+Columbus (Ga-Al),2011,11.85,,,45.636,-109.2488
+Columbus (Ga-Al),2011,11.85,,,31.8271,-107.6422
+Columbus (Ga-Al),2011,11.85,,,35.2656,-82.1976
+Columbus (Ga-Al),2011,11.85,,,36.7596,-89.102
+Columbus (Ga-Al),2011,11.85,,,39.9883,-91.1456
+Columbus (Ga-Al),2011,11.85,,,48.905,-102.7812
+Columbus (Ga-Al),2018,8.2,,,39.9862,-82.9855
+Columbus (Ga-Al),2018,8.2,,,32.51,-84.8771
+Columbus (Ga-Al),2018,8.2,,,39.2093,-85.9183
+Columbus (Ga-Al),2018,8.2,,,41.4366,-97.3565
+Columbus (Ga-Al),2018,8.2,,,33.5088,-88.4096
+Columbus (Ga-Al),2018,8.2,,,43.3354,-89.03
+Columbus (Ga-Al),2018,8.2,,,45.2685,-93.0809
+Columbus (Ga-Al),2018,8.2,,,29.7056,-96.5571
+Columbus (Ga-Al),2018,8.2,,,37.1716,-94.844
+Columbus (Ga-Al),2018,8.2,,,45.636,-109.2488
+Columbus (Ga-Al),2018,8.2,,,31.8271,-107.6422
+Columbus (Ga-Al),2018,8.2,,,35.2656,-82.1976
+Columbus (Ga-Al),2018,8.2,,,36.7596,-89.102
+Columbus (Ga-Al),2018,8.2,,,39.9883,-91.1456
+Columbus (Ga-Al),2018,8.2,,,48.905,-102.7812
+Columbus (Oh),2010,,32.4,,39.9862,-82.9855
+Columbus (Oh),2010,,32.4,,32.51,-84.8771
+Columbus (Oh),2010,,32.4,,39.2093,-85.9183
+Columbus (Oh),2010,,32.4,,41.4366,-97.3565
+Columbus (Oh),2010,,32.4,,33.5088,-88.4096
+Columbus (Oh),2010,,32.4,,43.3354,-89.03
+Columbus (Oh),2010,,32.4,,45.2685,-93.0809
+Columbus (Oh),2010,,32.4,,29.7056,-96.5571
+Columbus (Oh),2010,,32.4,,37.1716,-94.844
+Columbus (Oh),2010,,32.4,,45.636,-109.2488
+Columbus (Oh),2010,,32.4,,31.8271,-107.6422
+Columbus (Oh),2010,,32.4,,35.2656,-82.1976
+Columbus (Oh),2010,,32.4,,36.7596,-89.102
+Columbus (Oh),2010,,32.4,,39.9883,-91.1456
+Columbus (Oh),2010,,32.4,,48.905,-102.7812
+Columbus (Oh),2011,,23.3,,39.9862,-82.9855
+Columbus (Oh),2011,,23.3,,32.51,-84.8771
+Columbus (Oh),2011,,23.3,,39.2093,-85.9183
+Columbus (Oh),2011,,23.3,,41.4366,-97.3565
+Columbus (Oh),2011,,23.3,,33.5088,-88.4096
+Columbus (Oh),2011,,23.3,,43.3354,-89.03
+Columbus (Oh),2011,,23.3,,45.2685,-93.0809
+Columbus (Oh),2011,,23.3,,29.7056,-96.5571
+Columbus (Oh),2011,,23.3,,37.1716,-94.844
+Columbus (Oh),2011,,23.3,,45.636,-109.2488
+Columbus (Oh),2011,,23.3,,31.8271,-107.6422
+Columbus (Oh),2011,,23.3,,35.2656,-82.1976
+Columbus (Oh),2011,,23.3,,36.7596,-89.102
+Columbus (Oh),2011,,23.3,,39.9883,-91.1456
+Columbus (Oh),2011,,23.3,,48.905,-102.7812
+Colusa,2011,6.8,,,39.2059,-122.0125
+Colusa,2012,7.3,,,39.2059,-122.0125
+Colusa,2016,6.3,,,39.2059,-122.0125
+Colusa,2019,7.0,,,39.2059,-122.0125
+Corning (Ny),2010,7.2,,,42.147,-77.0561
+Corning (Ny),2010,7.2,,,39.9283,-122.1819
+Corning (Ny),2010,7.2,,,36.4134,-90.5839
+Corning (Ny),2010,7.2,,,40.9923,-94.7397
+Corning (Ny),2010,7.2,,,39.6016,-82.0876
+Corning (Ny),2010,7.2,,,39.657,-96.0288
+Corning (Ny),2010,7.2,,,40.2486,-95.4545
+Corning (Ny),2018,4.8,,,42.147,-77.0561
+Corning (Ny),2018,4.8,,,39.9283,-122.1819
+Corning (Ny),2018,4.8,,,36.4134,-90.5839
+Corning (Ny),2018,4.8,,,40.9923,-94.7397
+Corning (Ny),2018,4.8,,,39.6016,-82.0876
+Corning (Ny),2018,4.8,,,39.657,-96.0288
+Corning (Ny),2018,4.8,,,40.2486,-95.4545
+Corsicana (Tx),2011,,,8.0,32.0824,-96.4665
+Corsicana (Tx),2012,,,6.8,32.0824,-96.4665
+Corsicana (Tx),2013,,,7.1,32.0824,-96.4665
+Corsicana (Tx),2016,,,3.8,32.0824,-96.4665
+Corsicana (Tx),2018,,,6.9,32.0824,-96.4665
+Corsicana (Tx),2019,,,7.0,32.0824,-96.4665
+Cortina Indian Rancheria (Na),2013,7.2,,,,
+Cortina Indian Rancheria (Na),2014,6.5,,,,
+Cortina Indian Rancheria (Na),2016,4.5,,,,
+Cortina Indian Rancheria (Na),2017,4.4,,,,
+Cortina Indian Rancheria (Na),2018,10.3,,,,
+Dallas-Fort Worth-Arlington (Tx),2010,,,13.23,,
+Dallas-Fort Worth-Arlington (Tx),2011,,,14.69,,
+Dallas-Fort Worth-Arlington (Tx),2012,,,13.65,,
+Dallas-Fort Worth-Arlington (Tx),2013,,,10.85,,
+Dallas-Fort Worth-Arlington (Tx),2014,,,9.58,,
+Dallas-Fort Worth-Arlington (Tx),2015,,,9.91,,
+Dallas-Fort Worth-Arlington (Tx),2016,,,13.17,,
+Dallas-Fort Worth-Arlington (Tx),2017,,,10.64,,
+Dallas-Fort Worth-Arlington (Tx),2018,,,10.34,,
+Dallas-Fort Worth-Arlington (Tx),2019,,,8.8,,
+Daphne-Fairhope-Foley (Al),2010,10.2,,,,
+Daphne-Fairhope-Foley (Al),2011,10.0,,,,
+Daphne-Fairhope-Foley (Al),2012,9.2,,,,
+Daphne-Fairhope-Foley (Al),2013,8.4,,,,
+Daphne-Fairhope-Foley (Al),2014,8.9,,,,
+Daphne-Fairhope-Foley (Al),2015,8.6,,,,
+Daphne-Fairhope-Foley (Al),2016,7.2,,,,
+Daphne-Fairhope-Foley (Al),2017,7.4,,,,
+Daphne-Fairhope-Foley (Al),2018,7.1,,,,
+Daphne-Fairhope-Foley (Al),2019,7.5,,,,
+Davenport-Moline-Rock Island (Ia-Il),2010,,42.9,15.9,,
+Davenport-Moline-Rock Island (Ia-Il),2011,,41.8,14.0,,
+Davenport-Moline-Rock Island (Ia-Il),2012,,44.3,,,
+Davenport-Moline-Rock Island (Ia-Il),2013,,30.65,,,
+Davenport-Moline-Rock Island (Ia-Il),2014,,42.9,,,
+Davenport-Moline-Rock Island (Ia-Il),2015,,29.75,11.8,,
+Davenport-Moline-Rock Island (Ia-Il),2016,,35.1,,,
+Davenport-Moline-Rock Island (Ia-Il),2017,,21.8,11.1,,
+Davenport-Moline-Rock Island (Ia-Il),2018,,15.8,11.2,,
+Davenport-Moline-Rock Island (Ia-Il),2019,8.5,32.4,,,
+Dayton (Oh),2011,,19.8,,39.7805,-84.2003
+Dayton (Oh),2011,,19.8,,39.2592,-119.5653
+Dayton (Oh),2011,,19.8,,30.0315,-94.9158
+Dayton (Oh),2011,,19.8,,40.3768,-74.5112
+Dayton (Oh),2011,,19.8,,45.1906,-93.4758
+Dayton (Oh),2011,,19.8,,35.4912,-85.012
+Dayton (Oh),2011,,19.8,,39.1127,-84.4639
+Dayton (Oh),2011,,19.8,,46.3168,-117.9767
+Dayton (Oh),2011,,19.8,,45.2198,-123.0781
+Dayton (Oh),2011,,19.8,,38.4173,-78.9412
+Dayton (Oh),2011,,19.8,,40.3752,-86.7739
+Dayton (Oh),2011,,19.8,,44.8733,-107.2624
+Dayton (Oh),2011,,19.8,,42.2622,-94.0711
+Dayton (Oh),2011,,19.8,,40.8812,-79.2411
+Dayton (Oh),2011,,19.8,,42.1118,-111.9779
+Dayton (Oh),2011,,19.8,,41.3866,-88.7969
+Dayton (Oh),2011,,19.8,,47.8643,-114.2765
+Dayton (Oh),2011,,19.8,,32.351,-87.6416
+Dayton (Oh),2013,,18.1,,39.7805,-84.2003
+Dayton (Oh),2013,,18.1,,39.2592,-119.5653
+Dayton (Oh),2013,,18.1,,30.0315,-94.9158
+Dayton (Oh),2013,,18.1,,40.3768,-74.5112
+Dayton (Oh),2013,,18.1,,45.1906,-93.4758
+Dayton (Oh),2013,,18.1,,35.4912,-85.012
+Dayton (Oh),2013,,18.1,,39.1127,-84.4639
+Dayton (Oh),2013,,18.1,,46.3168,-117.9767
+Dayton (Oh),2013,,18.1,,45.2198,-123.0781
+Dayton (Oh),2013,,18.1,,38.4173,-78.9412
+Dayton (Oh),2013,,18.1,,40.3752,-86.7739
+Dayton (Oh),2013,,18.1,,44.8733,-107.2624
+Dayton (Oh),2013,,18.1,,42.2622,-94.0711
+Dayton (Oh),2013,,18.1,,40.8812,-79.2411
+Dayton (Oh),2013,,18.1,,42.1118,-111.9779
+Dayton (Oh),2013,,18.1,,41.3866,-88.7969
+Dayton (Oh),2013,,18.1,,47.8643,-114.2765
+Dayton (Oh),2013,,18.1,,32.351,-87.6416
+Dayton (Oh),2017,,11.4,,39.7805,-84.2003
+Dayton (Oh),2017,,11.4,,39.2592,-119.5653
+Dayton (Oh),2017,,11.4,,30.0315,-94.9158
+Dayton (Oh),2017,,11.4,,40.3768,-74.5112
+Dayton (Oh),2017,,11.4,,45.1906,-93.4758
+Dayton (Oh),2017,,11.4,,35.4912,-85.012
+Dayton (Oh),2017,,11.4,,39.1127,-84.4639
+Dayton (Oh),2017,,11.4,,46.3168,-117.9767
+Dayton (Oh),2017,,11.4,,45.2198,-123.0781
+Dayton (Oh),2017,,11.4,,38.4173,-78.9412
+Dayton (Oh),2017,,11.4,,40.3752,-86.7739
+Dayton (Oh),2017,,11.4,,44.8733,-107.2624
+Dayton (Oh),2017,,11.4,,42.2622,-94.0711
+Dayton (Oh),2017,,11.4,,40.8812,-79.2411
+Dayton (Oh),2017,,11.4,,42.1118,-111.9779
+Dayton (Oh),2017,,11.4,,41.3866,-88.7969
+Dayton (Oh),2017,,11.4,,47.8643,-114.2765
+Dayton (Oh),2017,,11.4,,32.351,-87.6416
+Dayton (Oh),2018,,12.4,,39.7805,-84.2003
+Dayton (Oh),2018,,12.4,,39.2592,-119.5653
+Dayton (Oh),2018,,12.4,,30.0315,-94.9158
+Dayton (Oh),2018,,12.4,,40.3768,-74.5112
+Dayton (Oh),2018,,12.4,,45.1906,-93.4758
+Dayton (Oh),2018,,12.4,,35.4912,-85.012
+Dayton (Oh),2018,,12.4,,39.1127,-84.4639
+Dayton (Oh),2018,,12.4,,46.3168,-117.9767
+Dayton (Oh),2018,,12.4,,45.2198,-123.0781
+Dayton (Oh),2018,,12.4,,38.4173,-78.9412
+Dayton (Oh),2018,,12.4,,40.3752,-86.7739
+Dayton (Oh),2018,,12.4,,44.8733,-107.2624
+Dayton (Oh),2018,,12.4,,42.2622,-94.0711
+Dayton (Oh),2018,,12.4,,40.8812,-79.2411
+Dayton (Oh),2018,,12.4,,42.1118,-111.9779
+Dayton (Oh),2018,,12.4,,41.3866,-88.7969
+Dayton (Oh),2018,,12.4,,47.8643,-114.2765
+Dayton (Oh),2018,,12.4,,32.351,-87.6416
+Decatur (Al),2011,10.5,,,39.8557,-88.9342
+Decatur (Al),2011,10.5,,,34.5731,-86.9905
+Decatur (Al),2011,10.5,,,33.7711,-84.2963
+Decatur (Al),2011,10.5,,,40.8286,-84.9277
+Decatur (Al),2011,10.5,,,33.2263,-97.5875
+Decatur (Al),2011,10.5,,,32.4339,-89.1092
+Decatur (Al),2011,10.5,,,42.1075,-85.9746
+Decatur (Al),2011,10.5,,,35.529,-84.7933
+Decatur (Al),2011,10.5,,,36.3402,-94.4578
+Decatur (Al),2011,10.5,,,42.0058,-96.2497
+Decatur (Al),2015,8.8,,,39.8557,-88.9342
+Decatur (Al),2015,8.8,,,34.5731,-86.9905
+Decatur (Al),2015,8.8,,,33.7711,-84.2963
+Decatur (Al),2015,8.8,,,40.8286,-84.9277
+Decatur (Al),2015,8.8,,,33.2263,-97.5875
+Decatur (Al),2015,8.8,,,32.4339,-89.1092
+Decatur (Al),2015,8.8,,,42.1075,-85.9746
+Decatur (Al),2015,8.8,,,35.529,-84.7933
+Decatur (Al),2015,8.8,,,36.3402,-94.4578
+Decatur (Al),2015,8.8,,,42.0058,-96.2497
+Decatur (Al),2017,7.7,,,39.8557,-88.9342
+Decatur (Al),2017,7.7,,,34.5731,-86.9905
+Decatur (Al),2017,7.7,,,33.7711,-84.2963
+Decatur (Al),2017,7.7,,,40.8286,-84.9277
+Decatur (Al),2017,7.7,,,33.2263,-97.5875
+Decatur (Al),2017,7.7,,,32.4339,-89.1092
+Decatur (Al),2017,7.7,,,42.1075,-85.9746
+Decatur (Al),2017,7.7,,,35.529,-84.7933
+Decatur (Al),2017,7.7,,,36.3402,-94.4578
+Decatur (Al),2017,7.7,,,42.0058,-96.2497
+Decatur (Al),2019,7.6,,,39.8557,-88.9342
+Decatur (Al),2019,7.6,,,34.5731,-86.9905
+Decatur (Al),2019,7.6,,,33.7711,-84.2963
+Decatur (Al),2019,7.6,,,40.8286,-84.9277
+Decatur (Al),2019,7.6,,,33.2263,-97.5875
+Decatur (Al),2019,7.6,,,32.4339,-89.1092
+Decatur (Al),2019,7.6,,,42.1075,-85.9746
+Decatur (Al),2019,7.6,,,35.529,-84.7933
+Decatur (Al),2019,7.6,,,36.3402,-94.4578
+Decatur (Al),2019,7.6,,,42.0058,-96.2497
+Deltona-Daytona Beach-Ormond Beach (Fl),2011,,15.7,,,
+Deltona-Daytona Beach-Ormond Beach (Fl),2013,,14.5,,,
+Denver-Aurora-Lakewood (Co),2010,5.8,26.3,41.1,,
+Denver-Aurora-Lakewood (Co),2011,5.75,30.7,40.0,,
+Denver-Aurora-Lakewood (Co),2012,6.45,26.95,40.8,,
+Denver-Aurora-Lakewood (Co),2013,6.65,27.8,38.6,,
+Denver-Aurora-Lakewood (Co),2014,5.6,29.8,38.6,,
+Denver-Aurora-Lakewood (Co),2015,,,37.1,,
+Denver-Aurora-Lakewood (Co),2016,,28.1,35.0,,
+Denver-Aurora-Lakewood (Co),2017,6.43,28.73,31.65,,
+Denver-Aurora-Lakewood (Co),2018,,27.65,32.15,,
+Denver-Aurora-Lakewood (Co),2019,6.2,29.35,33.05,,
+Des Moines-West Des Moines (Ia),2010,,,16.7,,
+Des Moines-West Des Moines (Ia),2011,,,15.1,,
+Des Moines-West Des Moines (Ia),2012,,21.2,,,
+Des Moines-West Des Moines (Ia),2013,,19.7,13.3,,
+Des Moines-West Des Moines (Ia),2014,,,12.1,,
+Des Moines-West Des Moines (Ia),2015,,,12.0,,
+Des Moines-West Des Moines (Ia),2017,,14.7,,,
+Detroit-Warren-Dearborn (Mi),2010,9.4,17.4,,,
+Detroit-Warren-Dearborn (Mi),2012,,28.6,28.15,,
+Detroit-Warren-Dearborn (Mi),2013,,22.73,27.1,,
+Detroit-Warren-Dearborn (Mi),2014,,25.4,30.7,,
+Detroit-Warren-Dearborn (Mi),2015,11.3,24.4,27.65,,
+Detroit-Warren-Dearborn (Mi),2016,10.7,22.05,24.9,,
+Detroit-Warren-Dearborn (Mi),2017,,23.2,,,
+Detroit-Warren-Dearborn (Mi),2018,,26.45,23.45,,
+Detroit-Warren-Dearborn (Mi),2019,11.0,23.03,29.2,,
+Dickinson (Nd),2013,4.7,,,46.8918,-102.7925
+Dickinson (Nd),2013,4.7,,,29.4548,-95.0589
+Dickinson (Nd),2016,2.9,,,46.8918,-102.7925
+Dickinson (Nd),2016,2.9,,,29.4548,-95.0589
+Dickinson (Nd),2017,4.0,,,46.8918,-102.7925
+Dickinson (Nd),2017,4.0,,,29.4548,-95.0589
+Dickinson (Nd),2019,3.4,,,46.8918,-102.7925
+Dickinson (Nd),2019,3.4,,,29.4548,-95.0589
+Dodge City (Ks),2010,,16.9,,37.7611,-100.0182
+Dodge City (Ks),2010,,16.9,,34.0445,-86.8853
+Dodge City (Ks),2012,,15.0,,37.7611,-100.0182
+Dodge City (Ks),2012,,15.0,,34.0445,-86.8853
+Dodge City (Ks),2013,,8.4,,37.7611,-100.0182
+Dodge City (Ks),2013,,8.4,,34.0445,-86.8853
+Dodge City (Ks),2014,,12.2,,37.7611,-100.0182
+Dodge City (Ks),2014,,12.2,,34.0445,-86.8853
+Dodge City (Ks),2017,,19.9,,37.7611,-100.0182
+Dodge City (Ks),2017,,19.9,,34.0445,-86.8853
+Dothan (Al),2010,10.3,,,31.2336,-85.407
+Dothan (Al),2011,10.2,,,31.2336,-85.407
+Dothan (Al),2013,8.3,,,31.2336,-85.407
+Dothan (Al),2014,8.7,,,31.2336,-85.407
+Dothan (Al),2015,7.3,,,31.2336,-85.407
+Dothan (Al),2016,7.1,,,31.2336,-85.407
+Dothan (Al),2017,8.6,,,31.2336,-85.407
+Dothan (Al),2018,7.7,,,31.2336,-85.407
+Dothan (Al),2019,8.1,,,31.2336,-85.407
+Dover (De),2010,9.5,,,39.161,-75.5202
+Dover (De),2010,9.5,,,43.1887,-70.8845
+Dover (De),2010,9.5,,,40.8859,-74.5597
+Dover (De),2010,9.5,,,40.5304,-81.4806
+Dover (De),2010,9.5,,,27.9927,-82.2198
+Dover (De),2010,9.5,,,36.4818,-87.8438
+Dover (De),2010,9.5,,,35.391,-93.1143
+Dover (De),2010,9.5,,,43.9698,-92.134
+Dover (De),2010,9.5,,,48.2606,-116.6098
+Dover (De),2010,9.5,,,35.2155,-77.4338
+Dover (De),2010,9.5,,,38.7563,-83.8844
+Dover (De),2010,9.5,,,35.9816,-97.9108
+Dover (De),2010,9.5,,,39.1942,-93.6896
+Dover (De),2010,9.5,,,41.434,-89.3961
+Dover (De),2014,8.2,,,39.161,-75.5202
+Dover (De),2014,8.2,,,43.1887,-70.8845
+Dover (De),2014,8.2,,,40.8859,-74.5597
+Dover (De),2014,8.2,,,40.5304,-81.4806
+Dover (De),2014,8.2,,,27.9927,-82.2198
+Dover (De),2014,8.2,,,36.4818,-87.8438
+Dover (De),2014,8.2,,,35.391,-93.1143
+Dover (De),2014,8.2,,,43.9698,-92.134
+Dover (De),2014,8.2,,,48.2606,-116.6098
+Dover (De),2014,8.2,,,35.2155,-77.4338
+Dover (De),2014,8.2,,,38.7563,-83.8844
+Dover (De),2014,8.2,,,35.9816,-97.9108
+Dover (De),2014,8.2,,,39.1942,-93.6896
+Dover (De),2014,8.2,,,41.434,-89.3961
+Dover (De),2018,6.15,,,39.161,-75.5202
+Dover (De),2018,6.15,,,43.1887,-70.8845
+Dover (De),2018,6.15,,,40.8859,-74.5597
+Dover (De),2018,6.15,,,40.5304,-81.4806
+Dover (De),2018,6.15,,,27.9927,-82.2198
+Dover (De),2018,6.15,,,36.4818,-87.8438
+Dover (De),2018,6.15,,,35.391,-93.1143
+Dover (De),2018,6.15,,,43.9698,-92.134
+Dover (De),2018,6.15,,,48.2606,-116.6098
+Dover (De),2018,6.15,,,35.2155,-77.4338
+Dover (De),2018,6.15,,,38.7563,-83.8844
+Dover (De),2018,6.15,,,35.9816,-97.9108
+Dover (De),2018,6.15,,,39.1942,-93.6896
+Dover (De),2018,6.15,,,41.434,-89.3961
+Duluth (Mn-Wi),2010,,20.2,,46.7756,-92.1393
+Duluth (Mn-Wi),2010,,20.2,,34.0053,-84.1492
+Duluth (Mn-Wi),2010,,20.2,,45.7838,-122.647
+Duluth (Mn-Wi),2011,,20.25,,46.7756,-92.1393
+Duluth (Mn-Wi),2011,,20.25,,34.0053,-84.1492
+Duluth (Mn-Wi),2011,,20.25,,45.7838,-122.647
+Duluth (Mn-Wi),2012,,12.2,,46.7756,-92.1393
+Duluth (Mn-Wi),2012,,12.2,,34.0053,-84.1492
+Duluth (Mn-Wi),2012,,12.2,,45.7838,-122.647
+Duluth (Mn-Wi),2013,,12.6,,46.7756,-92.1393
+Duluth (Mn-Wi),2013,,12.6,,34.0053,-84.1492
+Duluth (Mn-Wi),2013,,12.6,,45.7838,-122.647
+Duluth (Mn-Wi),2015,5.5,,,46.7756,-92.1393
+Duluth (Mn-Wi),2015,5.5,,,34.0053,-84.1492
+Duluth (Mn-Wi),2015,5.5,,,45.7838,-122.647
+Duluth (Mn-Wi),2016,,11.1,,46.7756,-92.1393
+Duluth (Mn-Wi),2016,,11.1,,34.0053,-84.1492
+Duluth (Mn-Wi),2016,,11.1,,45.7838,-122.647
+Duluth (Mn-Wi),2017,,18.35,,46.7756,-92.1393
+Duluth (Mn-Wi),2017,,18.35,,34.0053,-84.1492
+Duluth (Mn-Wi),2017,,18.35,,45.7838,-122.647
+Duluth (Mn-Wi),2018,4.3,,,46.7756,-92.1393
+Duluth (Mn-Wi),2018,4.3,,,34.0053,-84.1492
+Duluth (Mn-Wi),2018,4.3,,,45.7838,-122.647
+Duluth (Mn-Wi),2019,5.4,26.1,,46.7756,-92.1393
+Duluth (Mn-Wi),2019,5.4,26.1,,34.0053,-84.1492
+Duluth (Mn-Wi),2019,5.4,26.1,,45.7838,-122.647
+Durango (Co),2010,,25.3,9.03,37.2659,-107.8781
+Durango (Co),2010,,25.3,9.03,42.5618,-90.7762
+Durango (Co),2011,,,8.97,37.2659,-107.8781
+Durango (Co),2011,,,8.97,42.5618,-90.7762
+Durango (Co),2012,,,7.2,37.2659,-107.8781
+Durango (Co),2012,,,7.2,42.5618,-90.7762
+Durango (Co),2013,,,7.2,37.2659,-107.8781
+Durango (Co),2013,,,7.2,42.5618,-90.7762
+Durango (Co),2014,,,6.27,37.2659,-107.8781
+Durango (Co),2014,,,6.27,42.5618,-90.7762
+Durango (Co),2015,,,5.77,37.2659,-107.8781
+Durango (Co),2015,,,5.77,42.5618,-90.7762
+Durango (Co),2016,,,6.47,37.2659,-107.8781
+Durango (Co),2016,,,6.47,42.5618,-90.7762
+Durango (Co),2017,,,6.93,37.2659,-107.8781
+Durango (Co),2017,,,6.93,42.5618,-90.7762
+Durango (Co),2018,,20.3,5.0,37.2659,-107.8781
+Durango (Co),2018,,20.3,5.0,42.5618,-90.7762
+Durango (Co),2019,,,5.8,37.2659,-107.8781
+Durango (Co),2019,,,5.8,42.5618,-90.7762
+El Centro (Ca),2010,8.53,,17.0,32.7865,-115.5595
+El Centro (Ca),2011,10.5,,21.6,32.7865,-115.5595
+El Centro (Ca),2012,10.03,,21.65,32.7865,-115.5595
+El Centro (Ca),2013,10.15,,24.0,32.7865,-115.5595
+El Centro (Ca),2014,7.3,,18.4,32.7865,-115.5595
+El Centro (Ca),2015,11.6,,17.5,32.7865,-115.5595
+El Centro (Ca),2016,11.3,,15.55,32.7865,-115.5595
+El Centro (Ca),2017,11.9,,17.5,32.7865,-115.5595
+El Centro (Ca),2018,11.95,,23.5,32.7865,-115.5595
+El Centro (Ca),2019,10.7,,17.4,32.7865,-115.5595
+El Dorado (Ar),2012,10.9,,,33.2184,-92.664
+El Dorado (Ar),2012,10.9,,,37.821,-96.8613
+El Dorado (Ar),2016,9.0,,,33.2184,-92.664
+El Dorado (Ar),2016,9.0,,,37.821,-96.8613
+El Paso (Tx),2010,,32.0,25.4,31.8476,-106.43
+El Paso (Tx),2010,,32.0,25.4,40.7405,-89.0183
+El Paso (Tx),2010,,32.0,25.4,35.1153,-92.0812
+El Paso (Tx),2011,,42.9,27.6,31.8476,-106.43
+El Paso (Tx),2011,,42.9,27.6,40.7405,-89.0183
+El Paso (Tx),2011,,42.9,27.6,35.1153,-92.0812
+El Paso (Tx),2012,,,31.0,31.8476,-106.43
+El Paso (Tx),2012,,,31.0,40.7405,-89.0183
+El Paso (Tx),2012,,,31.0,35.1153,-92.0812
+El Paso (Tx),2013,,34.2,23.85,31.8476,-106.43
+El Paso (Tx),2013,,34.2,23.85,40.7405,-89.0183
+El Paso (Tx),2013,,34.2,23.85,35.1153,-92.0812
+El Paso (Tx),2014,,31.6,24.1,31.8476,-106.43
+El Paso (Tx),2014,,31.6,24.1,40.7405,-89.0183
+El Paso (Tx),2014,,31.6,24.1,35.1153,-92.0812
+El Paso (Tx),2015,,24.5,26.2,31.8476,-106.43
+El Paso (Tx),2015,,24.5,26.2,40.7405,-89.0183
+El Paso (Tx),2015,,24.5,26.2,35.1153,-92.0812
+El Paso (Tx),2016,,28.5,22.9,31.8476,-106.43
+El Paso (Tx),2016,,28.5,22.9,40.7405,-89.0183
+El Paso (Tx),2016,,28.5,22.9,35.1153,-92.0812
+El Paso (Tx),2017,,,23.7,31.8476,-106.43
+El Paso (Tx),2017,,,23.7,40.7405,-89.0183
+El Paso (Tx),2017,,,23.7,35.1153,-92.0812
+El Paso (Tx),2018,,,24.05,31.8476,-106.43
+El Paso (Tx),2018,,,24.05,40.7405,-89.0183
+El Paso (Tx),2018,,,24.05,35.1153,-92.0812
+El Paso (Tx),2019,,32.9,25.6,31.8476,-106.43
+El Paso (Tx),2019,,32.9,25.6,40.7405,-89.0183
+El Paso (Tx),2019,,32.9,25.6,35.1153,-92.0812
+Elko (Nv),2010,,25.9,,40.8381,-115.7678
+Elko (Nv),2010,,25.9,,33.3808,-81.3805
+Elko (Nv),2012,,28.2,,40.8381,-115.7678
+Elko (Nv),2012,,28.2,,33.3808,-81.3805
+Elko (Nv),2014,,25.2,,40.8381,-115.7678
+Elko (Nv),2014,,25.2,,33.3808,-81.3805
+Erie (Pa),2010,,,14.8,42.1167,-80.0733
+Erie (Pa),2010,,,14.8,40.0404,-105.0399
+Erie (Pa),2010,,,14.8,41.6589,-90.0813
+Erie (Pa),2010,,,14.8,37.5717,-95.2418
+Erie (Pa),2010,,,14.8,47.1154,-97.3879
+Erie (Pa),2011,,12.3,13.3,42.1167,-80.0733
+Erie (Pa),2011,,12.3,13.3,40.0404,-105.0399
+Erie (Pa),2011,,12.3,13.3,41.6589,-90.0813
+Erie (Pa),2011,,12.3,13.3,37.5717,-95.2418
+Erie (Pa),2011,,12.3,13.3,47.1154,-97.3879
+Erie (Pa),2012,,,10.9,42.1167,-80.0733
+Erie (Pa),2012,,,10.9,40.0404,-105.0399
+Erie (Pa),2012,,,10.9,41.6589,-90.0813
+Erie (Pa),2012,,,10.9,37.5717,-95.2418
+Erie (Pa),2012,,,10.9,47.1154,-97.3879
+Erie (Pa),2014,,10.7,,42.1167,-80.0733
+Erie (Pa),2014,,10.7,,40.0404,-105.0399
+Erie (Pa),2014,,10.7,,41.6589,-90.0813
+Erie (Pa),2014,,10.7,,37.5717,-95.2418
+Erie (Pa),2014,,10.7,,47.1154,-97.3879
+Erie (Pa),2016,,10.3,9.3,42.1167,-80.0733
+Erie (Pa),2016,,10.3,9.3,40.0404,-105.0399
+Erie (Pa),2016,,10.3,9.3,41.6589,-90.0813
+Erie (Pa),2016,,10.3,9.3,37.5717,-95.2418
+Erie (Pa),2016,,10.3,9.3,47.1154,-97.3879
+Erie (Pa),2017,,9.2,6.2,42.1167,-80.0733
+Erie (Pa),2017,,9.2,6.2,40.0404,-105.0399
+Erie (Pa),2017,,9.2,6.2,41.6589,-90.0813
+Erie (Pa),2017,,9.2,6.2,37.5717,-95.2418
+Erie (Pa),2017,,9.2,6.2,47.1154,-97.3879
+Erie (Pa),2019,,11.9,,42.1167,-80.0733
+Erie (Pa),2019,,11.9,,40.0404,-105.0399
+Erie (Pa),2019,,11.9,,41.6589,-90.0813
+Erie (Pa),2019,,11.9,,37.5717,-95.2418
+Erie (Pa),2019,,11.9,,47.1154,-97.3879
+Eugene (Or),2010,,11.7,,44.0564,-123.1174
+Eugene (Or),2010,,11.7,,39.9664,-87.4728
+Eugene (Or),2010,,11.7,,38.3547,-92.4031
+Eugene (Or),2012,,13.3,,44.0564,-123.1174
+Eugene (Or),2012,,13.3,,39.9664,-87.4728
+Eugene (Or),2012,,13.3,,38.3547,-92.4031
+Eugene (Or),2014,,13.9,,44.0564,-123.1174
+Eugene (Or),2014,,13.9,,39.9664,-87.4728
+Eugene (Or),2014,,13.9,,38.3547,-92.4031
+Eugene (Or),2016,4.7,9.9,,44.0564,-123.1174
+Eugene (Or),2016,4.7,9.9,,39.9664,-87.4728
+Eugene (Or),2016,4.7,9.9,,38.3547,-92.4031
+Eugene (Or),2017,13.3,,,44.0564,-123.1174
+Eugene (Or),2017,13.3,,,39.9664,-87.4728
+Eugene (Or),2017,13.3,,,38.3547,-92.4031
+Eugene (Or),2018,,13.3,,44.0564,-123.1174
+Eugene (Or),2018,,13.3,,39.9664,-87.4728
+Eugene (Or),2018,,13.3,,38.3547,-92.4031
+Eureka-Arcata-Fortuna (Ca),2010,5.6,16.7,5.0,,
+Eureka-Arcata-Fortuna (Ca),2011,6.6,17.7,6.7,,
+Eureka-Arcata-Fortuna (Ca),2012,5.8,15.2,5.2,,
+Eureka-Arcata-Fortuna (Ca),2013,,18.0,5.8,,
+Eureka-Arcata-Fortuna (Ca),2014,,17.3,4.7,,
+Eureka-Arcata-Fortuna (Ca),2015,5.9,,6.0,,
+Eureka-Arcata-Fortuna (Ca),2016,,15.3,5.1,,
+Eureka-Arcata-Fortuna (Ca),2017,,18.1,5.0,,
+Eureka-Arcata-Fortuna (Ca),2018,,18.1,4.7,,
+Eureka-Arcata-Fortuna (Ca),2019,,14.7,4.2,,
+Evanston (Wy),2010,,12.5,,42.0464,-87.6943
+Evanston (Wy),2010,,12.5,,41.2602,-110.9646
+Evanston (Wy),2013,,9.2,,42.0464,-87.6943
+Evanston (Wy),2013,,9.2,,41.2602,-110.9646
+Evanston (Wy),2014,,9.0,,42.0464,-87.6943
+Evanston (Wy),2014,,9.0,,41.2602,-110.9646
+Evanston (Wy),2015,,9.0,,42.0464,-87.6943
+Evanston (Wy),2015,,9.0,,41.2602,-110.9646
+Evanston (Wy),2016,,8.35,,42.0464,-87.6943
+Evanston (Wy),2016,,8.35,,41.2602,-110.9646
+Evanston (Wy),2019,,7.07,,42.0464,-87.6943
+Evanston (Wy),2019,,7.07,,41.2602,-110.9646
+Evansville (In-Ky),2010,,19.8,,37.9881,-87.5341
+Evansville (In-Ky),2010,,19.8,,42.7781,-89.2967
+Evansville (In-Ky),2010,,19.8,,42.868,-106.2524
+Evansville (In-Ky),2010,,19.8,,38.0889,-89.9322
+Evansville (In-Ky),2010,,19.8,,46.0062,-95.6869
+Evansville (In-Ky),2010,,19.8,,35.7924,-94.4911
+Evansville (In-Ky),2010,,19.8,,66.9206,-151.4201
+Evansville (In-Ky),2011,,18.4,,37.9881,-87.5341
+Evansville (In-Ky),2011,,18.4,,42.7781,-89.2967
+Evansville (In-Ky),2011,,18.4,,42.868,-106.2524
+Evansville (In-Ky),2011,,18.4,,38.0889,-89.9322
+Evansville (In-Ky),2011,,18.4,,46.0062,-95.6869
+Evansville (In-Ky),2011,,18.4,,35.7924,-94.4911
+Evansville (In-Ky),2011,,18.4,,66.9206,-151.4201
+Evansville (In-Ky),2013,11.1,,14.9,37.9881,-87.5341
+Evansville (In-Ky),2013,11.1,,14.9,42.7781,-89.2967
+Evansville (In-Ky),2013,11.1,,14.9,42.868,-106.2524
+Evansville (In-Ky),2013,11.1,,14.9,38.0889,-89.9322
+Evansville (In-Ky),2013,11.1,,14.9,46.0062,-95.6869
+Evansville (In-Ky),2013,11.1,,14.9,35.7924,-94.4911
+Evansville (In-Ky),2013,11.1,,14.9,66.9206,-151.4201
+Evansville (In-Ky),2014,,,16.9,37.9881,-87.5341
+Evansville (In-Ky),2014,,,16.9,42.7781,-89.2967
+Evansville (In-Ky),2014,,,16.9,42.868,-106.2524
+Evansville (In-Ky),2014,,,16.9,38.0889,-89.9322
+Evansville (In-Ky),2014,,,16.9,46.0062,-95.6869
+Evansville (In-Ky),2014,,,16.9,35.7924,-94.4911
+Evansville (In-Ky),2014,,,16.9,66.9206,-151.4201
+Evansville (In-Ky),2015,,,15.0,37.9881,-87.5341
+Evansville (In-Ky),2015,,,15.0,42.7781,-89.2967
+Evansville (In-Ky),2015,,,15.0,42.868,-106.2524
+Evansville (In-Ky),2015,,,15.0,38.0889,-89.9322
+Evansville (In-Ky),2015,,,15.0,46.0062,-95.6869
+Evansville (In-Ky),2015,,,15.0,35.7924,-94.4911
+Evansville (In-Ky),2015,,,15.0,66.9206,-151.4201
+Evansville (In-Ky),2016,8.9,,15.5,37.9881,-87.5341
+Evansville (In-Ky),2016,8.9,,15.5,42.7781,-89.2967
+Evansville (In-Ky),2016,8.9,,15.5,42.868,-106.2524
+Evansville (In-Ky),2016,8.9,,15.5,38.0889,-89.9322
+Evansville (In-Ky),2016,8.9,,15.5,46.0062,-95.6869
+Evansville (In-Ky),2016,8.9,,15.5,35.7924,-94.4911
+Evansville (In-Ky),2016,8.9,,15.5,66.9206,-151.4201
+Evansville (In-Ky),2018,,,15.5,37.9881,-87.5341
+Evansville (In-Ky),2018,,,15.5,42.7781,-89.2967
+Evansville (In-Ky),2018,,,15.5,42.868,-106.2524
+Evansville (In-Ky),2018,,,15.5,38.0889,-89.9322
+Evansville (In-Ky),2018,,,15.5,46.0062,-95.6869
+Evansville (In-Ky),2018,,,15.5,35.7924,-94.4911
+Evansville (In-Ky),2018,,,15.5,66.9206,-151.4201
+Fairbanks (Ak),2010,12.8,,,64.8353,-147.6533
+Fairbanks (Ak),2010,12.8,,,39.2195,-87.5222
+Fairbanks (Ak),2011,10.4,17.1,,64.8353,-147.6533
+Fairbanks (Ak),2011,10.4,17.1,,39.2195,-87.5222
+Fairbanks (Ak),2012,11.3,22.7,,64.8353,-147.6533
+Fairbanks (Ak),2012,11.3,22.7,,39.2195,-87.5222
+Fairbanks (Ak),2013,11.8,22.3,,64.8353,-147.6533
+Fairbanks (Ak),2013,11.8,22.3,,39.2195,-87.5222
+Fairbanks (Ak),2014,10.35,21.6,,64.8353,-147.6533
+Fairbanks (Ak),2014,10.35,21.6,,39.2195,-87.5222
+Fairbanks (Ak),2015,12.15,22.9,,64.8353,-147.6533
+Fairbanks (Ak),2015,12.15,22.9,,39.2195,-87.5222
+Fairbanks (Ak),2016,8.95,20.3,,64.8353,-147.6533
+Fairbanks (Ak),2016,8.95,20.3,,39.2195,-87.5222
+Fairbanks (Ak),2017,9.05,14.9,,64.8353,-147.6533
+Fairbanks (Ak),2017,9.05,14.9,,39.2195,-87.5222
+Fairbanks (Ak),2018,7.8,14.7,,64.8353,-147.6533
+Fairbanks (Ak),2018,7.8,14.7,,39.2195,-87.5222
+Fairbanks (Ak),2019,10.1,19.4,,64.8353,-147.6533
+Fairbanks (Ak),2019,10.1,19.4,,39.2195,-87.5222
+Fargo (Nd-Mn),2010,,,10.2,46.8651,-96.8292
+Fargo (Nd-Mn),2010,,,10.2,30.6881,-82.5721
+Fargo (Nd-Mn),2010,,,10.2,36.3743,-99.6221
+Fargo (Nd-Mn),2010,,,10.2,34.9537,-91.1764
+Fargo (Nd-Mn),2014,5.0,,8.2,46.8651,-96.8292
+Fargo (Nd-Mn),2014,5.0,,8.2,30.6881,-82.5721
+Fargo (Nd-Mn),2014,5.0,,8.2,36.3743,-99.6221
+Fargo (Nd-Mn),2014,5.0,,8.2,34.9537,-91.1764
+Fargo (Nd-Mn),2015,,,7.9,46.8651,-96.8292
+Fargo (Nd-Mn),2015,,,7.9,30.6881,-82.5721
+Fargo (Nd-Mn),2015,,,7.9,36.3743,-99.6221
+Fargo (Nd-Mn),2015,,,7.9,34.9537,-91.1764
+Fargo (Nd-Mn),2016,,,6.9,46.8651,-96.8292
+Fargo (Nd-Mn),2016,,,6.9,30.6881,-82.5721
+Fargo (Nd-Mn),2016,,,6.9,36.3743,-99.6221
+Fargo (Nd-Mn),2016,,,6.9,34.9537,-91.1764
+Fargo (Nd-Mn),2017,,,8.2,46.8651,-96.8292
+Fargo (Nd-Mn),2017,,,8.2,30.6881,-82.5721
+Fargo (Nd-Mn),2017,,,8.2,36.3743,-99.6221
+Fargo (Nd-Mn),2017,,,8.2,34.9537,-91.1764
+Fargo (Nd-Mn),2018,,,8.4,46.8651,-96.8292
+Fargo (Nd-Mn),2018,,,8.4,30.6881,-82.5721
+Fargo (Nd-Mn),2018,,,8.4,36.3743,-99.6221
+Fargo (Nd-Mn),2018,,,8.4,34.9537,-91.1764
+Farmington (Nm),2010,,,20.95,36.7555,-108.1823
+Farmington (Nm),2010,,,20.95,40.9845,-111.9065
+Farmington (Nm),2010,,,20.95,44.6572,-93.1687
+Farmington (Nm),2010,,,20.95,37.7822,-90.4282
+Farmington (Nm),2010,,,20.95,42.4614,-83.3784
+Farmington (Nm),2010,,,20.95,36.037,-94.2537
+Farmington (Nm),2010,,,20.95,34.9224,-88.4432
+Farmington (Nm),2010,,,20.95,40.697,-90.0024
+Farmington (Nm),2010,,,20.95,39.81,-79.5623
+Farmington (Nm),2010,,,20.95,40.6389,-91.7392
+Farmington (Nm),2010,,,20.95,39.5119,-80.2515
+Farmington (Nm),2010,,,20.95,38.8699,-75.579
+Farmington (Nm),2010,,,20.95,36.0128,-80.5329
+Farmington (Nm),2010,,,20.95,36.6691,-88.5276
+Farmington (Nm),2010,,,20.95,47.0887,-117.0464
+Farmington (Nm),2010,,,20.95,37.9299,-121.0044
+Farmington (Nm),2011,,,20.0,36.7555,-108.1823
+Farmington (Nm),2011,,,20.0,40.9845,-111.9065
+Farmington (Nm),2011,,,20.0,44.6572,-93.1687
+Farmington (Nm),2011,,,20.0,37.7822,-90.4282
+Farmington (Nm),2011,,,20.0,42.4614,-83.3784
+Farmington (Nm),2011,,,20.0,36.037,-94.2537
+Farmington (Nm),2011,,,20.0,34.9224,-88.4432
+Farmington (Nm),2011,,,20.0,40.697,-90.0024
+Farmington (Nm),2011,,,20.0,39.81,-79.5623
+Farmington (Nm),2011,,,20.0,40.6389,-91.7392
+Farmington (Nm),2011,,,20.0,39.5119,-80.2515
+Farmington (Nm),2011,,,20.0,38.8699,-75.579
+Farmington (Nm),2011,,,20.0,36.0128,-80.5329
+Farmington (Nm),2011,,,20.0,36.6691,-88.5276
+Farmington (Nm),2011,,,20.0,47.0887,-117.0464
+Farmington (Nm),2011,,,20.0,37.9299,-121.0044
+Farmington (Nm),2012,,,10.6,36.7555,-108.1823
+Farmington (Nm),2012,,,10.6,40.9845,-111.9065
+Farmington (Nm),2012,,,10.6,44.6572,-93.1687
+Farmington (Nm),2012,,,10.6,37.7822,-90.4282
+Farmington (Nm),2012,,,10.6,42.4614,-83.3784
+Farmington (Nm),2012,,,10.6,36.037,-94.2537
+Farmington (Nm),2012,,,10.6,34.9224,-88.4432
+Farmington (Nm),2012,,,10.6,40.697,-90.0024
+Farmington (Nm),2012,,,10.6,39.81,-79.5623
+Farmington (Nm),2012,,,10.6,40.6389,-91.7392
+Farmington (Nm),2012,,,10.6,39.5119,-80.2515
+Farmington (Nm),2012,,,10.6,38.8699,-75.579
+Farmington (Nm),2012,,,10.6,36.0128,-80.5329
+Farmington (Nm),2012,,,10.6,36.6691,-88.5276
+Farmington (Nm),2012,,,10.6,47.0887,-117.0464
+Farmington (Nm),2012,,,10.6,37.9299,-121.0044
+Farmington (Nm),2014,,,14.95,36.7555,-108.1823
+Farmington (Nm),2014,,,14.95,40.9845,-111.9065
+Farmington (Nm),2014,,,14.95,44.6572,-93.1687
+Farmington (Nm),2014,,,14.95,37.7822,-90.4282
+Farmington (Nm),2014,,,14.95,42.4614,-83.3784
+Farmington (Nm),2014,,,14.95,36.037,-94.2537
+Farmington (Nm),2014,,,14.95,34.9224,-88.4432
+Farmington (Nm),2014,,,14.95,40.697,-90.0024
+Farmington (Nm),2014,,,14.95,39.81,-79.5623
+Farmington (Nm),2014,,,14.95,40.6389,-91.7392
+Farmington (Nm),2014,,,14.95,39.5119,-80.2515
+Farmington (Nm),2014,,,14.95,38.8699,-75.579
+Farmington (Nm),2014,,,14.95,36.0128,-80.5329
+Farmington (Nm),2014,,,14.95,36.6691,-88.5276
+Farmington (Nm),2014,,,14.95,47.0887,-117.0464
+Farmington (Nm),2014,,,14.95,37.9299,-121.0044
+Farmington (Nm),2015,,,15.8,36.7555,-108.1823
+Farmington (Nm),2015,,,15.8,40.9845,-111.9065
+Farmington (Nm),2015,,,15.8,44.6572,-93.1687
+Farmington (Nm),2015,,,15.8,37.7822,-90.4282
+Farmington (Nm),2015,,,15.8,42.4614,-83.3784
+Farmington (Nm),2015,,,15.8,36.037,-94.2537
+Farmington (Nm),2015,,,15.8,34.9224,-88.4432
+Farmington (Nm),2015,,,15.8,40.697,-90.0024
+Farmington (Nm),2015,,,15.8,39.81,-79.5623
+Farmington (Nm),2015,,,15.8,40.6389,-91.7392
+Farmington (Nm),2015,,,15.8,39.5119,-80.2515
+Farmington (Nm),2015,,,15.8,38.8699,-75.579
+Farmington (Nm),2015,,,15.8,36.0128,-80.5329
+Farmington (Nm),2015,,,15.8,36.6691,-88.5276
+Farmington (Nm),2015,,,15.8,47.0887,-117.0464
+Farmington (Nm),2015,,,15.8,37.9299,-121.0044
+Farmington (Nm),2017,,,15.0,36.7555,-108.1823
+Farmington (Nm),2017,,,15.0,40.9845,-111.9065
+Farmington (Nm),2017,,,15.0,44.6572,-93.1687
+Farmington (Nm),2017,,,15.0,37.7822,-90.4282
+Farmington (Nm),2017,,,15.0,42.4614,-83.3784
+Farmington (Nm),2017,,,15.0,36.037,-94.2537
+Farmington (Nm),2017,,,15.0,34.9224,-88.4432
+Farmington (Nm),2017,,,15.0,40.697,-90.0024
+Farmington (Nm),2017,,,15.0,39.81,-79.5623
+Farmington (Nm),2017,,,15.0,40.6389,-91.7392
+Farmington (Nm),2017,,,15.0,39.5119,-80.2515
+Farmington (Nm),2017,,,15.0,38.8699,-75.579
+Farmington (Nm),2017,,,15.0,36.0128,-80.5329
+Farmington (Nm),2017,,,15.0,36.6691,-88.5276
+Farmington (Nm),2017,,,15.0,47.0887,-117.0464
+Farmington (Nm),2017,,,15.0,37.9299,-121.0044
+Farmington (Nm),2018,,,18.9,36.7555,-108.1823
+Farmington (Nm),2018,,,18.9,40.9845,-111.9065
+Farmington (Nm),2018,,,18.9,44.6572,-93.1687
+Farmington (Nm),2018,,,18.9,37.7822,-90.4282
+Farmington (Nm),2018,,,18.9,42.4614,-83.3784
+Farmington (Nm),2018,,,18.9,36.037,-94.2537
+Farmington (Nm),2018,,,18.9,34.9224,-88.4432
+Farmington (Nm),2018,,,18.9,40.697,-90.0024
+Farmington (Nm),2018,,,18.9,39.81,-79.5623
+Farmington (Nm),2018,,,18.9,40.6389,-91.7392
+Farmington (Nm),2018,,,18.9,39.5119,-80.2515
+Farmington (Nm),2018,,,18.9,38.8699,-75.579
+Farmington (Nm),2018,,,18.9,36.0128,-80.5329
+Farmington (Nm),2018,,,18.9,36.6691,-88.5276
+Farmington (Nm),2018,,,18.9,47.0887,-117.0464
+Farmington (Nm),2018,,,18.9,37.9299,-121.0044
+Farmington (Nm),2019,,,18.6,36.7555,-108.1823
+Farmington (Nm),2019,,,18.6,40.9845,-111.9065
+Farmington (Nm),2019,,,18.6,44.6572,-93.1687
+Farmington (Nm),2019,,,18.6,37.7822,-90.4282
+Farmington (Nm),2019,,,18.6,42.4614,-83.3784
+Farmington (Nm),2019,,,18.6,36.037,-94.2537
+Farmington (Nm),2019,,,18.6,34.9224,-88.4432
+Farmington (Nm),2019,,,18.6,40.697,-90.0024
+Farmington (Nm),2019,,,18.6,39.81,-79.5623
+Farmington (Nm),2019,,,18.6,40.6389,-91.7392
+Farmington (Nm),2019,,,18.6,39.5119,-80.2515
+Farmington (Nm),2019,,,18.6,38.8699,-75.579
+Farmington (Nm),2019,,,18.6,36.0128,-80.5329
+Farmington (Nm),2019,,,18.6,36.6691,-88.5276
+Farmington (Nm),2019,,,18.6,47.0887,-117.0464
+Farmington (Nm),2019,,,18.6,37.9299,-121.0044
+Fayetteville-Springdale-Rogers (Ar-Mo),2015,7.8,,,,
+Fayetteville-Springdale-Rogers (Ar-Mo),2017,7.8,,,,
+Fayetteville-Springdale-Rogers (Ar-Mo),2019,8.0,,,,
+Florence-Muscle Shoals (Al),2011,10.3,,,,
+Florence-Muscle Shoals (Al),2012,8.8,,,,
+Florence-Muscle Shoals (Al),2013,8.6,,,,
+Florence-Muscle Shoals (Al),2014,9.4,,,,
+Florence-Muscle Shoals (Al),2015,8.7,,,,
+Florence-Muscle Shoals (Al),2016,7.5,,,,
+Florence-Muscle Shoals (Al),2018,7.5,,,,
+Fort Collins (Co),2012,,23.7,,40.5477,-105.0656
+Fort Collins (Co),2013,,21.0,,40.5477,-105.0656
+Fort Collins (Co),2014,,18.8,,40.5477,-105.0656
+Fort Collins (Co),2018,,19.7,,40.5477,-105.0656
+Fort Payne (Al),2010,11.6,,,34.4559,-85.6965
+Fort Payne (Al),2011,11.2,,,34.4559,-85.6965
+Fort Payne (Al),2013,9.0,,,34.4559,-85.6965
+Fort Payne (Al),2014,9.6,,,34.4559,-85.6965
+Fort Payne (Al),2015,9.0,,,34.4559,-85.6965
+Fort Payne (Al),2016,7.7,,,34.4559,-85.6965
+Fort Payne (Al),2017,8.0,,,34.4559,-85.6965
+Fort Smith (Ar-Ok),2012,,,14.2,35.3495,-94.3695
+Fort Smith (Ar-Ok),2012,,,14.2,45.3134,-107.9296
+Fort Smith (Ar-Ok),2013,,,12.0,35.3495,-94.3695
+Fort Smith (Ar-Ok),2013,,,12.0,45.3134,-107.9296
+Fort Smith (Ar-Ok),2014,,,11.0,35.3495,-94.3695
+Fort Smith (Ar-Ok),2014,,,11.0,45.3134,-107.9296
+Fort Smith (Ar-Ok),2015,,,9.5,35.3495,-94.3695
+Fort Smith (Ar-Ok),2015,,,9.5,45.3134,-107.9296
+Fort Smith (Ar-Ok),2019,,,9.8,35.3495,-94.3695
+Fort Smith (Ar-Ok),2019,,,9.8,45.3134,-107.9296
+Fort Wayne (In),2014,10.7,,,41.0888,-85.1436
+Fort Wayne (In),2018,9.1,,,41.0888,-85.1436
+Fresno (Ca),2010,11.67,29.4,16.8,36.783,-119.7939
+Fresno (Ca),2010,11.67,29.4,16.8,29.5357,-95.4696
+Fresno (Ca),2010,11.67,29.4,16.8,40.3308,-81.7386
+Fresno (Ca),2011,13.83,30.6,18.1,36.783,-119.7939
+Fresno (Ca),2011,13.83,30.6,18.1,29.5357,-95.4696
+Fresno (Ca),2011,13.83,30.6,18.1,40.3308,-81.7386
+Fresno (Ca),2012,14.07,30.7,18.65,36.783,-119.7939
+Fresno (Ca),2012,14.07,30.7,18.65,29.5357,-95.4696
+Fresno (Ca),2012,14.07,30.7,18.65,40.3308,-81.7386
+Fresno (Ca),2013,16.35,39.15,20.95,36.783,-119.7939
+Fresno (Ca),2013,16.35,39.15,20.95,29.5357,-95.4696
+Fresno (Ca),2013,16.35,39.15,20.95,40.3308,-81.7386
+Fresno (Ca),2014,14.57,39.5,19.75,36.783,-119.7939
+Fresno (Ca),2014,14.57,39.5,19.75,29.5357,-95.4696
+Fresno (Ca),2014,14.57,39.5,19.75,40.3308,-81.7386
+Fresno (Ca),2015,14.5,35.85,17.5,36.783,-119.7939
+Fresno (Ca),2015,14.5,35.85,17.5,29.5357,-95.4696
+Fresno (Ca),2015,14.5,35.85,17.5,40.3308,-81.7386
+Fresno (Ca),2016,12.73,34.9,14.22,36.783,-119.7939
+Fresno (Ca),2016,12.73,34.9,14.22,29.5357,-95.4696
+Fresno (Ca),2016,12.73,34.9,14.22,40.3308,-81.7386
+Fresno (Ca),2017,12.88,39.4,17.38,36.783,-119.7939
+Fresno (Ca),2017,12.88,39.4,17.38,29.5357,-95.4696
+Fresno (Ca),2017,12.88,39.4,17.38,40.3308,-81.7386
+Fresno (Ca),2018,14.8,41.7,19.53,36.783,-119.7939
+Fresno (Ca),2018,14.8,41.7,19.53,29.5357,-95.4696
+Fresno (Ca),2018,14.8,41.7,19.53,40.3308,-81.7386
+Fresno (Ca),2019,9.37,35.2,15.25,36.783,-119.7939
+Fresno (Ca),2019,9.37,35.2,15.25,29.5357,-95.4696
+Fresno (Ca),2019,9.37,35.2,15.25,40.3308,-81.7386
+Gadsden (Al),2010,11.8,,,34.0086,-86.0157
+Gadsden (Al),2010,11.8,,,33.848,-80.7663
+Gadsden (Al),2010,11.8,,,32.5564,-114.7811
+Gadsden (Al),2010,11.8,,,35.7768,-88.9861
+Gadsden (Al),2011,11.4,,,34.0086,-86.0157
+Gadsden (Al),2011,11.4,,,33.848,-80.7663
+Gadsden (Al),2011,11.4,,,32.5564,-114.7811
+Gadsden (Al),2011,11.4,,,35.7768,-88.9861
+Gadsden (Al),2012,9.6,,,34.0086,-86.0157
+Gadsden (Al),2012,9.6,,,33.848,-80.7663
+Gadsden (Al),2012,9.6,,,32.5564,-114.7811
+Gadsden (Al),2012,9.6,,,35.7768,-88.9861
+Gadsden (Al),2013,9.2,,,34.0086,-86.0157
+Gadsden (Al),2013,9.2,,,33.848,-80.7663
+Gadsden (Al),2013,9.2,,,32.5564,-114.7811
+Gadsden (Al),2013,9.2,,,35.7768,-88.9861
+Gadsden (Al),2014,9.3,,,34.0086,-86.0157
+Gadsden (Al),2014,9.3,,,33.848,-80.7663
+Gadsden (Al),2014,9.3,,,32.5564,-114.7811
+Gadsden (Al),2014,9.3,,,35.7768,-88.9861
+Gadsden (Al),2015,9.1,,,34.0086,-86.0157
+Gadsden (Al),2015,9.1,,,33.848,-80.7663
+Gadsden (Al),2015,9.1,,,32.5564,-114.7811
+Gadsden (Al),2015,9.1,,,35.7768,-88.9861
+Gadsden (Al),2016,8.2,,,34.0086,-86.0157
+Gadsden (Al),2016,8.2,,,33.848,-80.7663
+Gadsden (Al),2016,8.2,,,32.5564,-114.7811
+Gadsden (Al),2016,8.2,,,35.7768,-88.9861
+Gadsden (Al),2017,8.9,,,34.0086,-86.0157
+Gadsden (Al),2017,8.9,,,33.848,-80.7663
+Gadsden (Al),2017,8.9,,,32.5564,-114.7811
+Gadsden (Al),2017,8.9,,,35.7768,-88.9861
+Gadsden (Al),2018,7.8,,,34.0086,-86.0157
+Gadsden (Al),2018,7.8,,,33.848,-80.7663
+Gadsden (Al),2018,7.8,,,32.5564,-114.7811
+Gadsden (Al),2018,7.8,,,35.7768,-88.9861
+Gadsden (Al),2019,8.3,,,34.0086,-86.0157
+Gadsden (Al),2019,8.3,,,33.848,-80.7663
+Gadsden (Al),2019,8.3,,,32.5564,-114.7811
+Gadsden (Al),2019,8.3,,,35.7768,-88.9861
+Georgetown (Sc),2010,,19.6,,30.666,-97.6966
+Georgetown (Sc),2010,,19.6,,38.2247,-84.5487
+Georgetown (Sc),2010,,19.6,,31.9849,-81.226
+Georgetown (Sc),2010,,19.6,,33.3594,-79.2958
+Georgetown (Sc),2010,,19.6,,38.6894,-75.3872
+Georgetown (Sc),2010,,19.6,,38.8684,-83.8992
+Georgetown (Sc),2010,,19.6,,38.2954,-85.964
+Georgetown (Sc),2010,,19.6,,39.9774,-87.6354
+Georgetown (Sc),2010,,19.6,,38.9112,-120.8356
+Georgetown (Sc),2010,,19.6,,41.2271,-75.8722
+Georgetown (Sc),2010,,19.6,,41.2494,-73.4343
+Georgetown (Sc),2010,,19.6,,39.7179,-105.6942
+Georgetown (Sc),2010,,19.6,,42.479,-111.3639
+Georgetown (Sc),2010,,19.6,,39.9426,-76.0789
+Georgetown (Sc),2010,,19.6,,31.8698,-90.1648
+Georgetown (Sc),2010,,19.6,,31.7597,-92.3821
+Georgetown (Sc),2010,,19.6,,40.6417,-80.4994
+Georgetown (Sc),2010,,19.6,,35.1267,-91.4539
+Georgetown (Sc),2010,,19.6,,47.0784,-96.7959
+Georgetown (Sc),2010,,19.6,,39.2194,-76.1971
+Georgetown (Sc),2016,,18.3,,30.666,-97.6966
+Georgetown (Sc),2016,,18.3,,38.2247,-84.5487
+Georgetown (Sc),2016,,18.3,,31.9849,-81.226
+Georgetown (Sc),2016,,18.3,,33.3594,-79.2958
+Georgetown (Sc),2016,,18.3,,38.6894,-75.3872
+Georgetown (Sc),2016,,18.3,,38.8684,-83.8992
+Georgetown (Sc),2016,,18.3,,38.2954,-85.964
+Georgetown (Sc),2016,,18.3,,39.9774,-87.6354
+Georgetown (Sc),2016,,18.3,,38.9112,-120.8356
+Georgetown (Sc),2016,,18.3,,41.2271,-75.8722
+Georgetown (Sc),2016,,18.3,,41.2494,-73.4343
+Georgetown (Sc),2016,,18.3,,39.7179,-105.6942
+Georgetown (Sc),2016,,18.3,,42.479,-111.3639
+Georgetown (Sc),2016,,18.3,,39.9426,-76.0789
+Georgetown (Sc),2016,,18.3,,31.8698,-90.1648
+Georgetown (Sc),2016,,18.3,,31.7597,-92.3821
+Georgetown (Sc),2016,,18.3,,40.6417,-80.4994
+Georgetown (Sc),2016,,18.3,,35.1267,-91.4539
+Georgetown (Sc),2016,,18.3,,47.0784,-96.7959
+Georgetown (Sc),2016,,18.3,,39.2194,-76.1971
+Gettysburg (Pa),2012,,,4.4,39.8304,-77.2339
+Gettysburg (Pa),2012,,,4.4,45.006,-99.9539
+Gettysburg (Pa),2012,,,4.4,40.1156,-84.4964
+Gettysburg (Pa),2013,,,4.1,39.8304,-77.2339
+Gettysburg (Pa),2013,,,4.1,45.006,-99.9539
+Gettysburg (Pa),2013,,,4.1,40.1156,-84.4964
+Gettysburg (Pa),2014,,,4.3,39.8304,-77.2339
+Gettysburg (Pa),2014,,,4.3,45.006,-99.9539
+Gettysburg (Pa),2014,,,4.3,40.1156,-84.4964
+Gettysburg (Pa),2016,,,2.3,39.8304,-77.2339
+Gettysburg (Pa),2016,,,2.3,45.006,-99.9539
+Gettysburg (Pa),2016,,,2.3,40.1156,-84.4964
+Gettysburg (Pa),2019,,,3.0,39.8304,-77.2339
+Gettysburg (Pa),2019,,,3.0,45.006,-99.9539
+Gettysburg (Pa),2019,,,3.0,40.1156,-84.4964
+Gillette (Wy),2010,,14.37,7.9,44.2752,-105.4982
+Gillette (Wy),2010,,14.37,7.9,40.6921,-74.4629
+Gillette (Wy),2011,,12.92,4.4,44.2752,-105.4982
+Gillette (Wy),2011,,12.92,4.4,40.6921,-74.4629
+Gillette (Wy),2012,,27.61,7.83,44.2752,-105.4982
+Gillette (Wy),2012,,27.61,7.83,40.6921,-74.4629
+Gillette (Wy),2013,,9.5,7.95,44.2752,-105.4982
+Gillette (Wy),2013,,9.5,7.95,40.6921,-74.4629
+Gillette (Wy),2014,,10.12,2.6,44.2752,-105.4982
+Gillette (Wy),2014,,10.12,2.6,40.6921,-74.4629
+Gillette (Wy),2015,,15.82,2.4,44.2752,-105.4982
+Gillette (Wy),2015,,15.82,2.4,40.6921,-74.4629
+Gillette (Wy),2016,,14.41,2.1,44.2752,-105.4982
+Gillette (Wy),2016,,14.41,2.1,40.6921,-74.4629
+Gillette (Wy),2017,,16.22,,44.2752,-105.4982
+Gillette (Wy),2017,,16.22,,40.6921,-74.4629
+Gillette (Wy),2018,,17.08,2.7,44.2752,-105.4982
+Gillette (Wy),2018,,17.08,2.7,40.6921,-74.4629
+Gillette (Wy),2019,,11.3,2.3,44.2752,-105.4982
+Gillette (Wy),2019,,11.3,2.3,40.6921,-74.4629
+Glenwood Springs (Co),2010,,22.5,,39.5455,-107.3347
+Glenwood Springs (Co),2012,,11.25,,39.5455,-107.3347
+Glenwood Springs (Co),2013,,7.2,,39.5455,-107.3347
+Glenwood Springs (Co),2014,,8.1,,39.5455,-107.3347
+Glenwood Springs (Co),2015,,11.65,,39.5455,-107.3347
+Glenwood Springs (Co),2016,,9.8,,39.5455,-107.3347
+Glenwood Springs (Co),2017,,11.5,,39.5455,-107.3347
+Glenwood Springs (Co),2018,,11.2,,39.5455,-107.3347
+Glenwood Springs (Co),2019,,8.5,,39.5455,-107.3347
+Grand Island (Ne),2011,7.0,,,40.9218,-98.3586
+Grand Junction (Co),2010,9.0,23.0,,39.0877,-108.5673
+Grand Junction (Co),2010,9.0,23.0,,42.033,-94.2369
+Grand Junction (Co),2010,9.0,23.0,,35.05,-89.1889
+Grand Junction (Co),2013,8.8,,,39.0877,-108.5673
+Grand Junction (Co),2013,8.8,,,42.033,-94.2369
+Grand Junction (Co),2013,8.8,,,35.05,-89.1889
+Grand Junction (Co),2014,,18.3,,39.0877,-108.5673
+Grand Junction (Co),2014,,18.3,,42.033,-94.2369
+Grand Junction (Co),2014,,18.3,,35.05,-89.1889
+Grand Junction (Co),2015,,14.9,,39.0877,-108.5673
+Grand Junction (Co),2015,,14.9,,42.033,-94.2369
+Grand Junction (Co),2015,,14.9,,35.05,-89.1889
+Grand Junction (Co),2016,6.2,,,39.0877,-108.5673
+Grand Junction (Co),2016,6.2,,,42.033,-94.2369
+Grand Junction (Co),2016,6.2,,,35.05,-89.1889
+Grand Junction (Co),2017,,16.5,,39.0877,-108.5673
+Grand Junction (Co),2017,,16.5,,42.033,-94.2369
+Grand Junction (Co),2017,,16.5,,35.05,-89.1889
+Grand Rapids-Wyoming (Mi),2010,,13.0,,,
+Grand Rapids-Wyoming (Mi),2013,,12.3,,,
+Grand Rapids-Wyoming (Mi),2015,,17.0,,,
+Grants Pass (Or),2017,12.8,,,42.4333,-123.3317
+Grants Pass (Or),2018,12.2,,,42.4333,-123.3317
+Grantsville (Na),2017,5.9,,,40.6148,-112.4777
+Grantsville (Na),2017,5.9,,,39.6969,-79.1528
+Grantsville (Na),2017,5.9,,,38.9204,-81.0933
+Greeley (Co),2010,7.3,,,40.4152,-104.7706
+Greeley (Co),2010,7.3,,,38.3676,-95.1272
+Greeley (Co),2010,7.3,,,42.5849,-91.3417
+Greeley (Co),2011,7.4,,,40.4152,-104.7706
+Greeley (Co),2011,7.4,,,38.3676,-95.1272
+Greeley (Co),2011,7.4,,,42.5849,-91.3417
+Greeley (Co),2012,7.8,,,40.4152,-104.7706
+Greeley (Co),2012,7.8,,,38.3676,-95.1272
+Greeley (Co),2012,7.8,,,42.5849,-91.3417
+Greeley (Co),2018,,22.8,,40.4152,-104.7706
+Greeley (Co),2018,,22.8,,38.3676,-95.1272
+Greeley (Co),2018,,22.8,,42.5849,-91.3417
+Greenville-Anderson-Mauldin (Sc),2010,,,20.2,,
+Greenville-Anderson-Mauldin (Sc),2014,,,17.8,,
+Greenville-Anderson-Mauldin (Sc),2018,,12.1,,,
+Greenville-Anderson-Mauldin (Sc),2019,,,15.6,,
+Gulfport-Biloxi-Pascagoula (Ms),2010,,,10.4,,
+Gulfport-Biloxi-Pascagoula (Ms),2011,,,9.0,,
+Gulfport-Biloxi-Pascagoula (Ms),2012,,,7.6,,
+Gulfport-Biloxi-Pascagoula (Ms),2013,,,7.8,,
+Gulfport-Biloxi-Pascagoula (Ms),2014,,,8.3,,
+Gulfport-Biloxi-Pascagoula (Ms),2017,,,7.6,,
+Hamilton (Na),2012,16.6,,,39.3939,-84.5653
+Hamilton (Na),2012,16.6,,,34.1346,-87.9755
+Hamilton (Na),2012,16.6,,,46.2527,-114.1598
+Hamilton (Na),2012,16.6,,,31.6997,-98.1208
+Hamilton (Na),2012,16.6,,,40.39,-91.3623
+Hamilton (Na),2012,16.6,,,32.7647,-84.8753
+Hamilton (Na),2012,16.6,,,39.7433,-94.0027
+Hamilton (Na),2012,16.6,,,41.5409,-84.9204
+Hamilton (Na),2012,16.6,,,39.1349,-77.6642
+Hamilton (Na),2012,16.6,,,48.5283,-121.9839
+Hamilton (Na),2012,16.6,,,33.746,-88.4095
+Hamilton (Na),2012,16.6,,,37.9805,-96.1638
+Hamilton (Na),2012,16.6,,,35.9443,-77.2067
+Hamilton (Na),2012,16.6,,,41.1705,-92.9041
+Hamilton (Na),2012,16.6,,,48.808,-97.4518
+Hamilton (Na),2017,14.8,,,39.3939,-84.5653
+Hamilton (Na),2017,14.8,,,34.1346,-87.9755
+Hamilton (Na),2017,14.8,,,46.2527,-114.1598
+Hamilton (Na),2017,14.8,,,31.6997,-98.1208
+Hamilton (Na),2017,14.8,,,40.39,-91.3623
+Hamilton (Na),2017,14.8,,,32.7647,-84.8753
+Hamilton (Na),2017,14.8,,,39.7433,-94.0027
+Hamilton (Na),2017,14.8,,,41.5409,-84.9204
+Hamilton (Na),2017,14.8,,,39.1349,-77.6642
+Hamilton (Na),2017,14.8,,,48.5283,-121.9839
+Hamilton (Na),2017,14.8,,,33.746,-88.4095
+Hamilton (Na),2017,14.8,,,37.9805,-96.1638
+Hamilton (Na),2017,14.8,,,35.9443,-77.2067
+Hamilton (Na),2017,14.8,,,41.1705,-92.9041
+Hamilton (Na),2017,14.8,,,48.808,-97.4518
+Hammond (La),2011,9.3,,,41.6168,-87.4909
+Hammond (La),2011,9.3,,,30.5061,-90.4563
+Hammond (La),2011,9.3,,,44.969,-92.4381
+Hammond (La),2011,9.3,,,39.7994,-88.5921
+Hammond (La),2011,9.3,,,44.2226,-92.3743
+Hanford-Corcoran (Ca),2010,14.5,31.6,,,
+Hanford-Corcoran (Ca),2011,18.0,36.3,17.6,,
+Hanford-Corcoran (Ca),2012,14.8,,,,
+Hanford-Corcoran (Ca),2013,18.2,49.6,19.3,,
+Hanford-Corcoran (Ca),2014,17.5,46.5,18.4,,
+Hanford-Corcoran (Ca),2015,16.5,44.1,17.4,,
+Hanford-Corcoran (Ca),2016,15.5,43.4,,,
+Hanford-Corcoran (Ca),2017,17.2,46.0,,,
+Hanford-Corcoran (Ca),2018,,47.3,16.5,,
+Hanford-Corcoran (Ca),2019,12.2,44.4,15.8,,
+Harrisburg-Carlisle (Pa),2012,,15.5,,,
+Harrisburg-Carlisle (Pa),2015,,17.9,,,
+Harrisonburg (Va),2010,,,19.6,38.4362,-78.8735
+Harrisonburg (Va),2010,,,19.6,31.7681,-91.825
+Harrisonburg (Va),2011,,,17.5,38.4362,-78.8735
+Harrisonburg (Va),2011,,,17.5,31.7681,-91.825
+Harrisonburg (Va),2015,,,15.8,38.4362,-78.8735
+Harrisonburg (Va),2015,,,15.8,31.7681,-91.825
+Harrisonburg (Va),2016,,,15.2,38.4362,-78.8735
+Harrisonburg (Va),2016,,,15.2,31.7681,-91.825
+Hartford-West Hartford-East Hartford (Ct),2010,,10.4,18.1,,
+Hartford-West Hartford-East Hartford (Ct),2011,,11.1,21.0,,
+Hartford-West Hartford-East Hartford (Ct),2012,,10.5,16.7,,
+Hartford-West Hartford-East Hartford (Ct),2013,,11.7,,,
+Hartford-West Hartford-East Hartford (Ct),2014,,9.8,,,
+Hartford-West Hartford-East Hartford (Ct),2016,,9.8,16.9,,
+Hartford-West Hartford-East Hartford (Ct),2017,,9.3,,,
+Hartford-West Hartford-East Hartford (Ct),2018,6.8,9.8,,,
+Hartford-West Hartford-East Hartford (Ct),2019,,8.6,,,
+Helena (Mt),2011,3.8,,,46.5965,-112.0202
+Helena (Mt),2011,3.8,,,33.2837,-86.8791
+Helena (Mt),2011,3.8,,,36.5463,-98.2718
+Helena (Mt),2011,3.8,,,30.4881,-88.5056
+Helena (Mt),2011,3.8,,,34.2807,-81.6445
+Helena (Mt),2011,3.8,,,41.3403,-83.2921
+Helena (Mt),2012,5.4,,,46.5965,-112.0202
+Helena (Mt),2012,5.4,,,33.2837,-86.8791
+Helena (Mt),2012,5.4,,,36.5463,-98.2718
+Helena (Mt),2012,5.4,,,30.4881,-88.5056
+Helena (Mt),2012,5.4,,,34.2807,-81.6445
+Helena (Mt),2012,5.4,,,41.3403,-83.2921
+Helena (Mt),2013,4.4,,,46.5965,-112.0202
+Helena (Mt),2013,4.4,,,33.2837,-86.8791
+Helena (Mt),2013,4.4,,,36.5463,-98.2718
+Helena (Mt),2013,4.4,,,30.4881,-88.5056
+Helena (Mt),2013,4.4,,,34.2807,-81.6445
+Helena (Mt),2013,4.4,,,41.3403,-83.2921
+Helena (Mt),2014,3.1,,,46.5965,-112.0202
+Helena (Mt),2014,3.1,,,33.2837,-86.8791
+Helena (Mt),2014,3.1,,,36.5463,-98.2718
+Helena (Mt),2014,3.1,,,30.4881,-88.5056
+Helena (Mt),2014,3.1,,,34.2807,-81.6445
+Helena (Mt),2014,3.1,,,41.3403,-83.2921
+Helena (Mt),2015,4.5,,,46.5965,-112.0202
+Helena (Mt),2015,4.5,,,33.2837,-86.8791
+Helena (Mt),2015,4.5,,,36.5463,-98.2718
+Helena (Mt),2015,4.5,,,30.4881,-88.5056
+Helena (Mt),2015,4.5,,,34.2807,-81.6445
+Helena (Mt),2015,4.5,,,41.3403,-83.2921
+Helena (Mt),2017,12.4,,,46.5965,-112.0202
+Helena (Mt),2017,12.4,,,33.2837,-86.8791
+Helena (Mt),2017,12.4,,,36.5463,-98.2718
+Helena (Mt),2017,12.4,,,30.4881,-88.5056
+Helena (Mt),2017,12.4,,,34.2807,-81.6445
+Helena (Mt),2017,12.4,,,41.3403,-83.2921
+Hilo (Hi),2010,18.2,,,19.6883,-155.0863
+Hilo (Hi),2011,5.3,,,19.6883,-155.0863
+Hilo (Hi),2012,11.43,,,19.6883,-155.0863
+Hilo (Hi),2013,5.4,,,19.6883,-155.0863
+Hilo (Hi),2014,4.2,,,19.6883,-155.0863
+Hilo (Hi),2015,12.9,,,19.6883,-155.0863
+Hilo (Hi),2016,14.0,,,19.6883,-155.0863
+Hilo (Hi),2018,3.8,,,19.6883,-155.0863
+Hilo (Hi),2019,2.7,,,19.6883,-155.0863
+Hobbs (Nm),2011,,,11.7,32.7281,-103.16
+Hobbs (Nm),2011,,,11.7,40.2836,-85.9475
+Hobbs (Nm),2013,,,7.9,32.7281,-103.16
+Hobbs (Nm),2013,,,7.9,40.2836,-85.9475
+Hobbs (Nm),2017,,,7.9,32.7281,-103.16
+Hobbs (Nm),2017,,,7.9,40.2836,-85.9475
+Holland (Mi),2011,8.4,,,42.7677,-86.0984
+Holland (Mi),2011,8.4,,,41.6192,-83.7081
+Holland (Mi),2011,8.4,,,30.8835,-97.4025
+Holland (Mi),2011,8.4,,,35.166,-92.277
+Holland (Mi),2011,8.4,,,38.2464,-87.0384
+Holland (Mi),2011,8.4,,,44.0897,-96.1944
+Holland (Mi),2011,8.4,,,42.4001,-92.7988
+Holland (Mi),2011,8.4,,,36.0571,-89.8705
+Hot Springs (Ar),2013,9.4,,,34.4892,-93.0501
+Hot Springs (Ar),2013,9.4,,,43.4195,-103.4657
+Hot Springs (Ar),2013,9.4,,,47.6091,-114.6705
+Hot Springs (Ar),2013,9.4,,,35.8934,-82.8303
+Hot Springs (Ar),2013,9.4,,,38.0013,-79.8239
+Hot Springs (Ar),2015,8.5,,,34.4892,-93.0501
+Hot Springs (Ar),2015,8.5,,,43.4195,-103.4657
+Hot Springs (Ar),2015,8.5,,,47.6091,-114.6705
+Hot Springs (Ar),2015,8.5,,,35.8934,-82.8303
+Hot Springs (Ar),2015,8.5,,,38.0013,-79.8239
+Hot Springs (Ar),2017,8.4,,,34.4892,-93.0501
+Hot Springs (Ar),2017,8.4,,,43.4195,-103.4657
+Hot Springs (Ar),2017,8.4,,,47.6091,-114.6705
+Hot Springs (Ar),2017,8.4,,,35.8934,-82.8303
+Hot Springs (Ar),2017,8.4,,,38.0013,-79.8239
+Houston-The Woodlands-Sugar Land (Tx),2010,,35.1,13.64,,
+Houston-The Woodlands-Sugar Land (Tx),2011,,33.4,12.59,,
+Houston-The Woodlands-Sugar Land (Tx),2012,,38.5,14.39,,
+Houston-The Woodlands-Sugar Land (Tx),2013,,30.8,12.09,,
+Houston-The Woodlands-Sugar Land (Tx),2014,11.6,28.97,11.7,,
+Houston-The Woodlands-Sugar Land (Tx),2015,,28.8,10.0,,
+Houston-The Woodlands-Sugar Land (Tx),2016,,24.2,14.77,,
+Houston-The Woodlands-Sugar Land (Tx),2017,,26.9,11.07,,
+Houston-The Woodlands-Sugar Land (Tx),2018,,,10.88,,
+Houston-The Woodlands-Sugar Land (Tx),2019,,28.0,13.26,,
+Huntington-Ashland (Wv-Ky-Oh),2011,,28.1,13.5,,
+Huntington-Ashland (Wv-Ky-Oh),2012,,23.35,11.7,,
+Huntington-Ashland (Wv-Ky-Oh),2013,,22.4,10.5,,
+Huntington-Ashland (Wv-Ky-Oh),2014,,19.1,11.1,,
+Huntington-Ashland (Wv-Ky-Oh),2015,,,11.3,,
+Huntington-Ashland (Wv-Ky-Oh),2016,,21.9,9.2,,
+Huntington-Ashland (Wv-Ky-Oh),2017,,,8.0,,
+Huntington-Ashland (Wv-Ky-Oh),2018,,11.0,9.0,,
+Huntington-Ashland (Wv-Ky-Oh),2019,,14.05,9.2,,
+Huntsville (Al),2010,,17.38,,34.6981,-86.6412
+Huntsville (Al),2010,,17.38,,30.7009,-95.5567
+Huntsville (Al),2010,,17.38,,36.0985,-93.7363
+Huntsville (Al),2010,,17.38,,36.4112,-84.5056
+Huntsville (Al),2010,,17.38,,39.4364,-92.5437
+Huntsville (Al),2010,,17.38,,41.2602,-111.774
+Huntsville (Al),2010,,17.38,,40.4425,-83.8043
+Huntsville (Al),2011,11.3,16.15,,34.6981,-86.6412
+Huntsville (Al),2011,11.3,16.15,,30.7009,-95.5567
+Huntsville (Al),2011,11.3,16.15,,36.0985,-93.7363
+Huntsville (Al),2011,11.3,16.15,,36.4112,-84.5056
+Huntsville (Al),2011,11.3,16.15,,39.4364,-92.5437
+Huntsville (Al),2011,11.3,16.15,,41.2602,-111.774
+Huntsville (Al),2011,11.3,16.15,,40.4425,-83.8043
+Huntsville (Al),2012,9.3,14.85,,34.6981,-86.6412
+Huntsville (Al),2012,9.3,14.85,,30.7009,-95.5567
+Huntsville (Al),2012,9.3,14.85,,36.0985,-93.7363
+Huntsville (Al),2012,9.3,14.85,,36.4112,-84.5056
+Huntsville (Al),2012,9.3,14.85,,39.4364,-92.5437
+Huntsville (Al),2012,9.3,14.85,,41.2602,-111.774
+Huntsville (Al),2012,9.3,14.85,,40.4425,-83.8043
+Huntsville (Al),2013,,14.1,,34.6981,-86.6412
+Huntsville (Al),2013,,14.1,,30.7009,-95.5567
+Huntsville (Al),2013,,14.1,,36.0985,-93.7363
+Huntsville (Al),2013,,14.1,,36.4112,-84.5056
+Huntsville (Al),2013,,14.1,,39.4364,-92.5437
+Huntsville (Al),2013,,14.1,,41.2602,-111.774
+Huntsville (Al),2013,,14.1,,40.4425,-83.8043
+Huntsville (Al),2014,9.0,14.25,,34.6981,-86.6412
+Huntsville (Al),2014,9.0,14.25,,30.7009,-95.5567
+Huntsville (Al),2014,9.0,14.25,,36.0985,-93.7363
+Huntsville (Al),2014,9.0,14.25,,36.4112,-84.5056
+Huntsville (Al),2014,9.0,14.25,,39.4364,-92.5437
+Huntsville (Al),2014,9.0,14.25,,41.2602,-111.774
+Huntsville (Al),2014,9.0,14.25,,40.4425,-83.8043
+Huntsville (Al),2015,8.2,16.5,,34.6981,-86.6412
+Huntsville (Al),2015,8.2,16.5,,30.7009,-95.5567
+Huntsville (Al),2015,8.2,16.5,,36.0985,-93.7363
+Huntsville (Al),2015,8.2,16.5,,36.4112,-84.5056
+Huntsville (Al),2015,8.2,16.5,,39.4364,-92.5437
+Huntsville (Al),2015,8.2,16.5,,41.2602,-111.774
+Huntsville (Al),2015,8.2,16.5,,40.4425,-83.8043
+Huntsville (Al),2016,7.6,15.35,,34.6981,-86.6412
+Huntsville (Al),2016,7.6,15.35,,30.7009,-95.5567
+Huntsville (Al),2016,7.6,15.35,,36.0985,-93.7363
+Huntsville (Al),2016,7.6,15.35,,36.4112,-84.5056
+Huntsville (Al),2016,7.6,15.35,,39.4364,-92.5437
+Huntsville (Al),2016,7.6,15.35,,41.2602,-111.774
+Huntsville (Al),2016,7.6,15.35,,40.4425,-83.8043
+Huntsville (Al),2017,7.5,12.47,,34.6981,-86.6412
+Huntsville (Al),2017,7.5,12.47,,30.7009,-95.5567
+Huntsville (Al),2017,7.5,12.47,,36.0985,-93.7363
+Huntsville (Al),2017,7.5,12.47,,36.4112,-84.5056
+Huntsville (Al),2017,7.5,12.47,,39.4364,-92.5437
+Huntsville (Al),2017,7.5,12.47,,41.2602,-111.774
+Huntsville (Al),2017,7.5,12.47,,40.4425,-83.8043
+Huntsville (Al),2018,7.4,13.8,,34.6981,-86.6412
+Huntsville (Al),2018,7.4,13.8,,30.7009,-95.5567
+Huntsville (Al),2018,7.4,13.8,,36.0985,-93.7363
+Huntsville (Al),2018,7.4,13.8,,36.4112,-84.5056
+Huntsville (Al),2018,7.4,13.8,,39.4364,-92.5437
+Huntsville (Al),2018,7.4,13.8,,41.2602,-111.774
+Huntsville (Al),2018,7.4,13.8,,40.4425,-83.8043
+Huntsville (Al),2019,,13.82,,34.6981,-86.6412
+Huntsville (Al),2019,,13.82,,30.7009,-95.5567
+Huntsville (Al),2019,,13.82,,36.0985,-93.7363
+Huntsville (Al),2019,,13.82,,36.4112,-84.5056
+Huntsville (Al),2019,,13.82,,39.4364,-92.5437
+Huntsville (Al),2019,,13.82,,41.2602,-111.774
+Huntsville (Al),2019,,13.82,,40.4425,-83.8043
+Indianapolis-Carmel-Anderson (In),2010,14.03,,,,
+Indianapolis-Carmel-Anderson (In),2011,13.9,22.95,,,
+Indianapolis-Carmel-Anderson (In),2012,11.1,29.6,,,
+Indianapolis-Carmel-Anderson (In),2013,,24.5,,,
+Indianapolis-Carmel-Anderson (In),2014,12.13,26.2,,,
+Indianapolis-Carmel-Anderson (In),2015,10.63,27.3,,,
+Indianapolis-Carmel-Anderson (In),2016,9.2,16.1,,,
+Indianapolis-Carmel-Anderson (In),2018,,16.1,,,
+Indianapolis-Carmel-Anderson (In),2019,9.7,26.2,,,
+Interior Township,2010,3.9,7.6,,,
+Interior Township,2011,3.4,8.3,,,
+Interior Township,2012,4.1,11.0,1.8,,
+Interior Township,2013,,,1.9,,
+Interior Township,2014,4.3,8.5,,,
+Interior Township,2016,2.5,9.4,0.8,,
+Interior Township,2017,3.6,,,,
+Interior Township,2018,,9.5,,,
+Interior Township,2019,,,1.7,,
+Iowa City (Ia),2010,11.5,22.7,,41.6559,-91.5303
+Iowa City (Ia),2013,,19.0,,41.6559,-91.5303
+Iowa City (Ia),2014,,19.4,,41.6559,-91.5303
+Iowa City (Ia),2015,,18.7,,41.6559,-91.5303
+Iowa City (Ia),2016,,16.9,,41.6559,-91.5303
+Jackson (Wy-Id),2017,,11.1,,32.3157,-90.2125
+Jackson (Wy-Id),2017,,11.1,,42.2431,-84.4038
+Jackson (Wy-Id),2017,,11.1,,35.6538,-88.8354
+Jackson (Wy-Id),2017,,11.1,,37.3792,-89.6522
+Jackson (Wy-Id),2017,,11.1,,43.472,-110.7746
+Jackson (Wy-Id),2017,,11.1,,43.3233,-88.1666
+Jackson (Wy-Id),2017,,11.1,,39.0448,-82.6458
+Jackson (Wy-Id),2017,,11.1,,33.292,-83.9679
+Jackson (Wy-Id),2017,,11.1,,38.3485,-120.7728
+Jackson (Wy-Id),2017,,11.1,,31.5318,-87.8915
+Jackson (Wy-Id),2017,,11.1,,30.8346,-91.208
+Jackson (Wy-Id),2017,,11.1,,43.6265,-94.9891
+Jackson (Wy-Id),2017,,11.1,,37.5589,-83.3783
+Jackson (Wy-Id),2017,,11.1,,33.3283,-81.7925
+Jackson (Wy-Id),2017,,11.1,,36.3901,-77.4193
+Jackson (Wy-Id),2017,,11.1,,42.4507,-96.5787
+Jackson (Wy-Id),2017,,11.1,,45.3679,-113.4097
+Jacksonville (Fl),2010,,20.6,,30.3322,-81.6749
+Jacksonville (Fl),2010,,20.6,,34.7289,-77.3941
+Jacksonville (Fl),2010,,20.6,,34.8807,-92.1304
+Jacksonville (Fl),2010,,20.6,,39.7292,-90.2317
+Jacksonville (Fl),2010,,20.6,,33.8088,-85.7545
+Jacksonville (Fl),2010,,20.6,,31.9642,-95.2617
+Jacksonville (Fl),2010,,20.6,,42.3127,-122.9692
+Jacksonville (Fl),2010,,20.6,,42.5088,-76.6167
+Jacksonville (Fl),2010,,20.6,,40.5615,-79.2997
+Jacksonville (Fl),2010,,20.6,,39.4761,-82.0796
+Jacksonville (Fl),2010,,20.6,,42.7976,-72.8192
+Jacksonville (Fl),2010,,20.6,,31.8125,-82.979
+Jacksonville (Fl),2010,,20.6,,39.5877,-92.4728
+Jacksonville (Fl),2010,,20.6,,41.6452,-95.1515
+Jacksonville (Fl),2011,,,15.8,30.3322,-81.6749
+Jacksonville (Fl),2011,,,15.8,34.7289,-77.3941
+Jacksonville (Fl),2011,,,15.8,34.8807,-92.1304
+Jacksonville (Fl),2011,,,15.8,39.7292,-90.2317
+Jacksonville (Fl),2011,,,15.8,33.8088,-85.7545
+Jacksonville (Fl),2011,,,15.8,31.9642,-95.2617
+Jacksonville (Fl),2011,,,15.8,42.3127,-122.9692
+Jacksonville (Fl),2011,,,15.8,42.5088,-76.6167
+Jacksonville (Fl),2011,,,15.8,40.5615,-79.2997
+Jacksonville (Fl),2011,,,15.8,39.4761,-82.0796
+Jacksonville (Fl),2011,,,15.8,42.7976,-72.8192
+Jacksonville (Fl),2011,,,15.8,31.8125,-82.979
+Jacksonville (Fl),2011,,,15.8,39.5877,-92.4728
+Jacksonville (Fl),2011,,,15.8,41.6452,-95.1515
+Jacksonville (Fl),2012,,19.1,15.2,30.3322,-81.6749
+Jacksonville (Fl),2012,,19.1,15.2,34.7289,-77.3941
+Jacksonville (Fl),2012,,19.1,15.2,34.8807,-92.1304
+Jacksonville (Fl),2012,,19.1,15.2,39.7292,-90.2317
+Jacksonville (Fl),2012,,19.1,15.2,33.8088,-85.7545
+Jacksonville (Fl),2012,,19.1,15.2,31.9642,-95.2617
+Jacksonville (Fl),2012,,19.1,15.2,42.3127,-122.9692
+Jacksonville (Fl),2012,,19.1,15.2,42.5088,-76.6167
+Jacksonville (Fl),2012,,19.1,15.2,40.5615,-79.2997
+Jacksonville (Fl),2012,,19.1,15.2,39.4761,-82.0796
+Jacksonville (Fl),2012,,19.1,15.2,42.7976,-72.8192
+Jacksonville (Fl),2012,,19.1,15.2,31.8125,-82.979
+Jacksonville (Fl),2012,,19.1,15.2,39.5877,-92.4728
+Jacksonville (Fl),2012,,19.1,15.2,41.6452,-95.1515
+Jacksonville (Fl),2013,,19.1,14.6,30.3322,-81.6749
+Jacksonville (Fl),2013,,19.1,14.6,34.7289,-77.3941
+Jacksonville (Fl),2013,,19.1,14.6,34.8807,-92.1304
+Jacksonville (Fl),2013,,19.1,14.6,39.7292,-90.2317
+Jacksonville (Fl),2013,,19.1,14.6,33.8088,-85.7545
+Jacksonville (Fl),2013,,19.1,14.6,31.9642,-95.2617
+Jacksonville (Fl),2013,,19.1,14.6,42.3127,-122.9692
+Jacksonville (Fl),2013,,19.1,14.6,42.5088,-76.6167
+Jacksonville (Fl),2013,,19.1,14.6,40.5615,-79.2997
+Jacksonville (Fl),2013,,19.1,14.6,39.4761,-82.0796
+Jacksonville (Fl),2013,,19.1,14.6,42.7976,-72.8192
+Jacksonville (Fl),2013,,19.1,14.6,31.8125,-82.979
+Jacksonville (Fl),2013,,19.1,14.6,39.5877,-92.4728
+Jacksonville (Fl),2013,,19.1,14.6,41.6452,-95.1515
+Jacksonville (Fl),2014,,15.8,,30.3322,-81.6749
+Jacksonville (Fl),2014,,15.8,,34.7289,-77.3941
+Jacksonville (Fl),2014,,15.8,,34.8807,-92.1304
+Jacksonville (Fl),2014,,15.8,,39.7292,-90.2317
+Jacksonville (Fl),2014,,15.8,,33.8088,-85.7545
+Jacksonville (Fl),2014,,15.8,,31.9642,-95.2617
+Jacksonville (Fl),2014,,15.8,,42.3127,-122.9692
+Jacksonville (Fl),2014,,15.8,,42.5088,-76.6167
+Jacksonville (Fl),2014,,15.8,,40.5615,-79.2997
+Jacksonville (Fl),2014,,15.8,,39.4761,-82.0796
+Jacksonville (Fl),2014,,15.8,,42.7976,-72.8192
+Jacksonville (Fl),2014,,15.8,,31.8125,-82.979
+Jacksonville (Fl),2014,,15.8,,39.5877,-92.4728
+Jacksonville (Fl),2014,,15.8,,41.6452,-95.1515
+Jacksonville (Fl),2016,,,13.6,30.3322,-81.6749
+Jacksonville (Fl),2016,,,13.6,34.7289,-77.3941
+Jacksonville (Fl),2016,,,13.6,34.8807,-92.1304
+Jacksonville (Fl),2016,,,13.6,39.7292,-90.2317
+Jacksonville (Fl),2016,,,13.6,33.8088,-85.7545
+Jacksonville (Fl),2016,,,13.6,31.9642,-95.2617
+Jacksonville (Fl),2016,,,13.6,42.3127,-122.9692
+Jacksonville (Fl),2016,,,13.6,42.5088,-76.6167
+Jacksonville (Fl),2016,,,13.6,40.5615,-79.2997
+Jacksonville (Fl),2016,,,13.6,39.4761,-82.0796
+Jacksonville (Fl),2016,,,13.6,42.7976,-72.8192
+Jacksonville (Fl),2016,,,13.6,31.8125,-82.979
+Jacksonville (Fl),2016,,,13.6,39.5877,-92.4728
+Jacksonville (Fl),2016,,,13.6,41.6452,-95.1515
+Jacksonville (Fl),2017,,,13.0,30.3322,-81.6749
+Jacksonville (Fl),2017,,,13.0,34.7289,-77.3941
+Jacksonville (Fl),2017,,,13.0,34.8807,-92.1304
+Jacksonville (Fl),2017,,,13.0,39.7292,-90.2317
+Jacksonville (Fl),2017,,,13.0,33.8088,-85.7545
+Jacksonville (Fl),2017,,,13.0,31.9642,-95.2617
+Jacksonville (Fl),2017,,,13.0,42.3127,-122.9692
+Jacksonville (Fl),2017,,,13.0,42.5088,-76.6167
+Jacksonville (Fl),2017,,,13.0,40.5615,-79.2997
+Jacksonville (Fl),2017,,,13.0,39.4761,-82.0796
+Jacksonville (Fl),2017,,,13.0,42.7976,-72.8192
+Jacksonville (Fl),2017,,,13.0,31.8125,-82.979
+Jacksonville (Fl),2017,,,13.0,39.5877,-92.4728
+Jacksonville (Fl),2017,,,13.0,41.6452,-95.1515
+Jacksonville (Fl),2018,,,12.9,30.3322,-81.6749
+Jacksonville (Fl),2018,,,12.9,34.7289,-77.3941
+Jacksonville (Fl),2018,,,12.9,34.8807,-92.1304
+Jacksonville (Fl),2018,,,12.9,39.7292,-90.2317
+Jacksonville (Fl),2018,,,12.9,33.8088,-85.7545
+Jacksonville (Fl),2018,,,12.9,31.9642,-95.2617
+Jacksonville (Fl),2018,,,12.9,42.3127,-122.9692
+Jacksonville (Fl),2018,,,12.9,42.5088,-76.6167
+Jacksonville (Fl),2018,,,12.9,40.5615,-79.2997
+Jacksonville (Fl),2018,,,12.9,39.4761,-82.0796
+Jacksonville (Fl),2018,,,12.9,42.7976,-72.8192
+Jacksonville (Fl),2018,,,12.9,31.8125,-82.979
+Jacksonville (Fl),2018,,,12.9,39.5877,-92.4728
+Jacksonville (Fl),2018,,,12.9,41.6452,-95.1515
+Jacksonville (Fl),2019,,19.6,12.3,30.3322,-81.6749
+Jacksonville (Fl),2019,,19.6,12.3,34.7289,-77.3941
+Jacksonville (Fl),2019,,19.6,12.3,34.8807,-92.1304
+Jacksonville (Fl),2019,,19.6,12.3,39.7292,-90.2317
+Jacksonville (Fl),2019,,19.6,12.3,33.8088,-85.7545
+Jacksonville (Fl),2019,,19.6,12.3,31.9642,-95.2617
+Jacksonville (Fl),2019,,19.6,12.3,42.3127,-122.9692
+Jacksonville (Fl),2019,,19.6,12.3,42.5088,-76.6167
+Jacksonville (Fl),2019,,19.6,12.3,40.5615,-79.2997
+Jacksonville (Fl),2019,,19.6,12.3,39.4761,-82.0796
+Jacksonville (Fl),2019,,19.6,12.3,42.7976,-72.8192
+Jacksonville (Fl),2019,,19.6,12.3,31.8125,-82.979
+Jacksonville (Fl),2019,,19.6,12.3,39.5877,-92.4728
+Jacksonville (Fl),2019,,19.6,12.3,41.6452,-95.1515
+Jasper (In),2010,,20.9,,38.3933,-86.9402
+Jasper (In),2010,,20.9,,33.8508,-87.271
+Jasper (In),2010,,20.9,,30.9221,-93.9947
+Jasper (In),2010,,20.9,,30.5061,-82.954
+Jasper (In),2010,,20.9,,34.471,-84.4497
+Jasper (In),2010,,20.9,,35.0663,-85.6227
+Jasper (In),2010,,20.9,,37.3354,-94.3023
+Jasper (In),2010,,20.9,,36.0124,-93.1874
+Jasper (In),2010,,20.9,,43.8491,-96.3999
+Jasper (In),2010,,20.9,,43.9892,-122.91
+Jasper (In),2010,,20.9,,41.7859,-84.0403
+Jasper (In),2011,,18.2,,38.3933,-86.9402
+Jasper (In),2011,,18.2,,33.8508,-87.271
+Jasper (In),2011,,18.2,,30.9221,-93.9947
+Jasper (In),2011,,18.2,,30.5061,-82.954
+Jasper (In),2011,,18.2,,34.471,-84.4497
+Jasper (In),2011,,18.2,,35.0663,-85.6227
+Jasper (In),2011,,18.2,,37.3354,-94.3023
+Jasper (In),2011,,18.2,,36.0124,-93.1874
+Jasper (In),2011,,18.2,,43.8491,-96.3999
+Jasper (In),2011,,18.2,,43.9892,-122.91
+Jasper (In),2011,,18.2,,41.7859,-84.0403
+Jasper (In),2013,10.9,,,38.3933,-86.9402
+Jasper (In),2013,10.9,,,33.8508,-87.271
+Jasper (In),2013,10.9,,,30.9221,-93.9947
+Jasper (In),2013,10.9,,,30.5061,-82.954
+Jasper (In),2013,10.9,,,34.471,-84.4497
+Jasper (In),2013,10.9,,,35.0663,-85.6227
+Jasper (In),2013,10.9,,,37.3354,-94.3023
+Jasper (In),2013,10.9,,,36.0124,-93.1874
+Jasper (In),2013,10.9,,,43.8491,-96.3999
+Jasper (In),2013,10.9,,,43.9892,-122.91
+Jasper (In),2013,10.9,,,41.7859,-84.0403
+Jasper (In),2014,11.1,17.1,,38.3933,-86.9402
+Jasper (In),2014,11.1,17.1,,33.8508,-87.271
+Jasper (In),2014,11.1,17.1,,30.9221,-93.9947
+Jasper (In),2014,11.1,17.1,,30.5061,-82.954
+Jasper (In),2014,11.1,17.1,,34.471,-84.4497
+Jasper (In),2014,11.1,17.1,,35.0663,-85.6227
+Jasper (In),2014,11.1,17.1,,37.3354,-94.3023
+Jasper (In),2014,11.1,17.1,,36.0124,-93.1874
+Jasper (In),2014,11.1,17.1,,43.8491,-96.3999
+Jasper (In),2014,11.1,17.1,,43.9892,-122.91
+Jasper (In),2014,11.1,17.1,,41.7859,-84.0403
+Jasper (In),2016,,15.0,,38.3933,-86.9402
+Jasper (In),2016,,15.0,,33.8508,-87.271
+Jasper (In),2016,,15.0,,30.9221,-93.9947
+Jasper (In),2016,,15.0,,30.5061,-82.954
+Jasper (In),2016,,15.0,,34.471,-84.4497
+Jasper (In),2016,,15.0,,35.0663,-85.6227
+Jasper (In),2016,,15.0,,37.3354,-94.3023
+Jasper (In),2016,,15.0,,36.0124,-93.1874
+Jasper (In),2016,,15.0,,43.8491,-96.3999
+Jasper (In),2016,,15.0,,43.9892,-122.91
+Jasper (In),2016,,15.0,,41.7859,-84.0403
+Jasper (In),2018,8.9,,,38.3933,-86.9402
+Jasper (In),2018,8.9,,,33.8508,-87.271
+Jasper (In),2018,8.9,,,30.9221,-93.9947
+Jasper (In),2018,8.9,,,30.5061,-82.954
+Jasper (In),2018,8.9,,,34.471,-84.4497
+Jasper (In),2018,8.9,,,35.0663,-85.6227
+Jasper (In),2018,8.9,,,37.3354,-94.3023
+Jasper (In),2018,8.9,,,36.0124,-93.1874
+Jasper (In),2018,8.9,,,43.8491,-96.3999
+Jasper (In),2018,8.9,,,43.9892,-122.91
+Jasper (In),2018,8.9,,,41.7859,-84.0403
+Jefferson Township,2015,,12.7,,,
+Jefferson Township,2016,,10.9,,,
+Jefferson Township,2017,,12.9,,,
+Johnstown (Pa),2010,,,19.7,40.326,-78.9194
+Johnstown (Pa),2010,,,19.7,40.3499,-104.9482
+Johnstown (Pa),2010,,,19.7,43.0073,-74.3755
+Johnstown (Pa),2010,,,19.7,40.15,-82.6881
+Johnstown (Pa),2010,,,19.7,43.1118,-108.6955
+Johnstown (Pa),2010,,,19.7,42.5721,-100.0563
+Johnstown (Pa),2012,,,16.0,40.326,-78.9194
+Johnstown (Pa),2012,,,16.0,40.3499,-104.9482
+Johnstown (Pa),2012,,,16.0,43.0073,-74.3755
+Johnstown (Pa),2012,,,16.0,40.15,-82.6881
+Johnstown (Pa),2012,,,16.0,43.1118,-108.6955
+Johnstown (Pa),2012,,,16.0,42.5721,-100.0563
+Johnstown (Pa),2013,,,14.7,40.326,-78.9194
+Johnstown (Pa),2013,,,14.7,40.3499,-104.9482
+Johnstown (Pa),2013,,,14.7,43.0073,-74.3755
+Johnstown (Pa),2013,,,14.7,40.15,-82.6881
+Johnstown (Pa),2013,,,14.7,43.1118,-108.6955
+Johnstown (Pa),2013,,,14.7,42.5721,-100.0563
+Johnstown (Pa),2015,11.7,,,40.326,-78.9194
+Johnstown (Pa),2015,11.7,,,40.3499,-104.9482
+Johnstown (Pa),2015,11.7,,,43.0073,-74.3755
+Johnstown (Pa),2015,11.7,,,40.15,-82.6881
+Johnstown (Pa),2015,11.7,,,43.1118,-108.6955
+Johnstown (Pa),2015,11.7,,,42.5721,-100.0563
+Johnstown (Pa),2016,,,12.6,40.326,-78.9194
+Johnstown (Pa),2016,,,12.6,40.3499,-104.9482
+Johnstown (Pa),2016,,,12.6,43.0073,-74.3755
+Johnstown (Pa),2016,,,12.6,40.15,-82.6881
+Johnstown (Pa),2016,,,12.6,43.1118,-108.6955
+Johnstown (Pa),2016,,,12.6,42.5721,-100.0563
+Johnstown (Pa),2017,11.8,,10.8,40.326,-78.9194
+Johnstown (Pa),2017,11.8,,10.8,40.3499,-104.9482
+Johnstown (Pa),2017,11.8,,10.8,43.0073,-74.3755
+Johnstown (Pa),2017,11.8,,10.8,40.15,-82.6881
+Johnstown (Pa),2017,11.8,,10.8,43.1118,-108.6955
+Johnstown (Pa),2017,11.8,,10.8,42.5721,-100.0563
+Joplin (Mo),2011,,30.4,,37.0757,-94.5018
+Joplin (Mo),2011,,30.4,,48.559,-110.773
+Joplin (Mo),2014,,29.5,,37.0757,-94.5018
+Joplin (Mo),2014,,29.5,,48.559,-110.773
+Joplin (Mo),2015,,28.5,,37.0757,-94.5018
+Joplin (Mo),2015,,28.5,,48.559,-110.773
+Joplin (Mo),2019,,22.4,,37.0757,-94.5018
+Joplin (Mo),2019,,22.4,,48.559,-110.773
+Juneau (Ak),2010,8.8,9.0,,58.4546,-134.1739
+Juneau (Ak),2010,8.8,9.0,,43.4053,-88.7041
+Juneau (Ak),2011,7.1,7.5,,58.4546,-134.1739
+Juneau (Ak),2011,7.1,7.5,,43.4053,-88.7041
+Juneau (Ak),2012,6.4,6.9,,58.4546,-134.1739
+Juneau (Ak),2012,6.4,6.9,,43.4053,-88.7041
+Juneau (Ak),2013,5.9,8.3,,58.4546,-134.1739
+Juneau (Ak),2013,5.9,8.3,,43.4053,-88.7041
+Juneau (Ak),2014,7.7,9.6,,58.4546,-134.1739
+Juneau (Ak),2014,7.7,9.6,,43.4053,-88.7041
+Juneau (Ak),2015,6.6,7.0,,58.4546,-134.1739
+Juneau (Ak),2015,6.6,7.0,,43.4053,-88.7041
+Juneau (Ak),2016,6.0,8.4,,58.4546,-134.1739
+Juneau (Ak),2016,6.0,8.4,,43.4053,-88.7041
+Juneau (Ak),2017,5.6,6.7,,58.4546,-134.1739
+Juneau (Ak),2017,5.6,6.7,,43.4053,-88.7041
+Juneau (Ak),2018,6.9,,,58.4546,-134.1739
+Juneau (Ak),2018,6.9,,,43.4053,-88.7041
+Juneau (Ak),2019,6.8,,,58.4546,-134.1739
+Juneau (Ak),2019,6.8,,,43.4053,-88.7041
+Kahului-Wailuku-Lahaina (Hi),2010,4.8,,,,
+Kahului-Wailuku-Lahaina (Hi),2016,3.7,,,,
+Kahului-Wailuku-Lahaina (Hi),2017,4.1,,,,
+Kahului-Wailuku-Lahaina (Hi),2019,4.1,,,,
+Kalispell (Mt),2012,,13.7,,48.2153,-114.3274
+Kalispell (Mt),2013,,13.0,,48.2153,-114.3274
+Kalispell (Mt),2014,,22.5,,48.2153,-114.3274
+Kalispell (Mt),2015,,30.7,,48.2153,-114.3274
+Kalispell (Mt),2016,,17.3,,48.2153,-114.3274
+Kalispell (Mt),2017,,22.45,,48.2153,-114.3274
+Kalispell (Mt),2018,,26.1,,48.2153,-114.3274
+Kansas City (Mo-Ks),2010,,,26.4,39.1238,-94.5541
+Kansas City (Mo-Ks),2010,,,26.4,39.1235,-94.7443
+Kansas City (Mo-Ks),2012,,,23.1,39.1238,-94.5541
+Kansas City (Mo-Ks),2012,,,23.1,39.1235,-94.7443
+Kansas City (Mo-Ks),2013,,,23.4,39.1238,-94.5541
+Kansas City (Mo-Ks),2013,,,23.4,39.1235,-94.7443
+Kansas City (Mo-Ks),2014,10.5,,23.05,39.1238,-94.5541
+Kansas City (Mo-Ks),2014,10.5,,23.05,39.1235,-94.7443
+Kansas City (Mo-Ks),2016,5.1,,21.9,39.1238,-94.5541
+Kansas City (Mo-Ks),2016,5.1,,21.9,39.1235,-94.7443
+Kansas City (Mo-Ks),2017,9.9,,22.1,39.1238,-94.5541
+Kansas City (Mo-Ks),2017,9.9,,22.1,39.1235,-94.7443
+Kansas City (Mo-Ks),2018,,,21.7,39.1238,-94.5541
+Kansas City (Mo-Ks),2018,,,21.7,39.1235,-94.7443
+Kansas City (Mo-Ks),2019,,,20.5,39.1238,-94.5541
+Kansas City (Mo-Ks),2019,,,20.5,39.1235,-94.7443
+Kapaa (Hi),2013,3.9,,4.2,22.091,-159.3521
+Kapaa (Hi),2014,,,4.5,22.091,-159.3521
+Kapaa (Hi),2015,3.2,,4.3,22.091,-159.3521
+Kapaa (Hi),2016,3.5,,,22.091,-159.3521
+Kapaa (Hi),2017,2.6,,3.5,22.091,-159.3521
+Kapaa (Hi),2018,,,8.6,22.091,-159.3521
+Kapaa (Hi),2019,2.9,,8.0,22.091,-159.3521
+Keene (Nh),2018,5.3,,,42.9494,-72.2998
+Keene (Nh),2018,5.3,,,32.3955,-97.3226
+Keene (Nh),2018,5.3,,,35.2335,-118.6098
+Keene (Nh),2018,5.3,,,37.9431,-84.6411
+Kemmerer,2011,,12.8,,41.7761,-110.5555
+Kemmerer,2012,,26.3,,41.7761,-110.5555
+Kemmerer,2014,,11.3,,41.7761,-110.5555
+Kemmerer,2015,,11.6,,41.7761,-110.5555
+Kemmerer,2017,,14.4,,41.7761,-110.5555
+Klamath Falls (Or),2013,13.0,,,42.2195,-121.7754
+Klamath Falls (Or),2017,11.7,,,42.2195,-121.7754
+Klamath Falls (Or),2018,18.6,,,42.2195,-121.7754
+Laconia (Nh),2017,4.6,,,43.5725,-71.4775
+Laconia (Nh),2017,4.6,,,38.0318,-86.0855
+Laconia (Nh),2019,3.6,,,43.5725,-71.4775
+Laconia (Nh),2019,3.6,,,38.0318,-86.0855
+Lafayette (La),2011,,19.4,,30.2082,-92.0325
+Lafayette (La),2011,,19.4,,40.3991,-86.8593
+Lafayette (La),2011,,19.4,,39.9946,-105.0998
+Lafayette (La),2011,,19.4,,37.8919,-122.1189
+Lafayette (La),2011,,19.4,,36.5241,-86.0304
+Lafayette (La),2011,,19.4,,45.2463,-123.1115
+Lafayette (La),2011,,19.4,,37.233,-80.2051
+Lafayette (La),2011,,19.4,,44.4471,-94.3927
+Lafayette (La),2011,,19.4,,40.7589,-83.9499
+Lafayette (La),2014,,20.5,,30.2082,-92.0325
+Lafayette (La),2014,,20.5,,40.3991,-86.8593
+Lafayette (La),2014,,20.5,,39.9946,-105.0998
+Lafayette (La),2014,,20.5,,37.8919,-122.1189
+Lafayette (La),2014,,20.5,,36.5241,-86.0304
+Lafayette (La),2014,,20.5,,45.2463,-123.1115
+Lafayette (La),2014,,20.5,,37.233,-80.2051
+Lafayette (La),2014,,20.5,,44.4471,-94.3927
+Lafayette (La),2014,,20.5,,40.7589,-83.9499
+Lafayette (La),2019,,14.9,,30.2082,-92.0325
+Lafayette (La),2019,,14.9,,40.3991,-86.8593
+Lafayette (La),2019,,14.9,,39.9946,-105.0998
+Lafayette (La),2019,,14.9,,37.8919,-122.1189
+Lafayette (La),2019,,14.9,,36.5241,-86.0304
+Lafayette (La),2019,,14.9,,45.2463,-123.1115
+Lafayette (La),2019,,14.9,,37.233,-80.2051
+Lafayette (La),2019,,14.9,,44.4471,-94.3927
+Lafayette (La),2019,,14.9,,40.7589,-83.9499
+Lafayette-West Lafayette (In),2010,12.0,,,,
+Lake Charles (La),2010,,,12.6,30.201,-93.2111
+Lake Charles (La),2011,,,12.1,30.201,-93.2111
+Lake Charles (La),2013,,,9.2,30.201,-93.2111
+Lake Charles (La),2015,,,11.9,30.201,-93.2111
+Lake Charles (La),2017,,,11.0,30.201,-93.2111
+Lake Havasu City-Kingman (Az),2012,,21.3,,,
+Lake Havasu City-Kingman (Az),2013,,20.8,,,
+Lake Havasu City-Kingman (Az),2014,,20.6,,,
+Lake Havasu City-Kingman (Az),2016,,22.4,,,
+Lake Havasu City-Kingman (Az),2017,,19.2,,,
+Lake Havasu City-Kingman (Az),2018,,19.9,,,
+Lake Havasu City-Kingman (Az),2019,,16.0,,,
+Lakeland-Winter Haven (Fl),2016,,14.2,,,
+Lamar,2011,,21.3,,38.074,-102.6154
+Lamar,2011,,21.3,,37.4945,-94.2791
+Lamar,2011,,21.3,,35.4436,-93.3951
+Lamar,2011,,21.3,,28.1439,-96.9888
+Lamar,2011,,21.3,,34.1695,-80.0649
+Lamar,2011,,21.3,,35.0942,-96.1241
+Lamar,2011,,21.3,,40.5725,-101.9793
+Lamar,2011,,21.3,,34.9123,-89.3151
+Lamar,2012,,24.6,,38.074,-102.6154
+Lamar,2012,,24.6,,37.4945,-94.2791
+Lamar,2012,,24.6,,35.4436,-93.3951
+Lamar,2012,,24.6,,28.1439,-96.9888
+Lamar,2012,,24.6,,34.1695,-80.0649
+Lamar,2012,,24.6,,35.0942,-96.1241
+Lamar,2012,,24.6,,40.5725,-101.9793
+Lamar,2012,,24.6,,34.9123,-89.3151
+Lamar,2013,,32.0,,38.074,-102.6154
+Lamar,2013,,32.0,,37.4945,-94.2791
+Lamar,2013,,32.0,,35.4436,-93.3951
+Lamar,2013,,32.0,,28.1439,-96.9888
+Lamar,2013,,32.0,,34.1695,-80.0649
+Lamar,2013,,32.0,,35.0942,-96.1241
+Lamar,2013,,32.0,,40.5725,-101.9793
+Lamar,2013,,32.0,,34.9123,-89.3151
+Lamar,2014,,31.4,,38.074,-102.6154
+Lamar,2014,,31.4,,37.4945,-94.2791
+Lamar,2014,,31.4,,35.4436,-93.3951
+Lamar,2014,,31.4,,28.1439,-96.9888
+Lamar,2014,,31.4,,34.1695,-80.0649
+Lamar,2014,,31.4,,35.0942,-96.1241
+Lamar,2014,,31.4,,40.5725,-101.9793
+Lamar,2014,,31.4,,34.9123,-89.3151
+Lamar,2019,,17.6,,38.074,-102.6154
+Lamar,2019,,17.6,,37.4945,-94.2791
+Lamar,2019,,17.6,,35.4436,-93.3951
+Lamar,2019,,17.6,,28.1439,-96.9888
+Lamar,2019,,17.6,,34.1695,-80.0649
+Lamar,2019,,17.6,,35.0942,-96.1241
+Lamar,2019,,17.6,,40.5725,-101.9793
+Lamar,2019,,17.6,,34.9123,-89.3151
+Lame Deer,2011,,,6.4,45.6176,-106.6134
+Lame Deer,2012,,,4.3,45.6176,-106.6134
+Lame Deer,2013,,,3.4,45.6176,-106.6134
+Lame Deer,2014,,,3.2,45.6176,-106.6134
+Lame Deer,2015,,,1.7,45.6176,-106.6134
+Lame Deer,2017,,,1.0,45.6176,-106.6134
+Lancaster (Pa),2010,,15.9,,40.042,-76.3012
+Lancaster (Pa),2010,,15.9,,34.6935,-118.1753
+Lancaster (Pa),2010,,15.9,,32.5922,-96.7739
+Lancaster (Pa),2010,,15.9,,39.7248,-82.6049
+Lancaster (Pa),2010,,15.9,,34.7248,-80.7804
+Lancaster (Pa),2010,,15.9,,37.6148,-84.5815
+Lancaster (Pa),2010,,15.9,,42.8473,-90.7065
+Lancaster (Pa),2010,,15.9,,40.5238,-92.5314
+Lancaster (Pa),2010,,15.9,,39.571,-95.3037
+Lancaster (Pa),2010,,15.9,,48.8577,-96.8019
+Lancaster (Pa),2010,,15.9,,37.7675,-76.4549
+Laramie (Wy),2011,,21.6,,41.3099,-105.6085
+Laramie (Wy),2012,,31.8,,41.3099,-105.6085
+Laramie (Wy),2013,4.6,,,41.3099,-105.6085
+Laramie (Wy),2016,3.9,,,41.3099,-105.6085
+Laramie (Wy),2018,,24.7,,41.3099,-105.6085
+Laramie (Wy),2019,,13.5,,41.3099,-105.6085
+Laredo (Tx),2017,,18.2,,27.5625,-99.4874
+Laredo (Tx),2017,,18.2,,40.026,-93.448
+Laredo (Tx),2017,,18.2,,48.4303,-109.886
+Las Cruces (Nm),2010,,28.5,12.7,32.3265,-106.7893
+Las Cruces (Nm),2011,,41.3,8.4,32.3265,-106.7893
+Las Cruces (Nm),2012,,,8.6,32.3265,-106.7893
+Las Cruces (Nm),2013,,37.3,,32.3265,-106.7893
+Las Cruces (Nm),2014,5.3,29.1,,32.3265,-106.7893
+Las Cruces (Nm),2015,4.7,19.6,10.75,32.3265,-106.7893
+Las Cruces (Nm),2016,,,8.6,32.3265,-106.7893
+Las Cruces (Nm),2017,,,10.0,32.3265,-106.7893
+Las Cruces (Nm),2018,,26.0,11.55,32.3265,-106.7893
+Las Cruces (Nm),2019,,24.4,11.35,32.3265,-106.7893
+Las Vegas-Henderson-Paradise (Nv),2010,3.4,12.68,25.0,,
+Las Vegas-Henderson-Paradise (Nv),2011,5.5,15.35,24.8,,
+Las Vegas-Henderson-Paradise (Nv),2012,5.0,15.3,18.0,,
+Las Vegas-Henderson-Paradise (Nv),2013,,18.27,8.9,,
+Las Vegas-Henderson-Paradise (Nv),2014,,20.28,,,
+Las Vegas-Henderson-Paradise (Nv),2015,,16.8,27.0,,
+Las Vegas-Henderson-Paradise (Nv),2016,,21.37,30.2,,
+Las Vegas-Henderson-Paradise (Nv),2017,,26.15,31.7,,
+Las Vegas-Henderson-Paradise (Nv),2018,,20.0,16.4,,
+Las Vegas-Henderson-Paradise (Nv),2019,,18.0,16.0,,
+Lebanon (Pa),2012,14.2,,,40.3412,-76.4228
+Lebanon (Pa),2012,14.2,,,36.204,-86.3481
+Lebanon (Pa),2012,14.2,,,39.4254,-84.2133
+Lebanon (Pa),2012,14.2,,,44.5317,-122.9071
+Lebanon (Pa),2012,14.2,,,40.0324,-86.4551
+Lebanon (Pa),2012,14.2,,,37.6717,-92.6603
+Lebanon (Pa),2012,14.2,,,43.6353,-72.2531
+Lebanon (Pa),2012,14.2,,,37.5691,-85.2594
+Lebanon (Pa),2012,14.2,,,38.6005,-89.8114
+Lebanon (Pa),2012,14.2,,,36.8991,-82.0784
+Lebanon (Pa),2012,14.2,,,33.9737,-96.9177
+Lebanon (Pa),2012,14.2,,,39.8101,-98.5572
+Lebanon (Pa),2012,14.2,,,43.2587,-88.6292
+Lebanon (Pa),2012,14.2,,,40.0487,-100.2761
+Lebanon (Pa),2012,14.2,,,45.0688,-99.7664
+Lewiston-Auburn (Me),2010,,13.3,,,
+Lewiston-Auburn (Me),2011,,14.2,,,
+Lewiston-Auburn (Me),2013,,15.6,,,
+Lewiston-Auburn (Me),2019,,10.6,,,
+Lewistown,2012,,5.0,,40.5964,-77.573
+Lewistown,2012,,5.0,,47.0514,-109.4524
+Lewistown,2012,,5.0,,40.3969,-90.1554
+Lewistown,2012,,5.0,,40.0848,-91.8136
+Lewistown,2012,,5.0,,39.5409,-77.4191
+Lewistown,2012,,5.0,,40.4238,-83.8846
+Lewistown,2013,,7.8,,40.5964,-77.573
+Lewistown,2013,,7.8,,47.0514,-109.4524
+Lewistown,2013,,7.8,,40.3969,-90.1554
+Lewistown,2013,,7.8,,40.0848,-91.8136
+Lewistown,2013,,7.8,,39.5409,-77.4191
+Lewistown,2013,,7.8,,40.4238,-83.8846
+Lewistown,2014,,7.4,,40.5964,-77.573
+Lewistown,2014,,7.4,,47.0514,-109.4524
+Lewistown,2014,,7.4,,40.3969,-90.1554
+Lewistown,2014,,7.4,,40.0848,-91.8136
+Lewistown,2014,,7.4,,39.5409,-77.4191
+Lewistown,2014,,7.4,,40.4238,-83.8846
+Lewistown,2015,,9.1,,40.5964,-77.573
+Lewistown,2015,,9.1,,47.0514,-109.4524
+Lewistown,2015,,9.1,,40.3969,-90.1554
+Lewistown,2015,,9.1,,40.0848,-91.8136
+Lewistown,2015,,9.1,,39.5409,-77.4191
+Lewistown,2015,,9.1,,40.4238,-83.8846
+Lewistown,2016,,9.3,,40.5964,-77.573
+Lewistown,2016,,9.3,,47.0514,-109.4524
+Lewistown,2016,,9.3,,40.3969,-90.1554
+Lewistown,2016,,9.3,,40.0848,-91.8136
+Lewistown,2016,,9.3,,39.5409,-77.4191
+Lewistown,2016,,9.3,,40.4238,-83.8846
+Lewistown,2017,,10.9,,40.5964,-77.573
+Lewistown,2017,,10.9,,47.0514,-109.4524
+Lewistown,2017,,10.9,,40.3969,-90.1554
+Lewistown,2017,,10.9,,40.0848,-91.8136
+Lewistown,2017,,10.9,,39.5409,-77.4191
+Lewistown,2017,,10.9,,40.4238,-83.8846
+Lewistown,2018,,10.0,,40.5964,-77.573
+Lewistown,2018,,10.0,,47.0514,-109.4524
+Lewistown,2018,,10.0,,40.3969,-90.1554
+Lewistown,2018,,10.0,,40.0848,-91.8136
+Lewistown,2018,,10.0,,39.5409,-77.4191
+Lewistown,2018,,10.0,,40.4238,-83.8846
+Lewistown,2019,,7.8,,40.5964,-77.573
+Lewistown,2019,,7.8,,47.0514,-109.4524
+Lewistown,2019,,7.8,,40.3969,-90.1554
+Lewistown,2019,,7.8,,40.0848,-91.8136
+Lewistown,2019,,7.8,,39.5409,-77.4191
+Lewistown,2019,,7.8,,40.4238,-83.8846
+Lexington-Fayette (Ky),2010,,,17.8,,
+Lexington-Fayette (Ky),2012,,,15.1,,
+Lexington-Fayette (Ky),2013,,15.7,13.8,,
+Lexington-Fayette (Ky),2014,,,12.7,,
+Lexington-Fayette (Ky),2016,,14.3,12.4,,
+Lexington-Fayette (Ky),2017,,14.6,9.0,,
+Lexington-Fayette (Ky),2018,,,5.6,,
+Lexington-Fayette (Ky),2019,,12.8,11.6,,
+Libby (Na),2015,14.9,25.0,,48.387,-115.5559
+Libby (Na),2017,14.3,,,48.387,-115.5559
+Libby (Na),2018,,19.2,,48.387,-115.5559
+Little Rock-North Little Rock-Conway (Ar),2010,12.3,20.5,,,
+Little Rock-North Little Rock-Conway (Ar),2011,12.25,21.7,,,
+Little Rock-North Little Rock-Conway (Ar),2012,,19.35,19.9,,
+Little Rock-North Little Rock-Conway (Ar),2013,10.7,18.9,18.4,,
+Little Rock-North Little Rock-Conway (Ar),2014,10.5,18.25,16.7,,
+Little Rock-North Little Rock-Conway (Ar),2015,9.95,18.85,16.2,,
+Little Rock-North Little Rock-Conway (Ar),2016,9.4,18.35,14.9,,
+Little Rock-North Little Rock-Conway (Ar),2017,9.2,,14.3,,
+Little Rock-North Little Rock-Conway (Ar),2018,9.5,17.7,13.7,,
+Little Rock-North Little Rock-Conway (Ar),2019,9.9,16.1,14.8,,
+Longview (Tx),2010,,,12.3,32.5193,-94.7622
+Longview (Tx),2010,,,12.3,46.1461,-122.963
+Longview (Tx),2010,,,12.3,33.4027,-88.9256
+Longview (Tx),2010,,,12.3,39.8859,-88.0662
+Longview (Tx),2011,,,10.4,32.5193,-94.7622
+Longview (Tx),2011,,,10.4,46.1461,-122.963
+Longview (Tx),2011,,,10.4,33.4027,-88.9256
+Longview (Tx),2011,,,10.4,39.8859,-88.0662
+Longview (Tx),2013,,,8.8,32.5193,-94.7622
+Longview (Tx),2013,,,8.8,46.1461,-122.963
+Longview (Tx),2013,,,8.8,33.4027,-88.9256
+Longview (Tx),2013,,,8.8,39.8859,-88.0662
+Longview (Tx),2014,,,7.6,32.5193,-94.7622
+Longview (Tx),2014,,,7.6,46.1461,-122.963
+Longview (Tx),2014,,,7.6,33.4027,-88.9256
+Longview (Tx),2014,,,7.6,39.8859,-88.0662
+Longview (Tx),2017,,,6.4,32.5193,-94.7622
+Longview (Tx),2017,,,6.4,46.1461,-122.963
+Longview (Tx),2017,,,6.4,33.4027,-88.9256
+Longview (Tx),2017,,,6.4,39.8859,-88.0662
+Longview (Tx),2019,,,6.1,32.5193,-94.7622
+Longview (Tx),2019,,,6.1,46.1461,-122.963
+Longview (Tx),2019,,,6.1,33.4027,-88.9256
+Longview (Tx),2019,,,6.1,39.8859,-88.0662
+Los Angeles-Long Beach-Anaheim (Ca),2010,10.62,25.03,34.85,,
+Los Angeles-Long Beach-Anaheim (Ca),2011,11.06,24.68,35.16,,
+Los Angeles-Long Beach-Anaheim (Ca),2012,11.08,25.8,31.02,,
+Los Angeles-Long Beach-Anaheim (Ca),2013,10.2,26.05,30.62,,
+Los Angeles-Long Beach-Anaheim (Ca),2014,,28.18,29.61,,
+Los Angeles-Long Beach-Anaheim (Ca),2015,10.02,26.44,28.47,,
+Los Angeles-Long Beach-Anaheim (Ca),2016,10.11,26.44,27.67,,
+Los Angeles-Long Beach-Anaheim (Ca),2017,10.64,25.44,26.81,,
+Los Angeles-Long Beach-Anaheim (Ca),2018,11.36,25.99,26.03,,
+Los Angeles-Long Beach-Anaheim (Ca),2019,8.99,21.57,23.99,,
+Louisville/Jefferson County (Ky-In),2010,14.7,21.9,,,
+Louisville/Jefferson County (Ky-In),2011,12.9,,,,
+Louisville/Jefferson County (Ky-In),2012,12.3,20.6,,,
+Louisville/Jefferson County (Ky-In),2013,,17.0,,,
+Louisville/Jefferson County (Ky-In),2014,11.9,,,,
+Louisville/Jefferson County (Ky-In),2017,,16.9,,,
+Louisville/Jefferson County (Ky-In),2018,,15.75,,,
+Macon (Ga),2011,14.2,,,32.8065,-83.6974
+Macon (Ga),2011,14.2,,,39.7426,-92.4711
+Macon (Ga),2011,14.2,,,33.1217,-88.5564
+Macon (Ga),2011,14.2,,,39.7117,-88.9965
+Macon (Ga),2011,14.2,,,36.4396,-78.0839
+Macon (Ga),2016,9.7,,,32.8065,-83.6974
+Macon (Ga),2016,9.7,,,39.7426,-92.4711
+Macon (Ga),2016,9.7,,,33.1217,-88.5564
+Macon (Ga),2016,9.7,,,39.7117,-88.9965
+Macon (Ga),2016,9.7,,,36.4396,-78.0839
+Madawaska (Census Name For Madawaska Center) (Na),2013,,16.0,,,
+Madawaska (Census Name For Madawaska Center) (Na),2014,,12.7,,,
+Madawaska (Census Name For Madawaska Center) (Na),2018,,18.4,,,
+Madawaska (Census Name For Madawaska Center) (Na),2019,,12.6,,,
+Madera (Ca),2010,,42.0,14.7,36.963,-120.0778
+Madera (Ca),2011,20.4,,15.0,36.963,-120.0778
+Madera (Ca),2012,16.0,36.4,,36.963,-120.0778
+Madera (Ca),2013,17.8,36.5,,36.963,-120.0778
+Madera (Ca),2014,14.0,35.1,11.6,36.963,-120.0778
+Madera (Ca),2015,13.8,31.9,11.2,36.963,-120.0778
+Madera (Ca),2016,12.0,,10.3,36.963,-120.0778
+Madera (Ca),2017,12.5,34.2,12.1,36.963,-120.0778
+Madera (Ca),2018,14.0,40.4,11.3,36.963,-120.0778
+Madera (Ca),2019,,35.6,11.3,36.963,-120.0778
+Madison (Wi),2012,,16.1,,43.0822,-89.393
+Madison (Wi),2012,,16.1,,34.7114,-86.7626
+Madison (Wi),2012,,16.1,,32.4738,-90.13
+Madison (Wi),2012,,16.1,,40.7586,-74.4169
+Madison (Wi),2012,,16.1,,38.7581,-85.3973
+Madison (Wi),2012,,16.1,,44.0062,-97.1085
+Madison (Wi),2012,,16.1,,33.5793,-83.4758
+Madison (Wi),2012,,16.1,,41.7722,-81.0529
+Madison (Wi),2012,,16.1,,30.4716,-83.413
+Madison (Wi),2012,,16.1,,38.0631,-81.8046
+Madison (Wi),2012,,16.1,,38.7024,-90.1501
+Madison (Wi),2012,,16.1,,36.3868,-79.975
+Madison (Wi),2012,,16.1,,41.8283,-97.4568
+Madison (Wi),2012,,16.1,,45.0127,-96.189
+Madison (Wi),2012,,16.1,,38.1336,-96.1372
+Madison (Wi),2012,,16.1,,35.0193,-90.7317
+Madison (Wi),2012,,16.1,,38.675,-121.9702
+Madison (Wi),2012,,16.1,,39.4735,-92.2117
+Madison (Wi),2012,,16.1,,38.3794,-78.2586
+Madison (Wi),2012,,16.1,,40.2455,-79.6748
+Madison (Wi),2012,,16.1,,38.5163,-76.2182
+Malone (Ny),2010,,,3.9,30.9589,-85.1622
+Malone (Ny),2010,,,3.9,31.9171,-96.8948
+Malone (Ny),2010,,,3.9,46.9779,-123.3035
+Malone (Ny),2011,,,7.2,30.9589,-85.1622
+Malone (Ny),2011,,,7.2,31.9171,-96.8948
+Malone (Ny),2011,,,7.2,46.9779,-123.3035
+Malone (Ny),2012,,,9.5,30.9589,-85.1622
+Malone (Ny),2012,,,9.5,31.9171,-96.8948
+Malone (Ny),2012,,,9.5,46.9779,-123.3035
+Malone (Ny),2015,,,5.1,30.9589,-85.1622
+Malone (Ny),2015,,,5.1,31.9171,-96.8948
+Malone (Ny),2015,,,5.1,46.9779,-123.3035
+Malone (Ny),2016,,,7.3,30.9589,-85.1622
+Malone (Ny),2016,,,7.3,31.9171,-96.8948
+Malone (Ny),2016,,,7.3,46.9779,-123.3035
+Malone (Ny),2017,,,3.1,30.9589,-85.1622
+Malone (Ny),2017,,,3.1,31.9171,-96.8948
+Malone (Ny),2017,,,3.1,46.9779,-123.3035
+Manchester-Nashua (Nh),2016,4.2,,,,
+Manchester-Nashua (Nh),2017,2.9,,,,
+Manchester-Nashua (Nh),2018,3.2,,,,
+Marshall (Mn),2016,4.4,,,32.537,-94.3515
+Marshall (Mn),2016,4.4,,,39.1147,-93.201
+Marshall (Mn),2016,4.4,,,44.4488,-95.7897
+Marshall (Mn),2016,4.4,,,42.2618,-84.9598
+Marshall (Mn),2016,4.4,,,39.3986,-87.69
+Marshall (Mn),2016,4.4,,,43.1726,-89.0613
+Marshall (Mn),2016,4.4,,,38.8661,-77.8453
+Marshall (Mn),2016,4.4,,,35.9084,-92.6459
+Marshall (Mn),2016,4.4,,,35.7973,-82.6818
+Marshall (Mn),2016,4.4,,,36.1502,-97.6234
+Marshall (Mn),2016,4.4,,,39.8475,-87.1868
+Marshall (Mn),2016,4.4,,,61.8753,-162.0487
+Marshall (Mn),2017,5.0,,,32.537,-94.3515
+Marshall (Mn),2017,5.0,,,39.1147,-93.201
+Marshall (Mn),2017,5.0,,,44.4488,-95.7897
+Marshall (Mn),2017,5.0,,,42.2618,-84.9598
+Marshall (Mn),2017,5.0,,,39.3986,-87.69
+Marshall (Mn),2017,5.0,,,43.1726,-89.0613
+Marshall (Mn),2017,5.0,,,38.8661,-77.8453
+Marshall (Mn),2017,5.0,,,35.9084,-92.6459
+Marshall (Mn),2017,5.0,,,35.7973,-82.6818
+Marshall (Mn),2017,5.0,,,36.1502,-97.6234
+Marshall (Mn),2017,5.0,,,39.8475,-87.1868
+Marshall (Mn),2017,5.0,,,61.8753,-162.0487
+Marshall (Tx),2011,,,7.9,32.537,-94.3515
+Marshall (Tx),2011,,,7.9,39.1147,-93.201
+Marshall (Tx),2011,,,7.9,44.4488,-95.7897
+Marshall (Tx),2011,,,7.9,42.2618,-84.9598
+Marshall (Tx),2011,,,7.9,39.3986,-87.69
+Marshall (Tx),2011,,,7.9,43.1726,-89.0613
+Marshall (Tx),2011,,,7.9,38.8661,-77.8453
+Marshall (Tx),2011,,,7.9,35.9084,-92.6459
+Marshall (Tx),2011,,,7.9,35.7973,-82.6818
+Marshall (Tx),2011,,,7.9,36.1502,-97.6234
+Marshall (Tx),2011,,,7.9,39.8475,-87.1868
+Marshall (Tx),2011,,,7.9,61.8753,-162.0487
+Marshall (Tx),2012,,,7.0,32.537,-94.3515
+Marshall (Tx),2012,,,7.0,39.1147,-93.201
+Marshall (Tx),2012,,,7.0,44.4488,-95.7897
+Marshall (Tx),2012,,,7.0,42.2618,-84.9598
+Marshall (Tx),2012,,,7.0,39.3986,-87.69
+Marshall (Tx),2012,,,7.0,43.1726,-89.0613
+Marshall (Tx),2012,,,7.0,38.8661,-77.8453
+Marshall (Tx),2012,,,7.0,35.9084,-92.6459
+Marshall (Tx),2012,,,7.0,35.7973,-82.6818
+Marshall (Tx),2012,,,7.0,36.1502,-97.6234
+Marshall (Tx),2012,,,7.0,39.8475,-87.1868
+Marshall (Tx),2012,,,7.0,61.8753,-162.0487
+Marshall (Tx),2016,,,4.2,32.537,-94.3515
+Marshall (Tx),2016,,,4.2,39.1147,-93.201
+Marshall (Tx),2016,,,4.2,44.4488,-95.7897
+Marshall (Tx),2016,,,4.2,42.2618,-84.9598
+Marshall (Tx),2016,,,4.2,39.3986,-87.69
+Marshall (Tx),2016,,,4.2,43.1726,-89.0613
+Marshall (Tx),2016,,,4.2,38.8661,-77.8453
+Marshall (Tx),2016,,,4.2,35.9084,-92.6459
+Marshall (Tx),2016,,,4.2,35.7973,-82.6818
+Marshall (Tx),2016,,,4.2,36.1502,-97.6234
+Marshall (Tx),2016,,,4.2,39.8475,-87.1868
+Marshall (Tx),2016,,,4.2,61.8753,-162.0487
+Marshall (Tx),2018,,,3.3,32.537,-94.3515
+Marshall (Tx),2018,,,3.3,39.1147,-93.201
+Marshall (Tx),2018,,,3.3,44.4488,-95.7897
+Marshall (Tx),2018,,,3.3,42.2618,-84.9598
+Marshall (Tx),2018,,,3.3,39.3986,-87.69
+Marshall (Tx),2018,,,3.3,43.1726,-89.0613
+Marshall (Tx),2018,,,3.3,38.8661,-77.8453
+Marshall (Tx),2018,,,3.3,35.9084,-92.6459
+Marshall (Tx),2018,,,3.3,35.7973,-82.6818
+Marshall (Tx),2018,,,3.3,36.1502,-97.6234
+Marshall (Tx),2018,,,3.3,39.8475,-87.1868
+Marshall (Tx),2018,,,3.3,61.8753,-162.0487
+Marshall (Tx),2019,,,4.6,32.537,-94.3515
+Marshall (Tx),2019,,,4.6,39.1147,-93.201
+Marshall (Tx),2019,,,4.6,44.4488,-95.7897
+Marshall (Tx),2019,,,4.6,42.2618,-84.9598
+Marshall (Tx),2019,,,4.6,39.3986,-87.69
+Marshall (Tx),2019,,,4.6,43.1726,-89.0613
+Marshall (Tx),2019,,,4.6,38.8661,-77.8453
+Marshall (Tx),2019,,,4.6,35.9084,-92.6459
+Marshall (Tx),2019,,,4.6,35.7973,-82.6818
+Marshall (Tx),2019,,,4.6,36.1502,-97.6234
+Marshall (Tx),2019,,,4.6,39.8475,-87.1868
+Marshall (Tx),2019,,,4.6,61.8753,-162.0487
+Mason City (Ia),2012,,21.4,,43.1487,-93.1997
+Mason City (Ia),2012,,21.4,,40.2022,-89.6974
+Mason City (Ia),2012,,21.4,,41.2222,-99.2988
+Mason City (Ia),2015,,18.1,,43.1487,-93.1997
+Mason City (Ia),2015,,18.1,,40.2022,-89.6974
+Mason City (Ia),2015,,18.1,,41.2222,-99.2988
+Mason City (Ia),2016,,18.5,,43.1487,-93.1997
+Mason City (Ia),2016,,18.5,,40.2022,-89.6974
+Mason City (Ia),2016,,18.5,,41.2222,-99.2988
+Mason City (Ia),2017,,17.8,,43.1487,-93.1997
+Mason City (Ia),2017,,17.8,,40.2022,-89.6974
+Mason City (Ia),2017,,17.8,,41.2222,-99.2988
+Mason City (Ia),2018,,19.4,,43.1487,-93.1997
+Mason City (Ia),2018,,19.4,,40.2022,-89.6974
+Mason City (Ia),2018,,19.4,,41.2222,-99.2988
+Mason City (Ia),2019,,16.7,,43.1487,-93.1997
+Mason City (Ia),2019,,16.7,,40.2022,-89.6974
+Mason City (Ia),2019,,16.7,,41.2222,-99.2988
+Mcallen-Edinburg-Mission (Tx),2013,,32.6,,,
+Mcallen-Edinburg-Mission (Tx),2015,,26.5,,,
+Mcallen-Edinburg-Mission (Tx),2016,,26.8,,,
+Mcallen-Edinburg-Mission (Tx),2017,,24.8,,,
+Mcallen-Edinburg-Mission (Tx),2019,,23.5,,,
+Medford (Or),2013,14.2,,,42.3372,-122.854
+Medford (Or),2013,14.2,,,42.4234,-71.1087
+Medford (Or),2013,14.2,,,40.822,-72.9859
+Medford (Or),2013,14.2,,,45.1365,-90.3436
+Medford (Or),2013,14.2,,,44.1685,-93.2472
+Medford (Or),2013,14.2,,,36.8035,-97.7378
+Medford (Or),2017,15.3,,,42.3372,-122.854
+Medford (Or),2017,15.3,,,42.4234,-71.1087
+Medford (Or),2017,15.3,,,40.822,-72.9859
+Medford (Or),2017,15.3,,,45.1365,-90.3436
+Medford (Or),2017,15.3,,,44.1685,-93.2472
+Medford (Or),2017,15.3,,,36.8035,-97.7378
+Memphis (Tn-Ms-Ar),2010,,,19.3,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2010,,,19.3,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2010,,,19.3,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2010,,,19.3,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2010,,,19.3,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2010,,,19.3,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2010,,,19.3,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2010,,,19.3,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2011,,,18.8,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2011,,,18.8,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2011,,,18.8,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2011,,,18.8,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2011,,,18.8,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2011,,,18.8,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2011,,,18.8,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2011,,,18.8,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2012,,,17.4,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2012,,,17.4,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2012,,,17.4,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2012,,,17.4,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2012,,,17.4,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2012,,,17.4,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2012,,,17.4,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2012,,,17.4,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2013,10.0,,15.6,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2014,,,14.6,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2014,,,14.6,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2014,,,14.6,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2014,,,14.6,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2014,,,14.6,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2014,,,14.6,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2014,,,14.6,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2014,,,14.6,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2015,,,13.3,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2015,,,13.3,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2015,,,13.3,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2015,,,13.3,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2015,,,13.3,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2015,,,13.3,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2015,,,13.3,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2015,,,13.3,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2016,,,13.8,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2016,,,13.8,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2016,,,13.8,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2016,,,13.8,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2016,,,13.8,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2016,,,13.8,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2016,,,13.8,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2016,,,13.8,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2017,,,13.4,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2017,,,13.4,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2017,,,13.4,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2017,,,13.4,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2017,,,13.4,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2017,,,13.4,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2017,,,13.4,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2017,,,13.4,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2018,,,13.3,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2018,,,13.3,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2018,,,13.3,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2018,,,13.3,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2018,,,13.3,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2018,,,13.3,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2018,,,13.3,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2018,,,13.3,33.1369,-88.3008
+Memphis (Tn-Ms-Ar),2019,,,14.2,35.1087,-89.9663
+Memphis (Tn-Ms-Ar),2019,,,14.2,27.5435,-82.5608
+Memphis (Tn-Ms-Ar),2019,,,14.2,34.7268,-100.5416
+Memphis (Tn-Ms-Ar),2019,,,14.2,40.4613,-92.1704
+Memphis (Tn-Ms-Ar),2019,,,14.2,42.8956,-82.7689
+Memphis (Tn-Ms-Ar),2019,,,14.2,38.4891,-85.7679
+Memphis (Tn-Ms-Ar),2019,,,14.2,41.0946,-96.4332
+Memphis (Tn-Ms-Ar),2019,,,14.2,33.1369,-88.3008
+Merced (Ca),2010,16.3,,12.9,37.3057,-120.4779
+Merced (Ca),2011,15.6,29.3,13.2,37.3057,-120.4779
+Merced (Ca),2012,,28.1,13.9,37.3057,-120.4779
+Merced (Ca),2013,13.5,,14.3,37.3057,-120.4779
+Merced (Ca),2014,11.2,30.5,14.9,37.3057,-120.4779
+Merced (Ca),2015,12.65,30.2,13.0,37.3057,-120.4779
+Merced (Ca),2016,11.55,28.4,,37.3057,-120.4779
+Merced (Ca),2017,12.6,34.7,,37.3057,-120.4779
+Merced (Ca),2018,14.65,33.8,13.5,37.3057,-120.4779
+Merced (Ca),2019,9.1,28.8,11.8,37.3057,-120.4779
+Miami (Ok),2013,,13.6,,25.784,-80.2101
+Miami (Ok),2013,,13.6,,36.8878,-94.8711
+Miami (Ok),2013,,13.6,,33.3951,-110.8724
+Miami (Ok),2013,,13.6,,35.6923,-100.6417
+Miami (Ok),2013,,13.6,,40.6142,-86.1064
+Miami (Ok),2013,,13.6,,39.3224,-93.2258
+Miami-Fort Lauderdale-West Palm Beach (Fl),2010,6.4,,,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2011,,,8.05,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2012,,24.9,10.27,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2013,,,5.7,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2014,6.55,,12.27,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2015,6.9,21.7,6.6,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2016,,23.6,5.5,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2017,,23.2,10.47,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2018,6.7,,9.83,,
+Miami-Fort Lauderdale-West Palm Beach (Fl),2019,,,7.95,,
+Milwaukee-Waukesha-West Allis (Wi),2010,,23.6,,,
+Milwaukee-Waukesha-West Allis (Wi),2012,,23.3,21.6,,
+Milwaukee-Waukesha-West Allis (Wi),2017,,13.8,16.9,,
+Milwaukee-Waukesha-West Allis (Wi),2018,,16.2,,,
+Milwaukee-Waukesha-West Allis (Wi),2019,,,16.7,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2010,,24.2,17.9,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2011,,27.1,13.4,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2012,,23.48,20.1,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2013,,21.3,16.3,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2014,,21.2,15.35,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2015,,21.82,13.8,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2016,,18.55,11.6,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2017,,26.8,,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2018,,24.13,12.57,,
+Minneapolis-St. Paul-Bloomington (Mn-Wi),2019,,21.87,,,
+Missoula (Mt),2010,,16.8,,46.8751,-114.0214
+Missoula (Mt),2015,12.2,22.6,,46.8751,-114.0214
+Missoula (Mt),2019,,16.9,,46.8751,-114.0214
+Mobile (Al),2010,9.8,,,30.6782,-88.1162
+Mobile (Al),2015,8.4,,,30.6782,-88.1162
+Mobile (Al),2016,8.1,,,30.6782,-88.1162
+Mobile (Al),2018,8.1,,,30.6782,-88.1162
+Modesto (Ca),2010,12.7,23.9,,37.6375,-121.0028
+Modesto (Ca),2010,12.7,23.9,,39.4789,-89.9803
+Modesto (Ca),2011,15.9,,20.3,37.6375,-121.0028
+Modesto (Ca),2011,15.9,,20.3,39.4789,-89.9803
+Modesto (Ca),2012,,,21.1,37.6375,-121.0028
+Modesto (Ca),2012,,,21.1,39.4789,-89.9803
+Modesto (Ca),2013,14.65,35.0,,37.6375,-121.0028
+Modesto (Ca),2013,14.65,35.0,,39.4789,-89.9803
+Modesto (Ca),2014,11.85,25.6,19.1,37.6375,-121.0028
+Modesto (Ca),2014,11.85,25.6,19.1,39.4789,-89.9803
+Modesto (Ca),2015,14.2,32.1,17.3,37.6375,-121.0028
+Modesto (Ca),2015,14.2,32.1,17.3,39.4789,-89.9803
+Modesto (Ca),2016,,29.2,,37.6375,-121.0028
+Modesto (Ca),2016,,29.2,,39.4789,-89.9803
+Modesto (Ca),2017,12.8,,18.4,37.6375,-121.0028
+Modesto (Ca),2017,12.8,,18.4,39.4789,-89.9803
+Modesto (Ca),2018,16.2,36.3,,37.6375,-121.0028
+Modesto (Ca),2018,16.2,36.3,,39.4789,-89.9803
+Modesto (Ca),2019,,29.7,16.3,37.6375,-121.0028
+Modesto (Ca),2019,,29.7,16.3,39.4789,-89.9803
+Monroe (La),2010,9.5,,,32.5185,-92.0774
+Monroe (La),2010,9.5,,,35.0063,-80.5596
+Monroe (La),2010,9.5,,,41.9155,-83.3849
+Monroe (La),2010,9.5,,,47.8595,-121.9851
+Monroe (La),2010,9.5,,,39.4461,-84.3667
+Monroe (La),2010,9.5,,,33.799,-83.7161
+Monroe (La),2010,9.5,,,42.603,-89.6381
+Monroe (La),2010,9.5,,,38.623,-112.1196
+Monroe (La),2010,9.5,,,41.5189,-93.1038
+Monroe (La),2010,9.5,,,44.3168,-123.2989
+Monroe (La),2010,9.5,,,40.7451,-84.9409
+Monroe (La),2010,9.5,,,41.4741,-97.5989
+Monroe (La),2010,9.5,,,43.4865,-97.2166
+Monroe (La),2010,9.5,,,34.9937,-94.5156
+Monroe (La),2010,9.5,,,34.7341,-91.1067
+Montgomery (Al),2010,11.2,,,32.3482,-86.2668
+Montgomery (Al),2010,11.2,,,41.7237,-88.3633
+Montgomery (Al),2010,11.2,,,39.2496,-84.3458
+Montgomery (Al),2010,11.2,,,31.9438,-81.1081
+Montgomery (Al),2010,11.2,,,44.445,-93.5797
+Montgomery (Al),2010,11.2,,,38.175,-81.3245
+Montgomery (Al),2010,11.2,,,30.3921,-95.6958
+Montgomery (Al),2010,11.2,,,41.171,-76.8738
+Montgomery (Al),2010,11.2,,,38.6655,-87.0493
+Montgomery (Al),2010,11.2,,,31.6677,-92.8877
+Montgomery (Al),2010,11.2,,,41.7775,-84.8064
+Montgomery (Al),2012,10.7,,,32.3482,-86.2668
+Montgomery (Al),2012,10.7,,,41.7237,-88.3633
+Montgomery (Al),2012,10.7,,,39.2496,-84.3458
+Montgomery (Al),2012,10.7,,,31.9438,-81.1081
+Montgomery (Al),2012,10.7,,,44.445,-93.5797
+Montgomery (Al),2012,10.7,,,38.175,-81.3245
+Montgomery (Al),2012,10.7,,,30.3921,-95.6958
+Montgomery (Al),2012,10.7,,,41.171,-76.8738
+Montgomery (Al),2012,10.7,,,38.6655,-87.0493
+Montgomery (Al),2012,10.7,,,31.6677,-92.8877
+Montgomery (Al),2012,10.7,,,41.7775,-84.8064
+Montgomery (Al),2013,9.3,,,32.3482,-86.2668
+Montgomery (Al),2013,9.3,,,41.7237,-88.3633
+Montgomery (Al),2013,9.3,,,39.2496,-84.3458
+Montgomery (Al),2013,9.3,,,31.9438,-81.1081
+Montgomery (Al),2013,9.3,,,44.445,-93.5797
+Montgomery (Al),2013,9.3,,,38.175,-81.3245
+Montgomery (Al),2013,9.3,,,30.3921,-95.6958
+Montgomery (Al),2013,9.3,,,41.171,-76.8738
+Montgomery (Al),2013,9.3,,,38.6655,-87.0493
+Montgomery (Al),2013,9.3,,,31.6677,-92.8877
+Montgomery (Al),2013,9.3,,,41.7775,-84.8064
+Montgomery (Al),2015,8.9,,,32.3482,-86.2668
+Montgomery (Al),2015,8.9,,,41.7237,-88.3633
+Montgomery (Al),2015,8.9,,,39.2496,-84.3458
+Montgomery (Al),2015,8.9,,,31.9438,-81.1081
+Montgomery (Al),2015,8.9,,,44.445,-93.5797
+Montgomery (Al),2015,8.9,,,38.175,-81.3245
+Montgomery (Al),2015,8.9,,,30.3921,-95.6958
+Montgomery (Al),2015,8.9,,,41.171,-76.8738
+Montgomery (Al),2015,8.9,,,38.6655,-87.0493
+Montgomery (Al),2015,8.9,,,31.6677,-92.8877
+Montgomery (Al),2015,8.9,,,41.7775,-84.8064
+Montgomery (Al),2018,8.4,,,32.3482,-86.2668
+Montgomery (Al),2018,8.4,,,41.7237,-88.3633
+Montgomery (Al),2018,8.4,,,39.2496,-84.3458
+Montgomery (Al),2018,8.4,,,31.9438,-81.1081
+Montgomery (Al),2018,8.4,,,44.445,-93.5797
+Montgomery (Al),2018,8.4,,,38.175,-81.3245
+Montgomery (Al),2018,8.4,,,30.3921,-95.6958
+Montgomery (Al),2018,8.4,,,41.171,-76.8738
+Montgomery (Al),2018,8.4,,,38.6655,-87.0493
+Montgomery (Al),2018,8.4,,,31.6677,-92.8877
+Montgomery (Al),2018,8.4,,,41.7775,-84.8064
+Montgomery (Al),2019,9.0,,,32.3482,-86.2668
+Montgomery (Al),2019,9.0,,,41.7237,-88.3633
+Montgomery (Al),2019,9.0,,,39.2496,-84.3458
+Montgomery (Al),2019,9.0,,,31.9438,-81.1081
+Montgomery (Al),2019,9.0,,,44.445,-93.5797
+Montgomery (Al),2019,9.0,,,38.175,-81.3245
+Montgomery (Al),2019,9.0,,,30.3921,-95.6958
+Montgomery (Al),2019,9.0,,,41.171,-76.8738
+Montgomery (Al),2019,9.0,,,38.6655,-87.0493
+Montgomery (Al),2019,9.0,,,31.6677,-92.8877
+Montgomery (Al),2019,9.0,,,41.7775,-84.8064
+Muncie (In),2011,11.1,,,40.1989,-85.395
+Muncie (In),2011,11.1,,,40.1161,-87.8431
+Muncie (In),2013,9.8,,,40.1989,-85.395
+Muncie (In),2013,9.8,,,40.1161,-87.8431
+Muscatine (Ia),2010,,25.2,,41.4195,-91.068
+Muscatine (Ia),2011,,23.5,,41.4195,-91.068
+Muscatine (Ia),2012,,22.6,,41.4195,-91.068
+Muscatine (Ia),2017,,18.7,,41.4195,-91.068
+Muscatine (Ia),2018,,18.6,,41.4195,-91.068
+Muskogee (Ok),2010,,30.8,,35.7432,-95.3567
+Muskogee (Ok),2011,,33.6,,35.7432,-95.3567
+Muskogee (Ok),2012,,28.9,,35.7432,-95.3567
+Muskogee (Ok),2014,,31.1,,35.7432,-95.3567
+Muskogee (Ok),2015,,23.4,,35.7432,-95.3567
+Muskogee (Ok),2016,,20.2,,35.7432,-95.3567
+Muskogee (Ok),2019,,30.6,,35.7432,-95.3567
+Napa (Ca),2010,,,16.0,38.2975,-122.301
+Napa (Ca),2011,,,15.9,38.2975,-122.301
+Napa (Ca),2012,,,14.9,38.2975,-122.301
+Napa (Ca),2013,,,16.9,38.2975,-122.301
+Napa (Ca),2015,,,14.3,38.2975,-122.301
+Napa (Ca),2016,,,13.2,38.2975,-122.301
+Napa (Ca),2017,,,13.7,38.2975,-122.301
+Nashville-Davidson--Murfreesboro--Franklin (Tn),2011,,,21.8,,
+Nashville-Davidson--Murfreesboro--Franklin (Tn),2012,,,22.4,,
+Nashville-Davidson--Murfreesboro--Franklin (Tn),2018,,,14.7,,
+New Haven-Milford (Ct),2010,9.05,,25.5,,
+New Haven-Milford (Ct),2011,,,29.0,,
+New Haven-Milford (Ct),2012,,,25.1,,
+New Haven-Milford (Ct),2013,,,25.6,,
+New Haven-Milford (Ct),2014,,,24.4,,
+New Haven-Milford (Ct),2015,7.9,,26.0,,
+New Haven-Milford (Ct),2016,,13.2,25.5,,
+New Haven-Milford (Ct),2017,,11.9,24.5,,
+New Haven-Milford (Ct),2018,,11.6,23.1,,
+New Haven-Milford (Ct),2019,,,21.6,,
+New Orleans-Metairie (La),2010,,26.6,14.6,,
+New Orleans-Metairie (La),2011,,25.2,14.8,,
+New Orleans-Metairie (La),2012,,,14.6,,
+New Orleans-Metairie (La),2013,,18.65,,,
+New Orleans-Metairie (La),2014,,19.2,12.6,,
+New Orleans-Metairie (La),2016,,,12.5,,
+New Orleans-Metairie (La),2017,,,11.3,,
+New Orleans-Metairie (La),2018,,19.3,,,
+New Orleans-Metairie (La),2019,,17.4,,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2010,,,37.4,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2011,,,35.32,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2012,,29.1,28.28,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2013,,,29.6,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2014,,,31.58,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2015,,,27.7,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2016,,,25.77,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2017,,,26.98,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2018,,,20.78,,
+New York-Newark-Jersey City (Ny-Nj-Pa),2019,,,29.8,,
+Newport,2018,7.9,,,41.4801,-71.3203
+Newport,2018,7.9,,,39.0856,-84.4868
+Newport,2018,7.9,,,44.6242,-124.0513
+Newport,2018,7.9,,,35.6234,-91.2322
+Newport,2018,7.9,,,35.9617,-83.1976
+Newport,2018,7.9,,,44.9372,-72.209
+Newport,2018,7.9,,,34.772,-76.8772
+Newport,2018,7.9,,,34.9833,-81.0992
+Newport,2018,7.9,,,44.8743,-92.9975
+Newport,2018,7.9,,,48.1781,-117.0546
+Newport,2018,7.9,,,39.7135,-75.6046
+Newport,2018,7.9,,,39.3966,-81.2247
+Newport,2018,7.9,,,39.2937,-75.1707
+Newport,2018,7.9,,,39.884,-87.4072
+Newport,2018,7.9,,,42.6002,-99.3283
+Nogales (Az),2010,,65.3,,31.3624,-110.9336
+Nogales (Az),2011,9.7,53.8,,31.3624,-110.9336
+Nogales (Az),2012,,47.7,,31.3624,-110.9336
+Nogales (Az),2013,8.9,45.8,,31.3624,-110.9336
+Nogales (Az),2014,9.5,39.9,,31.3624,-110.9336
+Nogales (Az),2015,,31.2,,31.3624,-110.9336
+Nogales (Az),2016,9.8,38.0,,31.3624,-110.9336
+Nogales (Az),2017,,36.4,,31.3624,-110.9336
+Nogales (Az),2018,,34.0,,31.3624,-110.9336
+Nogales (Az),2019,8.8,31.8,,31.3624,-110.9336
+North Port-Sarasota-Bradenton (Fl),2012,7.1,14.6,,,
+North Port-Sarasota-Bradenton (Fl),2013,,15.9,,,
+North Port-Sarasota-Bradenton (Fl),2014,6.7,15.3,,,
+North Port-Sarasota-Bradenton (Fl),2018,6.6,,,,
+Ogden-Clearfield (Ut),2010,,17.9,29.15,,
+Ogden-Clearfield (Ut),2011,,,30.2,,
+Ogden-Clearfield (Ut),2012,,17.4,30.0,,
+Ogden-Clearfield (Ut),2013,,,30.7,,
+Ogden-Clearfield (Ut),2014,,,29.9,,
+Ogden-Clearfield (Ut),2015,,,27.8,,
+Ogden-Clearfield (Ut),2017,,20.1,21.7,,
+Ogden-Clearfield (Ut),2018,,,26.85,,
+Ogden-Clearfield (Ut),2019,,13.8,21.7,,
+Oklahoma City (Ok),2010,,,16.8,35.4676,-97.5136
+Oklahoma City (Ok),2011,,20.6,18.6,35.4676,-97.5136
+Oklahoma City (Ok),2015,,,13.1,35.4676,-97.5136
+Oklahoma City (Ok),2017,,,12.5,35.4676,-97.5136
+Oklahoma City (Ok),2018,,,12.3,35.4676,-97.5136
+Omaha-Council Bluffs (Ne-Ia),2010,,31.73,,,
+Omaha-Council Bluffs (Ne-Ia),2011,,29.38,,,
+Omaha-Council Bluffs (Ne-Ia),2012,,34.98,,,
+Omaha-Council Bluffs (Ne-Ia),2013,,23.47,,,
+Omaha-Council Bluffs (Ne-Ia),2014,7.4,24.7,,,
+Omaha-Council Bluffs (Ne-Ia),2015,,25.7,,,
+Omaha-Council Bluffs (Ne-Ia),2016,,24.1,,,
+Omaha-Council Bluffs (Ne-Ia),2017,,27.5,,,
+Omaha-Council Bluffs (Ne-Ia),2018,,22.25,,,
+Omaha-Council Bluffs (Ne-Ia),2019,,19.2,,,
+Orlando-Kissimmee-Sanford (Fl),2010,,14.9,10.6,,
+Orlando-Kissimmee-Sanford (Fl),2011,,14.95,10.1,,
+Orlando-Kissimmee-Sanford (Fl),2012,7.7,15.2,,,
+Orlando-Kissimmee-Sanford (Fl),2013,,14.3,8.5,,
+Orlando-Kissimmee-Sanford (Fl),2014,6.4,,9.3,,
+Orlando-Kissimmee-Sanford (Fl),2015,,12.3,7.7,,
+Orlando-Kissimmee-Sanford (Fl),2016,,11.9,7.7,,
+Orlando-Kissimmee-Sanford (Fl),2017,6.3,13.4,7.7,,
+Orlando-Kissimmee-Sanford (Fl),2018,,14.4,,,
+Orlando-Kissimmee-Sanford (Fl),2019,6.9,14.6,7.5,,
+Owensboro (Ky),2010,,,13.3,37.7575,-87.1172
+Owensboro (Ky),2012,,,11.3,37.7575,-87.1172
+Owensboro (Ky),2013,,,9.1,37.7575,-87.1172
+Owensboro (Ky),2014,,,10.0,37.7575,-87.1172
+Owensboro (Ky),2015,,,8.1,37.7575,-87.1172
+Owensboro (Ky),2016,,,7.9,37.7575,-87.1172
+Oxnard-Thousand Oaks-Ventura (Ca),2010,8.6,,13.4,,
+Oxnard-Thousand Oaks-Ventura (Ca),2011,8.7,,,,
+Oxnard-Thousand Oaks-Ventura (Ca),2012,,,15.85,,
+Oxnard-Thousand Oaks-Ventura (Ca),2013,,25.55,14.55,,
+Oxnard-Thousand Oaks-Ventura (Ca),2014,,24.5,16.6,,
+Oxnard-Thousand Oaks-Ventura (Ca),2015,,23.15,13.65,,
+Oxnard-Thousand Oaks-Ventura (Ca),2017,13.7,29.1,10.1,,
+Oxnard-Thousand Oaks-Ventura (Ca),2018,10.2,,10.1,,
+Oxnard-Thousand Oaks-Ventura (Ca),2019,4.7,20.0,8.7,,
+Paducah (Ky-Il),2012,,,12.0,37.0711,-88.644
+Paducah (Ky-Il),2012,,,12.0,34.0144,-100.3038
+Paducah (Ky-Il),2013,,,10.7,37.0711,-88.644
+Paducah (Ky-Il),2013,,,10.7,34.0144,-100.3038
+Paducah (Ky-Il),2014,,,10.8,37.0711,-88.644
+Paducah (Ky-Il),2014,,,10.8,34.0144,-100.3038
+Paducah (Ky-Il),2016,,,9.1,37.0711,-88.644
+Paducah (Ky-Il),2016,,,9.1,34.0144,-100.3038
+Paducah (Ky-Il),2018,,,8.8,37.0711,-88.644
+Paducah (Ky-Il),2018,,,8.8,34.0144,-100.3038
+Pagosa Springs,2010,,24.3,,37.2675,-107.0307
+Pagosa Springs,2011,,20.7,,37.2675,-107.0307
+Pagosa Springs,2012,,23.1,,37.2675,-107.0307
+Pagosa Springs,2014,,19.7,,37.2675,-107.0307
+Pagosa Springs,2016,,20.0,,37.2675,-107.0307
+Pagosa Springs,2017,,21.0,,37.2675,-107.0307
+Pagosa Springs,2018,,18.2,,37.2675,-107.0307
+Pagosa Springs,2019,,18.6,,37.2675,-107.0307
+Pahrump (Nv),2010,,26.15,,36.2235,-115.9974
+Pahrump (Nv),2011,,16.45,,36.2235,-115.9974
+Pahrump (Nv),2012,,20.2,,36.2235,-115.9974
+Pahrump (Nv),2013,,23.1,,36.2235,-115.9974
+Pahrump (Nv),2015,,15.8,,36.2235,-115.9974
+Pahrump (Nv),2017,,22.3,,36.2235,-115.9974
+Pahrump (Nv),2018,,17.47,,36.2235,-115.9974
+Palatka (Fl),2010,,18.2,,29.6493,-81.6705
+Palatka (Fl),2011,,19.3,,29.6493,-81.6705
+Palatka (Fl),2015,,14.7,,29.6493,-81.6705
+Palatka (Fl),2017,,18.0,,29.6493,-81.6705
+Palm Bay-Melbourne-Titusville (Fl),2010,6.9,,,,
+Palm Bay-Melbourne-Titusville (Fl),2012,,16.8,,,
+Palm Bay-Melbourne-Titusville (Fl),2013,,13.9,,,
+Palm Bay-Melbourne-Titusville (Fl),2014,,13.4,,,
+Palm Bay-Melbourne-Titusville (Fl),2017,,14.0,,,
+Payson (Az),2010,,33.5,,40.0355,-111.739
+Payson (Az),2010,,33.5,,34.2433,-111.3195
+Payson (Az),2010,,33.5,,39.8169,-91.2443
+Payson (Az),2011,,40.5,,40.0355,-111.739
+Payson (Az),2011,,40.5,,34.2433,-111.3195
+Payson (Az),2011,,40.5,,39.8169,-91.2443
+Payson (Az),2012,,33.5,,40.0355,-111.739
+Payson (Az),2012,,33.5,,34.2433,-111.3195
+Payson (Az),2012,,33.5,,39.8169,-91.2443
+Payson (Az),2013,,32.45,,40.0355,-111.739
+Payson (Az),2013,,32.45,,34.2433,-111.3195
+Payson (Az),2013,,32.45,,39.8169,-91.2443
+Payson (Az),2014,,29.95,,40.0355,-111.739
+Payson (Az),2014,,29.95,,34.2433,-111.3195
+Payson (Az),2014,,29.95,,39.8169,-91.2443
+Payson (Az),2015,,22.0,,40.0355,-111.739
+Payson (Az),2015,,22.0,,34.2433,-111.3195
+Payson (Az),2015,,22.0,,39.8169,-91.2443
+Payson (Az),2016,,26.35,,40.0355,-111.739
+Payson (Az),2016,,26.35,,34.2433,-111.3195
+Payson (Az),2016,,26.35,,39.8169,-91.2443
+Payson (Az),2017,,27.2,,40.0355,-111.739
+Payson (Az),2017,,27.2,,34.2433,-111.3195
+Payson (Az),2017,,27.2,,39.8169,-91.2443
+Payson (Az),2018,,27.35,,40.0355,-111.739
+Payson (Az),2018,,27.35,,34.2433,-111.3195
+Payson (Az),2018,,27.35,,39.8169,-91.2443
+Payson (Az),2019,,22.0,,40.0355,-111.739
+Payson (Az),2019,,22.0,,34.2433,-111.3195
+Payson (Az),2019,,22.0,,39.8169,-91.2443
+Pensacola-Ferry Pass-Brent (Fl),2015,7.4,,,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2010,10.0,30.1,24.3,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2011,,32.7,21.8,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2012,,,21.13,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2013,,,20.93,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2014,,,17.5,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2015,,37.4,21.77,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2016,,39.0,19.35,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2017,8.85,,21.1,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2018,,,19.7,,
+Philadelphia-Camden-Wilmington (Pa-Nj-De-Md),2019,,,16.8,,
+Phoenix-Mesa-Scottsdale (Az),2010,7.12,31.34,29.08,,
+Phoenix-Mesa-Scottsdale (Az),2011,8.32,41.12,29.77,,
+Phoenix-Mesa-Scottsdale (Az),2012,9.98,40.52,31.98,,
+Phoenix-Mesa-Scottsdale (Az),2013,7.77,34.05,29.65,,
+Phoenix-Mesa-Scottsdale (Az),2014,8.42,36.09,29.3,,
+Phoenix-Mesa-Scottsdale (Az),2015,6.74,26.21,25.62,,
+Phoenix-Mesa-Scottsdale (Az),2016,7.54,32.81,25.25,,
+Phoenix-Mesa-Scottsdale (Az),2017,8.35,36.67,27.35,,
+Phoenix-Mesa-Scottsdale (Az),2018,9.04,37.7,26.12,,
+Phoenix-Mesa-Scottsdale (Az),2019,6.25,27.76,23.45,,
+Pinehurst (Pine Creek) (Na),2010,,15.3,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2010,,15.3,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2010,,15.3,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2010,,15.3,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2010,,15.3,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2011,,13.8,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2011,,13.8,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2011,,13.8,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2011,,13.8,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2011,,13.8,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2012,,13.4,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2012,,13.4,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2012,,13.4,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2012,,13.4,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2012,,13.4,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2013,14.7,16.1,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2013,14.7,16.1,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2013,14.7,16.1,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2013,14.7,16.1,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2013,14.7,16.1,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2014,,13.7,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2014,,13.7,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2014,,13.7,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2014,,13.7,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2014,,13.7,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2015,13.6,19.5,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2015,13.6,19.5,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2015,13.6,19.5,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2015,13.6,19.5,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2015,13.6,19.5,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2017,14.2,15.5,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2017,14.2,15.5,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2017,14.2,15.5,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2017,14.2,15.5,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2017,14.2,15.5,,32.1956,-83.7596
+Pinehurst (Pine Creek) (Na),2018,12.1,15.7,,35.1922,-79.4684
+Pinehurst (Pine Creek) (Na),2018,12.1,15.7,,42.5334,-71.2339
+Pinehurst (Pine Creek) (Na),2018,12.1,15.7,,30.1889,-95.7017
+Pinehurst (Pine Creek) (Na),2018,12.1,15.7,,47.5364,-116.2327
+Pinehurst (Pine Creek) (Na),2018,12.1,15.7,,32.1956,-83.7596
+Pittsburgh (Pa),2010,16.0,25.6,20.65,40.4397,-79.9763
+Pittsburgh (Pa),2011,13.85,21.0,18.3,40.4397,-79.9763
+Pittsburgh (Pa),2012,14.3,19.25,,40.4397,-79.9763
+Pittsburgh (Pa),2013,,,18.9,40.4397,-79.9763
+Pittsburgh (Pa),2014,13.4,11.6,19.2,40.4397,-79.9763
+Pittsburgh (Pa),2015,,18.27,17.9,40.4397,-79.9763
+Pittsburgh (Pa),2016,11.8,21.8,11.7,40.4397,-79.9763
+Pittsburgh (Pa),2017,13.4,17.6,,40.4397,-79.9763
+Pittsburgh (Pa),2018,,16.12,,40.4397,-79.9763
+Pittsburgh (Pa),2019,,11.3,,40.4397,-79.9763
+Pocatello (Id),2011,,19.25,,42.8724,-112.4647
+Pocatello (Id),2014,,19.3,,42.8724,-112.4647
+Pocatello (Id),2015,,19.4,,42.8724,-112.4647
+Pocatello (Id),2016,,19.7,,42.8724,-112.4647
+Pocatello (Id),2018,,23.2,,42.8724,-112.4647
+Ponce (Pr),2012,,27.9,,18.0127,-66.6212
+Ponce (Pr),2013,,30.0,,18.0127,-66.6212
+Ponce (Pr),2014,,29.9,,18.0127,-66.6212
+Ponce (Pr),2015,,28.9,,18.0127,-66.6212
+Ponce (Pr),2016,,26.4,,18.0127,-66.6212
+Ponce (Pr),2017,,32.8,,18.0127,-66.6212
+Ponce (Pr),2018,,27.0,,18.0127,-66.6212
+Ponce (Pr),2019,,28.7,,18.0127,-66.6212
+Portland-South Portland (Me),2010,,,18.4,,
+Portland-South Portland (Me),2011,,,17.2,,
+Portland-South Portland (Me),2012,,,18.4,,
+Portland-South Portland (Me),2015,,21.9,14.6,,
+Portland-South Portland (Me),2017,,18.8,,,
+Portland-South Portland (Me),2019,,21.5,,,
+Portland-Vancouver-Hillsboro (Or-Wa),2010,,,17.0,,
+Portland-Vancouver-Hillsboro (Or-Wa),2011,,12.4,,,
+Portland-Vancouver-Hillsboro (Or-Wa),2013,,12.9,18.3,,
+Portland-Vancouver-Hillsboro (Or-Wa),2016,,9.6,16.4,,
+Portland-Vancouver-Hillsboro (Or-Wa),2017,,12.3,,,
+Portland-Vancouver-Hillsboro (Or-Wa),2018,,11.1,16.2,,
+Portland-Vancouver-Hillsboro (Or-Wa),2019,,,14.5,,
+Portsmouth (Oh),2013,,16.4,,36.8468,-76.354
+Portsmouth (Oh),2013,,16.4,,43.058,-70.7826
+Portsmouth (Oh),2013,,16.4,,38.7538,-82.9445
+Portsmouth (Oh),2013,,16.4,,41.6501,-95.5192
+Portsmouth (Oh),2014,,17.0,,36.8468,-76.354
+Portsmouth (Oh),2014,,17.0,,43.058,-70.7826
+Portsmouth (Oh),2014,,17.0,,38.7538,-82.9445
+Portsmouth (Oh),2014,,17.0,,41.6501,-95.5192
+Portsmouth (Oh),2015,,14.8,,36.8468,-76.354
+Portsmouth (Oh),2015,,14.8,,43.058,-70.7826
+Portsmouth (Oh),2015,,14.8,,38.7538,-82.9445
+Portsmouth (Oh),2015,,14.8,,41.6501,-95.5192
+Portsmouth (Oh),2016,,14.7,,36.8468,-76.354
+Portsmouth (Oh),2016,,14.7,,43.058,-70.7826
+Portsmouth (Oh),2016,,14.7,,38.7538,-82.9445
+Portsmouth (Oh),2016,,14.7,,41.6501,-95.5192
+Portsmouth (Oh),2017,,10.6,,36.8468,-76.354
+Portsmouth (Oh),2017,,10.6,,43.058,-70.7826
+Portsmouth (Oh),2017,,10.6,,38.7538,-82.9445
+Portsmouth (Oh),2017,,10.6,,41.6501,-95.5192
+Portsmouth (Oh),2018,,9.6,,36.8468,-76.354
+Portsmouth (Oh),2018,,9.6,,43.058,-70.7826
+Portsmouth (Oh),2018,,9.6,,38.7538,-82.9445
+Portsmouth (Oh),2018,,9.6,,41.6501,-95.5192
+Presque Isle,2010,,,3.8,46.6868,-67.9874
+Presque Isle,2011,,,3.8,46.6868,-67.9874
+Presque Isle,2014,,,3.7,46.6868,-67.9874
+Presque Isle,2015,,,3.6,46.6868,-67.9874
+Presque Isle,2016,,,3.2,46.6868,-67.9874
+Presque Isle,2017,,,3.3,46.6868,-67.9874
+Presque Isle,2019,,,3.3,46.6868,-67.9874
+Presque Isle (Na),2011,,14.1,,46.6868,-67.9874
+Presque Isle (Na),2012,,16.2,,46.6868,-67.9874
+Presque Isle (Na),2016,,11.8,,46.6868,-67.9874
+Presque Isle (Na),2017,,8.3,,46.6868,-67.9874
+Presque Isle (Na),2018,,9.7,,46.6868,-67.9874
+Providence-Warwick (Ri-Ma),2010,,10.0,18.5,,
+Providence-Warwick (Ri-Ma),2011,7.9,8.8,21.3,,
+Providence-Warwick (Ri-Ma),2012,,10.75,12.2,,
+Providence-Warwick (Ri-Ma),2013,,10.9,16.85,,
+Providence-Warwick (Ri-Ma),2014,,12.23,,,
+Providence-Warwick (Ri-Ma),2015,,9.5,17.05,,
+Providence-Warwick (Ri-Ma),2016,5.4,7.6,,,
+Providence-Warwick (Ri-Ma),2017,,10.8,,,
+Providence-Warwick (Ri-Ma),2018,,,12.2,,
+Provo-Orem (Ut),2010,,,27.4,,
+Provo-Orem (Ut),2011,,,32.4,,
+Provo-Orem (Ut),2012,,22.2,31.1,,
+Provo-Orem (Ut),2013,,,35.6,,
+Provo-Orem (Ut),2014,,,31.4,,
+Provo-Orem (Ut),2016,,,28.7,,
+Provo-Orem (Ut),2019,,17.0,,,
+Pueblo (Co),2010,,18.6,,38.2701,-104.6114
+Pueblo (Co),2010,,18.6,,35.3273,-105.4354
+Pueblo (Co),2011,,20.2,,38.2701,-104.6114
+Pueblo (Co),2011,,20.2,,35.3273,-105.4354
+Pueblo (Co),2012,,20.8,,38.2701,-104.6114
+Pueblo (Co),2012,,20.8,,35.3273,-105.4354
+Pueblo (Co),2014,5.7,,,38.2701,-104.6114
+Pueblo (Co),2014,5.7,,,35.3273,-105.4354
+Pueblo (Co),2015,5.1,17.1,,38.2701,-104.6114
+Pueblo (Co),2015,5.1,17.1,,35.3273,-105.4354
+Pueblo (Co),2017,,19.0,,38.2701,-104.6114
+Pueblo (Co),2017,,19.0,,35.3273,-105.4354
+Pueblo (Co),2019,,17.9,,38.2701,-104.6114
+Pueblo (Co),2019,,17.9,,35.3273,-105.4354
+Quincy (Na),2015,9.2,,,42.2506,-71.0187
+Quincy (Na),2015,9.2,,,39.9336,-91.3799
+Quincy (Na),2015,9.2,,,30.5661,-84.5858
+Quincy (Na),2015,9.2,,,47.2344,-119.853
+Quincy (Na),2015,9.2,,,39.931,-120.9548
+Quincy (Na),2015,9.2,,,41.9424,-84.8826
+Quincy (Na),2015,9.2,,,40.2956,-83.9686
+Rangely (Na),2011,,,5.8,40.0861,-108.7795
+Rangely (Na),2012,9.9,,4.5,40.0861,-108.7795
+Rangely (Na),2013,,,5.9,40.0861,-108.7795
+Rangely (Na),2014,,,3.1,40.0861,-108.7795
+Rangely (Na),2016,,,2.5,40.0861,-108.7795
+Rangely (Na),2017,,,2.5,40.0861,-108.7795
+Rangely (Na),2018,,,4.0,40.0861,-108.7795
+Rangely (Na),2019,,,4.8,40.0861,-108.7795
+Rapid City (Sd),2010,4.2,14.0,,44.0716,-103.2204
+Rapid City (Sd),2010,4.2,14.0,,44.8366,-85.2871
+Rapid City (Sd),2011,,19.2,,44.0716,-103.2204
+Rapid City (Sd),2011,,19.2,,44.8366,-85.2871
+Rapid City (Sd),2012,,21.2,,44.0716,-103.2204
+Rapid City (Sd),2012,,21.2,,44.8366,-85.2871
+Rapid City (Sd),2013,3.1,37.7,,44.0716,-103.2204
+Rapid City (Sd),2013,3.1,37.7,,44.8366,-85.2871
+Rapid City (Sd),2014,2.4,21.45,,44.0716,-103.2204
+Rapid City (Sd),2014,2.4,21.45,,44.8366,-85.2871
+Rapid City (Sd),2015,4.1,35.7,,44.0716,-103.2204
+Rapid City (Sd),2015,4.1,35.7,,44.8366,-85.2871
+Rapid City (Sd),2016,1.9,,,44.0716,-103.2204
+Rapid City (Sd),2016,1.9,,,44.8366,-85.2871
+Rapid City (Sd),2017,,18.9,,44.0716,-103.2204
+Rapid City (Sd),2017,,18.9,,44.8366,-85.2871
+Rapid City (Sd),2018,3.6,20.5,11.9,44.0716,-103.2204
+Rapid City (Sd),2018,3.6,20.5,11.9,44.8366,-85.2871
+Rapid City (Sd),2019,,21.0,10.4,44.0716,-103.2204
+Rapid City (Sd),2019,,21.0,10.4,44.8366,-85.2871
+Redding (Ca),2010,,12.7,,40.5698,-122.365
+Redding (Ca),2010,,12.7,,40.6067,-94.3863
+Redding (Ca),2011,5.4,13.3,,40.5698,-122.365
+Redding (Ca),2011,5.4,13.3,,40.6067,-94.3863
+Redding (Ca),2012,,15.4,,40.5698,-122.365
+Redding (Ca),2012,,15.4,,40.6067,-94.3863
+Redding (Ca),2013,,15.75,,40.5698,-122.365
+Redding (Ca),2013,,15.75,,40.6067,-94.3863
+Redding (Ca),2014,5.2,14.9,,40.5698,-122.365
+Redding (Ca),2014,5.2,14.9,,40.6067,-94.3863
+Redding (Ca),2015,,16.2,,40.5698,-122.365
+Redding (Ca),2015,,16.2,,40.6067,-94.3863
+Redding (Ca),2016,,13.8,,40.5698,-122.365
+Redding (Ca),2016,,13.8,,40.6067,-94.3863
+Redding (Ca),2017,,20.6,,40.5698,-122.365
+Redding (Ca),2017,,20.6,,40.6067,-94.3863
+Redding (Ca),2018,15.9,23.0,,40.5698,-122.365
+Redding (Ca),2018,15.9,23.0,,40.6067,-94.3863
+Redding (Ca),2019,,11.55,,40.5698,-122.365
+Redding (Ca),2019,,11.55,,40.6067,-94.3863
+Reno (Nv),2010,,19.7,30.6,39.5497,-119.8483
+Reno (Nv),2010,,19.7,30.6,33.6659,-95.4768
+Reno (Nv),2010,,19.7,30.6,39.3769,-81.3933
+Reno (Nv),2011,,,31.3,39.5497,-119.8483
+Reno (Nv),2011,,,31.3,33.6659,-95.4768
+Reno (Nv),2011,,,31.3,39.3769,-81.3933
+Reno (Nv),2012,,,26.5,39.5497,-119.8483
+Reno (Nv),2012,,,26.5,33.6659,-95.4768
+Reno (Nv),2012,,,26.5,39.3769,-81.3933
+Reno (Nv),2013,,25.5,30.1,39.5497,-119.8483
+Reno (Nv),2013,,25.5,30.1,33.6659,-95.4768
+Reno (Nv),2013,,25.5,30.1,39.3769,-81.3933
+Reno (Nv),2015,,,26.5,39.5497,-119.8483
+Reno (Nv),2015,,,26.5,33.6659,-95.4768
+Reno (Nv),2015,,,26.5,39.3769,-81.3933
+Reno (Nv),2018,,,24.1,39.5497,-119.8483
+Reno (Nv),2018,,,24.1,33.6659,-95.4768
+Reno (Nv),2018,,,24.1,39.3769,-81.3933
+Reno (Nv),2019,3.0,,21.4,39.5497,-119.8483
+Reno (Nv),2019,3.0,,21.4,33.6659,-95.4768
+Reno (Nv),2019,3.0,,21.4,39.3769,-81.3933
+Richmond (Va),2010,,,21.0,37.5295,-77.4756
+Richmond (Va),2010,,,21.0,37.9477,-122.3389
+Richmond (Va),2010,,,21.0,39.8318,-84.8905
+Richmond (Va),2010,,,21.0,37.7307,-84.2925
+Richmond (Va),2010,,,21.0,29.5824,-95.7563
+Richmond (Va),2010,,,21.0,39.2755,-93.9729
+Richmond (Va),2010,,,21.0,42.8094,-82.7518
+Richmond (Va),2010,,,21.0,41.9231,-111.8076
+Richmond (Va),2010,,,21.0,42.4639,-88.3093
+Richmond (Va),2010,,,21.0,45.4547,-94.5135
+Richmond (Va),2010,,,21.0,40.4327,-80.7718
+Richmond (Va),2010,,,21.0,38.4004,-95.252
+Richmond (Va),2010,,,21.0,32.3884,-91.1804
+Richmond (Va),2014,,11.3,,37.5295,-77.4756
+Richmond (Va),2014,,11.3,,37.9477,-122.3389
+Richmond (Va),2014,,11.3,,39.8318,-84.8905
+Richmond (Va),2014,,11.3,,37.7307,-84.2925
+Richmond (Va),2014,,11.3,,29.5824,-95.7563
+Richmond (Va),2014,,11.3,,39.2755,-93.9729
+Richmond (Va),2014,,11.3,,42.8094,-82.7518
+Richmond (Va),2014,,11.3,,41.9231,-111.8076
+Richmond (Va),2014,,11.3,,42.4639,-88.3093
+Richmond (Va),2014,,11.3,,45.4547,-94.5135
+Richmond (Va),2014,,11.3,,40.4327,-80.7718
+Richmond (Va),2014,,11.3,,38.4004,-95.252
+Richmond (Va),2014,,11.3,,32.3884,-91.1804
+Richmond (Va),2015,,11.4,15.1,37.5295,-77.4756
+Richmond (Va),2015,,11.4,15.1,37.9477,-122.3389
+Richmond (Va),2015,,11.4,15.1,39.8318,-84.8905
+Richmond (Va),2015,,11.4,15.1,37.7307,-84.2925
+Richmond (Va),2015,,11.4,15.1,29.5824,-95.7563
+Richmond (Va),2015,,11.4,15.1,39.2755,-93.9729
+Richmond (Va),2015,,11.4,15.1,42.8094,-82.7518
+Richmond (Va),2015,,11.4,15.1,41.9231,-111.8076
+Richmond (Va),2015,,11.4,15.1,42.4639,-88.3093
+Richmond (Va),2015,,11.4,15.1,45.4547,-94.5135
+Richmond (Va),2015,,11.4,15.1,40.4327,-80.7718
+Richmond (Va),2015,,11.4,15.1,38.4004,-95.252
+Richmond (Va),2015,,11.4,15.1,32.3884,-91.1804
+Richmond (Va),2016,,,9.65,37.5295,-77.4756
+Richmond (Va),2016,,,9.65,37.9477,-122.3389
+Richmond (Va),2016,,,9.65,39.8318,-84.8905
+Richmond (Va),2016,,,9.65,37.7307,-84.2925
+Richmond (Va),2016,,,9.65,29.5824,-95.7563
+Richmond (Va),2016,,,9.65,39.2755,-93.9729
+Richmond (Va),2016,,,9.65,42.8094,-82.7518
+Richmond (Va),2016,,,9.65,41.9231,-111.8076
+Richmond (Va),2016,,,9.65,42.4639,-88.3093
+Richmond (Va),2016,,,9.65,45.4547,-94.5135
+Richmond (Va),2016,,,9.65,40.4327,-80.7718
+Richmond (Va),2016,,,9.65,38.4004,-95.252
+Richmond (Va),2016,,,9.65,32.3884,-91.1804
+Richmond (Va),2017,,,7.2,37.5295,-77.4756
+Richmond (Va),2017,,,7.2,37.9477,-122.3389
+Richmond (Va),2017,,,7.2,39.8318,-84.8905
+Richmond (Va),2017,,,7.2,37.7307,-84.2925
+Richmond (Va),2017,,,7.2,29.5824,-95.7563
+Richmond (Va),2017,,,7.2,39.2755,-93.9729
+Richmond (Va),2017,,,7.2,42.8094,-82.7518
+Richmond (Va),2017,,,7.2,41.9231,-111.8076
+Richmond (Va),2017,,,7.2,42.4639,-88.3093
+Richmond (Va),2017,,,7.2,45.4547,-94.5135
+Richmond (Va),2017,,,7.2,40.4327,-80.7718
+Richmond (Va),2017,,,7.2,38.4004,-95.252
+Richmond (Va),2017,,,7.2,32.3884,-91.1804
+Richmond (Va),2018,,,9.4,37.5295,-77.4756
+Richmond (Va),2018,,,9.4,37.9477,-122.3389
+Richmond (Va),2018,,,9.4,39.8318,-84.8905
+Richmond (Va),2018,,,9.4,37.7307,-84.2925
+Richmond (Va),2018,,,9.4,29.5824,-95.7563
+Richmond (Va),2018,,,9.4,39.2755,-93.9729
+Richmond (Va),2018,,,9.4,42.8094,-82.7518
+Richmond (Va),2018,,,9.4,41.9231,-111.8076
+Richmond (Va),2018,,,9.4,42.4639,-88.3093
+Richmond (Va),2018,,,9.4,45.4547,-94.5135
+Richmond (Va),2018,,,9.4,40.4327,-80.7718
+Richmond (Va),2018,,,9.4,38.4004,-95.252
+Richmond (Va),2018,,,9.4,32.3884,-91.1804
+Richmond (Va),2019,,9.5,,37.5295,-77.4756
+Richmond (Va),2019,,9.5,,37.9477,-122.3389
+Richmond (Va),2019,,9.5,,39.8318,-84.8905
+Richmond (Va),2019,,9.5,,37.7307,-84.2925
+Richmond (Va),2019,,9.5,,29.5824,-95.7563
+Richmond (Va),2019,,9.5,,39.2755,-93.9729
+Richmond (Va),2019,,9.5,,42.8094,-82.7518
+Richmond (Va),2019,,9.5,,41.9231,-111.8076
+Richmond (Va),2019,,9.5,,42.4639,-88.3093
+Richmond (Va),2019,,9.5,,45.4547,-94.5135
+Richmond (Va),2019,,9.5,,40.4327,-80.7718
+Richmond (Va),2019,,9.5,,38.4004,-95.252
+Richmond (Va),2019,,9.5,,32.3884,-91.1804
+Riverside-San Bernardino-Ontario (Ca),2010,14.2,32.28,26.69,,
+Riverside-San Bernardino-Ontario (Ca),2011,11.15,30.0,29.59,,
+Riverside-San Bernardino-Ontario (Ca),2012,12.16,28.62,26.15,,
+Riverside-San Bernardino-Ontario (Ca),2013,12.57,30.45,25.2,,
+Riverside-San Bernardino-Ontario (Ca),2014,10.6,33.99,21.84,,
+Riverside-San Bernardino-Ontario (Ca),2015,10.54,31.11,21.26,,
+Riverside-San Bernardino-Ontario (Ca),2016,11.02,32.39,22.01,,
+Riverside-San Bernardino-Ontario (Ca),2017,10.8,30.57,20.37,,
+Riverside-San Bernardino-Ontario (Ca),2018,11.9,30.52,21.39,,
+Riverside-San Bernardino-Ontario (Ca),2019,10.64,27.03,20.19,,
+Riverton (Wy),2010,,20.2,1.15,40.5176,-111.9636
+Riverton (Wy),2010,,20.2,1.15,43.0421,-108.4144
+Riverton (Wy),2010,,20.2,1.15,39.8456,-89.5363
+Riverton (Wy),2010,,20.2,1.15,40.0115,-75.0148
+Riverton (Wy),2010,,20.2,1.15,37.0732,-94.706
+Riverton (Wy),2010,,20.2,1.15,41.9631,-73.0166
+Riverton (Wy),2010,,20.2,1.15,40.6871,-95.5686
+Riverton (Wy),2010,,20.2,1.15,46.4584,-94.0488
+Riverton (Wy),2010,,20.2,1.15,40.0897,-98.7597
+Riverton (Wy),2011,,9.8,1.4,40.5176,-111.9636
+Riverton (Wy),2011,,9.8,1.4,43.0421,-108.4144
+Riverton (Wy),2011,,9.8,1.4,39.8456,-89.5363
+Riverton (Wy),2011,,9.8,1.4,40.0115,-75.0148
+Riverton (Wy),2011,,9.8,1.4,37.0732,-94.706
+Riverton (Wy),2011,,9.8,1.4,41.9631,-73.0166
+Riverton (Wy),2011,,9.8,1.4,40.6871,-95.5686
+Riverton (Wy),2011,,9.8,1.4,46.4584,-94.0488
+Riverton (Wy),2011,,9.8,1.4,40.0897,-98.7597
+Riverton (Wy),2012,,8.7,1.5,40.5176,-111.9636
+Riverton (Wy),2012,,8.7,1.5,43.0421,-108.4144
+Riverton (Wy),2012,,8.7,1.5,39.8456,-89.5363
+Riverton (Wy),2012,,8.7,1.5,40.0115,-75.0148
+Riverton (Wy),2012,,8.7,1.5,37.0732,-94.706
+Riverton (Wy),2012,,8.7,1.5,41.9631,-73.0166
+Riverton (Wy),2012,,8.7,1.5,40.6871,-95.5686
+Riverton (Wy),2012,,8.7,1.5,46.4584,-94.0488
+Riverton (Wy),2012,,8.7,1.5,40.0897,-98.7597
+Riverton (Wy),2013,,5.4,1.5,40.5176,-111.9636
+Riverton (Wy),2013,,5.4,1.5,43.0421,-108.4144
+Riverton (Wy),2013,,5.4,1.5,39.8456,-89.5363
+Riverton (Wy),2013,,5.4,1.5,40.0115,-75.0148
+Riverton (Wy),2013,,5.4,1.5,37.0732,-94.706
+Riverton (Wy),2013,,5.4,1.5,41.9631,-73.0166
+Riverton (Wy),2013,,5.4,1.5,40.6871,-95.5686
+Riverton (Wy),2013,,5.4,1.5,46.4584,-94.0488
+Riverton (Wy),2013,,5.4,1.5,40.0897,-98.7597
+Riverton (Wy),2014,,,1.2,40.5176,-111.9636
+Riverton (Wy),2014,,,1.2,43.0421,-108.4144
+Riverton (Wy),2014,,,1.2,39.8456,-89.5363
+Riverton (Wy),2014,,,1.2,40.0115,-75.0148
+Riverton (Wy),2014,,,1.2,37.0732,-94.706
+Riverton (Wy),2014,,,1.2,41.9631,-73.0166
+Riverton (Wy),2014,,,1.2,40.6871,-95.5686
+Riverton (Wy),2014,,,1.2,46.4584,-94.0488
+Riverton (Wy),2014,,,1.2,40.0897,-98.7597
+Riverton (Wy),2015,,6.1,1.0,40.5176,-111.9636
+Riverton (Wy),2015,,6.1,1.0,43.0421,-108.4144
+Riverton (Wy),2015,,6.1,1.0,39.8456,-89.5363
+Riverton (Wy),2015,,6.1,1.0,40.0115,-75.0148
+Riverton (Wy),2015,,6.1,1.0,37.0732,-94.706
+Riverton (Wy),2015,,6.1,1.0,41.9631,-73.0166
+Riverton (Wy),2015,,6.1,1.0,40.6871,-95.5686
+Riverton (Wy),2015,,6.1,1.0,46.4584,-94.0488
+Riverton (Wy),2015,,6.1,1.0,40.0897,-98.7597
+Riverton (Wy),2016,,,1.1,40.5176,-111.9636
+Riverton (Wy),2016,,,1.1,43.0421,-108.4144
+Riverton (Wy),2016,,,1.1,39.8456,-89.5363
+Riverton (Wy),2016,,,1.1,40.0115,-75.0148
+Riverton (Wy),2016,,,1.1,37.0732,-94.706
+Riverton (Wy),2016,,,1.1,41.9631,-73.0166
+Riverton (Wy),2016,,,1.1,40.6871,-95.5686
+Riverton (Wy),2016,,,1.1,46.4584,-94.0488
+Riverton (Wy),2016,,,1.1,40.0897,-98.7597
+Riverton (Wy),2017,,7.0,0.65,40.5176,-111.9636
+Riverton (Wy),2017,,7.0,0.65,43.0421,-108.4144
+Riverton (Wy),2017,,7.0,0.65,39.8456,-89.5363
+Riverton (Wy),2017,,7.0,0.65,40.0115,-75.0148
+Riverton (Wy),2017,,7.0,0.65,37.0732,-94.706
+Riverton (Wy),2017,,7.0,0.65,41.9631,-73.0166
+Riverton (Wy),2017,,7.0,0.65,40.6871,-95.5686
+Riverton (Wy),2017,,7.0,0.65,46.4584,-94.0488
+Riverton (Wy),2017,,7.0,0.65,40.0897,-98.7597
+Riverton (Wy),2018,,6.0,0.65,40.5176,-111.9636
+Riverton (Wy),2018,,6.0,0.65,43.0421,-108.4144
+Riverton (Wy),2018,,6.0,0.65,39.8456,-89.5363
+Riverton (Wy),2018,,6.0,0.65,40.0115,-75.0148
+Riverton (Wy),2018,,6.0,0.65,37.0732,-94.706
+Riverton (Wy),2018,,6.0,0.65,41.9631,-73.0166
+Riverton (Wy),2018,,6.0,0.65,40.6871,-95.5686
+Riverton (Wy),2018,,6.0,0.65,46.4584,-94.0488
+Riverton (Wy),2018,,6.0,0.65,40.0897,-98.7597
+Riverton (Wy),2019,,9.25,0.5,40.5176,-111.9636
+Riverton (Wy),2019,,9.25,0.5,43.0421,-108.4144
+Riverton (Wy),2019,,9.25,0.5,39.8456,-89.5363
+Riverton (Wy),2019,,9.25,0.5,40.0115,-75.0148
+Riverton (Wy),2019,,9.25,0.5,37.0732,-94.706
+Riverton (Wy),2019,,9.25,0.5,41.9631,-73.0166
+Riverton (Wy),2019,,9.25,0.5,40.6871,-95.5686
+Riverton (Wy),2019,,9.25,0.5,46.4584,-94.0488
+Riverton (Wy),2019,,9.25,0.5,40.0897,-98.7597
+Roanoke (Va),2015,,,9.0,37.2785,-79.9581
+Roanoke (Va),2015,,,9.0,33.0144,-97.2276
+Roanoke (Va),2015,,,9.0,33.1453,-85.3694
+Roanoke (Va),2015,,,9.0,40.7968,-89.2023
+Roanoke (Va),2015,,,9.0,40.964,-85.3761
+Roanoke (Va),2015,,,9.0,30.2356,-92.7481
+Roanoke (Va),2016,,,10.8,37.2785,-79.9581
+Roanoke (Va),2016,,,10.8,33.0144,-97.2276
+Roanoke (Va),2016,,,10.8,33.1453,-85.3694
+Roanoke (Va),2016,,,10.8,40.7968,-89.2023
+Roanoke (Va),2016,,,10.8,40.964,-85.3761
+Roanoke (Va),2016,,,10.8,30.2356,-92.7481
+Rock Springs (Wy),2010,,12.5,,41.5947,-109.2209
+Rock Springs (Wy),2010,,12.5,,35.6188,-108.8345
+Rock Springs (Wy),2010,,12.5,,43.479,-89.9177
+Rock Springs (Wy),2011,,9.53,8.3,41.5947,-109.2209
+Rock Springs (Wy),2011,,9.53,8.3,35.6188,-108.8345
+Rock Springs (Wy),2011,,9.53,8.3,43.479,-89.9177
+Rock Springs (Wy),2012,,10.95,3.7,41.5947,-109.2209
+Rock Springs (Wy),2012,,10.95,3.7,35.6188,-108.8345
+Rock Springs (Wy),2012,,10.95,3.7,43.479,-89.9177
+Rock Springs (Wy),2013,,10.05,,41.5947,-109.2209
+Rock Springs (Wy),2013,,10.05,,35.6188,-108.8345
+Rock Springs (Wy),2013,,10.05,,43.479,-89.9177
+Rock Springs (Wy),2014,,12.02,,41.5947,-109.2209
+Rock Springs (Wy),2014,,12.02,,35.6188,-108.8345
+Rock Springs (Wy),2014,,12.02,,43.479,-89.9177
+Rock Springs (Wy),2015,,8.22,6.5,41.5947,-109.2209
+Rock Springs (Wy),2015,,8.22,6.5,35.6188,-108.8345
+Rock Springs (Wy),2015,,8.22,6.5,43.479,-89.9177
+Rock Springs (Wy),2016,,7.9,,41.5947,-109.2209
+Rock Springs (Wy),2016,,7.9,,35.6188,-108.8345
+Rock Springs (Wy),2016,,7.9,,43.479,-89.9177
+Rock Springs (Wy),2017,,7.7,,41.5947,-109.2209
+Rock Springs (Wy),2017,,7.7,,35.6188,-108.8345
+Rock Springs (Wy),2017,,7.7,,43.479,-89.9177
+Rock Springs (Wy),2018,,17.35,6.1,41.5947,-109.2209
+Rock Springs (Wy),2018,,17.35,6.1,35.6188,-108.8345
+Rock Springs (Wy),2018,,17.35,6.1,43.479,-89.9177
+Rock Springs (Wy),2019,,9.22,,41.5947,-109.2209
+Rock Springs (Wy),2019,,9.22,,35.6188,-108.8345
+Rock Springs (Wy),2019,,9.22,,43.479,-89.9177
+Rutland (Vt),2012,,,14.0,43.6092,-72.9783
+Rutland (Vt),2012,,,14.0,39.0412,-82.1285
+Rutland (Vt),2012,,,14.0,40.9838,-89.0413
+Rutland (Vt),2012,,,14.0,42.7614,-94.2952
+Rutland (Vt),2012,,,14.0,46.0543,-97.5068
+Rutland (Vt),2015,,,14.1,43.6092,-72.9783
+Rutland (Vt),2015,,,14.1,39.0412,-82.1285
+Rutland (Vt),2015,,,14.1,40.9838,-89.0413
+Rutland (Vt),2015,,,14.1,42.7614,-94.2952
+Rutland (Vt),2015,,,14.1,46.0543,-97.5068
+Rutland (Vt),2018,,,13.0,43.6092,-72.9783
+Rutland (Vt),2018,,,13.0,39.0412,-82.1285
+Rutland (Vt),2018,,,13.0,40.9838,-89.0413
+Rutland (Vt),2018,,,13.0,42.7614,-94.2952
+Rutland (Vt),2018,,,13.0,46.0543,-97.5068
+Sacramento--Roseville--Arden-Arcade (Ca),2010,,18.0,12.68,,
+Sacramento--Roseville--Arden-Arcade (Ca),2011,,20.15,14.65,,
+Sacramento--Roseville--Arden-Arcade (Ca),2012,7.5,16.5,13.44,,
+Sacramento--Roseville--Arden-Arcade (Ca),2013,9.0,20.24,13.78,,
+Sacramento--Roseville--Arden-Arcade (Ca),2014,7.78,13.53,11.16,,
+Sacramento--Roseville--Arden-Arcade (Ca),2015,8.7,10.0,11.43,,
+Sacramento--Roseville--Arden-Arcade (Ca),2016,,14.78,9.6,,
+Sacramento--Roseville--Arden-Arcade (Ca),2017,7.2,15.83,9.12,,
+Sacramento--Roseville--Arden-Arcade (Ca),2018,12.35,25.0,8.57,,
+Sacramento--Roseville--Arden-Arcade (Ca),2019,7.17,19.67,7.88,,
+Salinas (Ca),2010,,,11.4,36.6883,-121.6317
+Salinas (Ca),2010,,,11.4,17.9778,-66.2962
+Salinas (Ca),2011,6.3,23.9,11.5,36.6883,-121.6317
+Salinas (Ca),2011,6.3,23.9,11.5,17.9778,-66.2962
+Salinas (Ca),2012,5.8,24.1,9.8,36.6883,-121.6317
+Salinas (Ca),2012,5.8,24.1,9.8,17.9778,-66.2962
+Salinas (Ca),2013,6.65,,10.0,36.6883,-121.6317
+Salinas (Ca),2013,6.65,,10.0,17.9778,-66.2962
+Salinas (Ca),2014,3.9,25.3,8.5,36.6883,-121.6317
+Salinas (Ca),2014,3.9,25.3,8.5,17.9778,-66.2962
+Salinas (Ca),2015,,,8.6,36.6883,-121.6317
+Salinas (Ca),2015,,,8.6,17.9778,-66.2962
+Salinas (Ca),2016,6.05,25.2,8.3,36.6883,-121.6317
+Salinas (Ca),2016,6.05,25.2,8.3,17.9778,-66.2962
+Salinas (Ca),2017,5.8,,8.3,36.6883,-121.6317
+Salinas (Ca),2017,5.8,,8.3,17.9778,-66.2962
+Salinas (Ca),2018,6.2,28.2,8.5,36.6883,-121.6317
+Salinas (Ca),2018,6.2,28.2,8.5,17.9778,-66.2962
+Salinas (Ca),2019,3.7,,7.4,36.6883,-121.6317
+Salinas (Ca),2019,3.7,,7.4,17.9778,-66.2962
+Salisbury (Md-De),2010,9.9,,,38.3756,-75.5865
+Salisbury (Md-De),2010,9.9,,,35.6658,-80.4905
+Salisbury (Md-De),2010,9.9,,,40.7454,-73.5604
+Salisbury (Md-De),2010,9.9,,,39.4233,-92.8025
+Salisbury (Md-De),2010,9.9,,,39.7535,-79.0844
+Salt Lake City (Ut),2010,,25.7,,40.7776,-111.9311
+Salt Lake City (Ut),2011,,,34.2,40.7776,-111.9311
+Salt Lake City (Ut),2012,,,30.6,40.7776,-111.9311
+Salt Lake City (Ut),2013,12.7,,,40.7776,-111.9311
+Salt Lake City (Ut),2014,,17.95,26.5,40.7776,-111.9311
+Salt Lake City (Ut),2015,,16.3,29.4,40.7776,-111.9311
+Salt Lake City (Ut),2016,,,34.0,40.7776,-111.9311
+Salt Lake City (Ut),2018,,,28.4,40.7776,-111.9311
+Salt Lake City (Ut),2019,,,27.0,40.7776,-111.9311
+San Andreas (Na),2010,6.7,,,38.1911,-120.6763
+San Andreas (Na),2011,9.1,,,38.1911,-120.6763
+San Andreas (Na),2012,7.0,,,38.1911,-120.6763
+San Andreas (Na),2014,7.9,,,38.1911,-120.6763
+San Andreas (Na),2018,14.6,,,38.1911,-120.6763
+San Andreas (Na),2019,5.5,,,38.1911,-120.6763
+San Antonio-New Braunfels (Tx),2010,,,7.2,,
+San Antonio-New Braunfels (Tx),2011,,22.9,8.7,,
+San Antonio-New Braunfels (Tx),2013,,18.5,6.4,,
+San Antonio-New Braunfels (Tx),2015,,,7.8,,
+San Antonio-New Braunfels (Tx),2017,,21.4,,,
+San Antonio-New Braunfels (Tx),2018,,20.8,,,
+San Diego-Carlsbad (Ca),2010,4.8,26.9,17.4,,
+San Diego-Carlsbad (Ca),2011,,23.05,16.03,,
+San Diego-Carlsbad (Ca),2012,9.8,21.0,13.15,,
+San Diego-Carlsbad (Ca),2013,8.7,23.6,16.27,,
+San Diego-Carlsbad (Ca),2014,8.1,22.7,16.07,,
+San Diego-Carlsbad (Ca),2015,7.2,27.25,14.47,,
+San Diego-Carlsbad (Ca),2016,,26.65,13.43,,
+San Diego-Carlsbad (Ca),2017,,22.63,13.38,,
+San Diego-Carlsbad (Ca),2018,10.0,23.1,10.87,,
+San Diego-Carlsbad (Ca),2019,13.7,25.05,13.1,,
+San Francisco-Oakland-Hayward (Ca),2010,8.3,14.4,20.68,,
+San Francisco-Oakland-Hayward (Ca),2011,9.03,16.27,21.8,,
+San Francisco-Oakland-Hayward (Ca),2012,8.05,13.0,19.9,,
+San Francisco-Oakland-Hayward (Ca),2013,9.85,15.65,21.11,,
+San Francisco-Oakland-Hayward (Ca),2014,7.45,14.9,18.54,,
+San Francisco-Oakland-Hayward (Ca),2015,5.7,14.97,18.5,,
+San Francisco-Oakland-Hayward (Ca),2016,6.0,13.45,15.8,,
+San Francisco-Oakland-Hayward (Ca),2017,10.7,18.8,16.87,,
+San Francisco-Oakland-Hayward (Ca),2018,11.76,18.0,16.43,,
+San Francisco-Oakland-Hayward (Ca),2019,6.55,14.4,15.01,,
+San Jose-Sunnyvale-Santa Clara (Ca),2010,5.7,18.5,,,
+San Jose-Sunnyvale-Santa Clara (Ca),2011,,,27.8,,
+San Jose-Sunnyvale-Santa Clara (Ca),2012,6.1,18.2,24.9,,
+San Jose-Sunnyvale-Santa Clara (Ca),2013,12.4,20.8,28.5,,
+San Jose-Sunnyvale-Santa Clara (Ca),2014,7.6,17.65,,,
+San Jose-Sunnyvale-Santa Clara (Ca),2015,4.3,18.55,24.1,,
+San Jose-Sunnyvale-Santa Clara (Ca),2016,4.95,16.35,21.2,,
+San Jose-Sunnyvale-Santa Clara (Ca),2017,5.1,19.65,23.0,,
+San Jose-Sunnyvale-Santa Clara (Ca),2018,,20.6,22.6,,
+San Jose-Sunnyvale-Santa Clara (Ca),2019,4.9,18.1,20.0,,
+San Juan-Carolina-Caguas (Pr),2017,,23.0,,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2010,8.2,24.6,5.5,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2011,6.7,,5.3,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2012,6.2,29.35,4.6,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2013,6.8,34.6,5.4,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2014,9.4,30.7,,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2015,11.1,27.2,4.8,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2016,,30.25,3.9,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2017,7.95,34.5,4.1,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2018,5.9,28.0,3.7,,
+San Luis Obispo-Paso Robles-Arroyo Grande (Ca),2019,,23.47,3.1,,
+Santa Cruz-Watsonville (Ca),2017,7.1,,,,
+Santa Maria-Santa Barbara (Ca),2010,,18.05,5.91,,
+Santa Maria-Santa Barbara (Ca),2011,7.7,19.25,5.94,,
+Santa Maria-Santa Barbara (Ca),2012,,20.3,5.96,,
+Santa Maria-Santa Barbara (Ca),2013,,19.45,5.49,,
+Santa Maria-Santa Barbara (Ca),2014,,17.4,3.43,,
+Santa Maria-Santa Barbara (Ca),2015,,19.9,4.73,,
+Santa Maria-Santa Barbara (Ca),2016,7.0,,3.94,,
+Santa Maria-Santa Barbara (Ca),2017,,23.3,3.21,,
+Santa Maria-Santa Barbara (Ca),2018,,,3.86,,
+Santa Maria-Santa Barbara (Ca),2019,4.8,14.8,3.45,,
+Santa Rosa (Ca),2010,,10.1,,38.4458,-122.7067
+Santa Rosa (Ca),2010,,10.1,,26.2561,-97.8252
+Santa Rosa (Ca),2010,,10.1,,34.9361,-104.6769
+Santa Rosa (Ca),2010,,10.1,,32.3325,-112.0464
+Santa Rosa (Ca),2011,,11.5,,38.4458,-122.7067
+Santa Rosa (Ca),2011,,11.5,,26.2561,-97.8252
+Santa Rosa (Ca),2011,,11.5,,34.9361,-104.6769
+Santa Rosa (Ca),2011,,11.5,,32.3325,-112.0464
+Santa Rosa (Ca),2012,,10.6,,38.4458,-122.7067
+Santa Rosa (Ca),2012,,10.6,,26.2561,-97.8252
+Santa Rosa (Ca),2012,,10.6,,34.9361,-104.6769
+Santa Rosa (Ca),2012,,10.6,,32.3325,-112.0464
+Santa Rosa (Ca),2013,,11.35,,38.4458,-122.7067
+Santa Rosa (Ca),2013,,11.35,,26.2561,-97.8252
+Santa Rosa (Ca),2013,,11.35,,34.9361,-104.6769
+Santa Rosa (Ca),2013,,11.35,,32.3325,-112.0464
+Santa Rosa (Ca),2014,,11.1,,38.4458,-122.7067
+Santa Rosa (Ca),2014,,11.1,,26.2561,-97.8252
+Santa Rosa (Ca),2014,,11.1,,34.9361,-104.6769
+Santa Rosa (Ca),2014,,11.1,,32.3325,-112.0464
+Santa Rosa (Ca),2015,,12.45,,38.4458,-122.7067
+Santa Rosa (Ca),2015,,12.45,,26.2561,-97.8252
+Santa Rosa (Ca),2015,,12.45,,34.9361,-104.6769
+Santa Rosa (Ca),2015,,12.45,,32.3325,-112.0464
+Santa Rosa (Ca),2016,,12.9,,38.4458,-122.7067
+Santa Rosa (Ca),2016,,12.9,,26.2561,-97.8252
+Santa Rosa (Ca),2016,,12.9,,34.9361,-104.6769
+Santa Rosa (Ca),2016,,12.9,,32.3325,-112.0464
+Santa Rosa (Ca),2017,,13.6,,38.4458,-122.7067
+Santa Rosa (Ca),2017,,13.6,,26.2561,-97.8252
+Santa Rosa (Ca),2017,,13.6,,34.9361,-104.6769
+Santa Rosa (Ca),2017,,13.6,,32.3325,-112.0464
+Santa Rosa (Ca),2018,,16.0,,38.4458,-122.7067
+Santa Rosa (Ca),2018,,16.0,,26.2561,-97.8252
+Santa Rosa (Ca),2018,,16.0,,34.9361,-104.6769
+Santa Rosa (Ca),2018,,16.0,,32.3325,-112.0464
+Santa Rosa (Ca),2019,,12.9,,38.4458,-122.7067
+Santa Rosa (Ca),2019,,12.9,,26.2561,-97.8252
+Santa Rosa (Ca),2019,,12.9,,34.9361,-104.6769
+Santa Rosa (Ca),2019,,12.9,,32.3325,-112.0464
+Savannah (Ga),2014,9.7,,,32.0286,-81.1821
+Savannah (Ga),2014,9.7,,,35.221,-88.236
+Savannah (Ga),2014,9.7,,,33.2257,-96.9081
+Savannah (Ga),2014,9.7,,,39.9391,-94.8279
+Savannah (Ga),2014,9.7,,,40.9666,-82.3661
+Scottsbluff (Ne),2010,5.3,,,41.8684,-103.6616
+Scottsbluff (Ne),2011,4.8,,,41.8684,-103.6616
+Scottsbluff (Ne),2013,5.1,,,41.8684,-103.6616
+Scranton--Wilkes-Barre--Hazleton (Pa),2010,,,17.1,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2011,,14.4,,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2013,,,15.4,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2014,,,20.0,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2015,,,20.3,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2016,,12.8,,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2017,,11.3,,,
+Scranton--Wilkes-Barre--Hazleton (Pa),2018,,11.9,,,
+Sheridan (Wy),2014,,9.1,,44.7961,-106.9642
+Sheridan (Wy),2014,,9.1,,45.096,-123.3983
+Sheridan (Wy),2014,,9.1,,39.6468,-105.0182
+Sheridan (Wy),2014,,9.1,,34.2996,-92.4223
+Sheridan (Wy),2014,,9.1,,40.132,-86.2198
+Sheridan (Wy),2014,,9.1,,41.5293,-88.6804
+Sheridan (Wy),2014,,9.1,,38.9695,-121.3552
+Sheridan (Wy),2014,,9.1,,43.2086,-85.0739
+Sheridan (Wy),2014,,9.1,,45.4588,-112.1946
+Sheridan (Wy),2014,,9.1,,29.5023,-96.6761
+Sheridan (Wy),2014,,9.1,,40.5171,-94.6145
+Show Low (Az),2010,,15.0,,34.2671,-110.0384
+Show Low (Az),2011,,16.4,,34.2671,-110.0384
+Show Low (Az),2012,,17.3,,34.2671,-110.0384
+Show Low (Az),2013,,14.8,,34.2671,-110.0384
+Show Low (Az),2014,,16.1,,34.2671,-110.0384
+Show Low (Az),2017,,18.5,,34.2671,-110.0384
+Show Low (Az),2019,,13.1,,34.2671,-110.0384
+Shreveport-Bossier City (La),2012,12.0,,,,
+Shreveport-Bossier City (La),2015,,15.4,,,
+Shreveport-Bossier City (La),2016,10.0,,,,
+Shreveport-Bossier City (La),2017,10.6,,,,
+Sierra Vista-Douglas (Az),2010,6.8,,,,
+Sierra Vista-Douglas (Az),2011,6.5,,,,
+Sierra Vista-Douglas (Az),2012,6.7,26.2,,,
+Sierra Vista-Douglas (Az),2013,6.9,20.7,,,
+Sierra Vista-Douglas (Az),2014,7.2,21.8,,,
+Sierra Vista-Douglas (Az),2015,5.2,,,,
+Sierra Vista-Douglas (Az),2016,3.8,14.5,,,
+Sierra Vista-Douglas (Az),2017,5.8,16.3,,,
+Sierra Vista-Douglas (Az),2018,5.6,13.8,,,
+Sierra Vista-Douglas (Az),2019,5.1,,,,
+Sioux City (Ia-Ne-Sd),2010,,,5.6,42.4959,-96.3901
+Sioux City (Ia-Ne-Sd),2011,,,5.7,42.4959,-96.3901
+Sioux City (Ia-Ne-Sd),2014,,18.0,,42.4959,-96.3901
+Sioux City (Ia-Ne-Sd),2015,,,5.6,42.4959,-96.3901
+Sioux City (Ia-Ne-Sd),2018,,,3.2,42.4959,-96.3901
+Sioux Falls (Sd),2010,,,12.4,43.5396,-96.7311
+Sioux Falls (Sd),2011,,,11.6,43.5396,-96.7311
+Sioux Falls (Sd),2013,,,10.1,43.5396,-96.7311
+Sioux Falls (Sd),2014,,,9.5,43.5396,-96.7311
+Sioux Falls (Sd),2016,,,8.1,43.5396,-96.7311
+Sioux Falls (Sd),2017,,17.1,,43.5396,-96.7311
+Sioux Falls (Sd),2018,5.5,,,43.5396,-96.7311
+Sioux Falls (Sd),2019,,,8.5,43.5396,-96.7311
+South Bend-Mishawaka (In-Mi),2010,,,20.9,,
+South Bend-Mishawaka (In-Mi),2011,,,15.2,,
+South Bend-Mishawaka (In-Mi),2014,,,13.8,,
+South Bend-Mishawaka (In-Mi),2016,,,16.2,,
+South Bend-Mishawaka (In-Mi),2017,,,14.4,,
+Springfield (Ma),2010,,,27.3,42.1155,-72.5395
+Springfield (Ma),2010,,,27.3,37.1943,-93.2916
+Springfield (Ma),2010,,,27.3,39.7709,-89.654
+Springfield (Ma),2010,,,27.3,39.93,-83.7959
+Springfield (Ma),2010,,,27.3,44.0538,-122.9811
+Springfield (Ma),2010,,,27.3,38.781,-77.1839
+Springfield (Ma),2010,,,27.3,36.4949,-86.8711
+Springfield (Ma),2010,,,27.3,30.1711,-85.609
+Springfield (Ma),2010,,,27.3,42.3246,-85.2371
+Springfield (Ma),2010,,,27.3,37.6922,-85.2193
+Springfield (Ma),2010,,,27.3,32.3636,-81.303
+Springfield (Ma),2010,,,27.3,42.8624,-97.8964
+Springfield (Ma),2010,,,27.3,44.2372,-94.9819
+Springfield (Ma),2010,,,27.3,41.0854,-96.1333
+Springfield (Ma),2010,,,27.3,40.706,-74.313
+Springfield (Ma),2010,,,27.3,37.405,-102.6189
+Springfield (Ma),2010,,,27.3,33.4967,-81.2795
+Springfield (Ma),2010,,,27.3,30.4255,-90.5444
+Springfield (Ma),2010,,,27.3,39.445,-78.6976
+Springfield (Ma),2010,,,27.3,35.2729,-92.5549
+Springfield (Ma),2010,,,27.3,42.6407,-88.4135
+Springfield (Ma),2011,,8.9,18.3,42.1155,-72.5395
+Springfield (Ma),2011,,8.9,18.3,37.1943,-93.2916
+Springfield (Ma),2011,,8.9,18.3,39.7709,-89.654
+Springfield (Ma),2011,,8.9,18.3,39.93,-83.7959
+Springfield (Ma),2011,,8.9,18.3,44.0538,-122.9811
+Springfield (Ma),2011,,8.9,18.3,38.781,-77.1839
+Springfield (Ma),2011,,8.9,18.3,36.4949,-86.8711
+Springfield (Ma),2011,,8.9,18.3,30.1711,-85.609
+Springfield (Ma),2011,,8.9,18.3,42.3246,-85.2371
+Springfield (Ma),2011,,8.9,18.3,37.6922,-85.2193
+Springfield (Ma),2011,,8.9,18.3,32.3636,-81.303
+Springfield (Ma),2011,,8.9,18.3,42.8624,-97.8964
+Springfield (Ma),2011,,8.9,18.3,44.2372,-94.9819
+Springfield (Ma),2011,,8.9,18.3,41.0854,-96.1333
+Springfield (Ma),2011,,8.9,18.3,40.706,-74.313
+Springfield (Ma),2011,,8.9,18.3,37.405,-102.6189
+Springfield (Ma),2011,,8.9,18.3,33.4967,-81.2795
+Springfield (Ma),2011,,8.9,18.3,30.4255,-90.5444
+Springfield (Ma),2011,,8.9,18.3,39.445,-78.6976
+Springfield (Ma),2011,,8.9,18.3,35.2729,-92.5549
+Springfield (Ma),2011,,8.9,18.3,42.6407,-88.4135
+Springfield (Ma),2012,,9.2,14.5,42.1155,-72.5395
+Springfield (Ma),2012,,9.2,14.5,37.1943,-93.2916
+Springfield (Ma),2012,,9.2,14.5,39.7709,-89.654
+Springfield (Ma),2012,,9.2,14.5,39.93,-83.7959
+Springfield (Ma),2012,,9.2,14.5,44.0538,-122.9811
+Springfield (Ma),2012,,9.2,14.5,38.781,-77.1839
+Springfield (Ma),2012,,9.2,14.5,36.4949,-86.8711
+Springfield (Ma),2012,,9.2,14.5,30.1711,-85.609
+Springfield (Ma),2012,,9.2,14.5,42.3246,-85.2371
+Springfield (Ma),2012,,9.2,14.5,37.6922,-85.2193
+Springfield (Ma),2012,,9.2,14.5,32.3636,-81.303
+Springfield (Ma),2012,,9.2,14.5,42.8624,-97.8964
+Springfield (Ma),2012,,9.2,14.5,44.2372,-94.9819
+Springfield (Ma),2012,,9.2,14.5,41.0854,-96.1333
+Springfield (Ma),2012,,9.2,14.5,40.706,-74.313
+Springfield (Ma),2012,,9.2,14.5,37.405,-102.6189
+Springfield (Ma),2012,,9.2,14.5,33.4967,-81.2795
+Springfield (Ma),2012,,9.2,14.5,30.4255,-90.5444
+Springfield (Ma),2012,,9.2,14.5,39.445,-78.6976
+Springfield (Ma),2012,,9.2,14.5,35.2729,-92.5549
+Springfield (Ma),2012,,9.2,14.5,42.6407,-88.4135
+Springfield (Ma),2013,,,12.8,42.1155,-72.5395
+Springfield (Ma),2013,,,12.8,37.1943,-93.2916
+Springfield (Ma),2013,,,12.8,39.7709,-89.654
+Springfield (Ma),2013,,,12.8,39.93,-83.7959
+Springfield (Ma),2013,,,12.8,44.0538,-122.9811
+Springfield (Ma),2013,,,12.8,38.781,-77.1839
+Springfield (Ma),2013,,,12.8,36.4949,-86.8711
+Springfield (Ma),2013,,,12.8,30.1711,-85.609
+Springfield (Ma),2013,,,12.8,42.3246,-85.2371
+Springfield (Ma),2013,,,12.8,37.6922,-85.2193
+Springfield (Ma),2013,,,12.8,32.3636,-81.303
+Springfield (Ma),2013,,,12.8,42.8624,-97.8964
+Springfield (Ma),2013,,,12.8,44.2372,-94.9819
+Springfield (Ma),2013,,,12.8,41.0854,-96.1333
+Springfield (Ma),2013,,,12.8,40.706,-74.313
+Springfield (Ma),2013,,,12.8,37.405,-102.6189
+Springfield (Ma),2013,,,12.8,33.4967,-81.2795
+Springfield (Ma),2013,,,12.8,30.4255,-90.5444
+Springfield (Ma),2013,,,12.8,39.445,-78.6976
+Springfield (Ma),2013,,,12.8,35.2729,-92.5549
+Springfield (Ma),2013,,,12.8,42.6407,-88.4135
+Springfield (Ma),2014,,5.8,15.15,42.1155,-72.5395
+Springfield (Ma),2014,,5.8,15.15,37.1943,-93.2916
+Springfield (Ma),2014,,5.8,15.15,39.7709,-89.654
+Springfield (Ma),2014,,5.8,15.15,39.93,-83.7959
+Springfield (Ma),2014,,5.8,15.15,44.0538,-122.9811
+Springfield (Ma),2014,,5.8,15.15,38.781,-77.1839
+Springfield (Ma),2014,,5.8,15.15,36.4949,-86.8711
+Springfield (Ma),2014,,5.8,15.15,30.1711,-85.609
+Springfield (Ma),2014,,5.8,15.15,42.3246,-85.2371
+Springfield (Ma),2014,,5.8,15.15,37.6922,-85.2193
+Springfield (Ma),2014,,5.8,15.15,32.3636,-81.303
+Springfield (Ma),2014,,5.8,15.15,42.8624,-97.8964
+Springfield (Ma),2014,,5.8,15.15,44.2372,-94.9819
+Springfield (Ma),2014,,5.8,15.15,41.0854,-96.1333
+Springfield (Ma),2014,,5.8,15.15,40.706,-74.313
+Springfield (Ma),2014,,5.8,15.15,37.405,-102.6189
+Springfield (Ma),2014,,5.8,15.15,33.4967,-81.2795
+Springfield (Ma),2014,,5.8,15.15,30.4255,-90.5444
+Springfield (Ma),2014,,5.8,15.15,39.445,-78.6976
+Springfield (Ma),2014,,5.8,15.15,35.2729,-92.5549
+Springfield (Ma),2014,,5.8,15.15,42.6407,-88.4135
+Springfield (Ma),2015,6.2,7.6,14.9,42.1155,-72.5395
+Springfield (Ma),2015,6.2,7.6,14.9,37.1943,-93.2916
+Springfield (Ma),2015,6.2,7.6,14.9,39.7709,-89.654
+Springfield (Ma),2015,6.2,7.6,14.9,39.93,-83.7959
+Springfield (Ma),2015,6.2,7.6,14.9,44.0538,-122.9811
+Springfield (Ma),2015,6.2,7.6,14.9,38.781,-77.1839
+Springfield (Ma),2015,6.2,7.6,14.9,36.4949,-86.8711
+Springfield (Ma),2015,6.2,7.6,14.9,30.1711,-85.609
+Springfield (Ma),2015,6.2,7.6,14.9,42.3246,-85.2371
+Springfield (Ma),2015,6.2,7.6,14.9,37.6922,-85.2193
+Springfield (Ma),2015,6.2,7.6,14.9,32.3636,-81.303
+Springfield (Ma),2015,6.2,7.6,14.9,42.8624,-97.8964
+Springfield (Ma),2015,6.2,7.6,14.9,44.2372,-94.9819
+Springfield (Ma),2015,6.2,7.6,14.9,41.0854,-96.1333
+Springfield (Ma),2015,6.2,7.6,14.9,40.706,-74.313
+Springfield (Ma),2015,6.2,7.6,14.9,37.405,-102.6189
+Springfield (Ma),2015,6.2,7.6,14.9,33.4967,-81.2795
+Springfield (Ma),2015,6.2,7.6,14.9,30.4255,-90.5444
+Springfield (Ma),2015,6.2,7.6,14.9,39.445,-78.6976
+Springfield (Ma),2015,6.2,7.6,14.9,35.2729,-92.5549
+Springfield (Ma),2015,6.2,7.6,14.9,42.6407,-88.4135
+Springfield (Ma),2016,,6.2,20.9,42.1155,-72.5395
+Springfield (Ma),2016,,6.2,20.9,37.1943,-93.2916
+Springfield (Ma),2016,,6.2,20.9,39.7709,-89.654
+Springfield (Ma),2016,,6.2,20.9,39.93,-83.7959
+Springfield (Ma),2016,,6.2,20.9,44.0538,-122.9811
+Springfield (Ma),2016,,6.2,20.9,38.781,-77.1839
+Springfield (Ma),2016,,6.2,20.9,36.4949,-86.8711
+Springfield (Ma),2016,,6.2,20.9,30.1711,-85.609
+Springfield (Ma),2016,,6.2,20.9,42.3246,-85.2371
+Springfield (Ma),2016,,6.2,20.9,37.6922,-85.2193
+Springfield (Ma),2016,,6.2,20.9,32.3636,-81.303
+Springfield (Ma),2016,,6.2,20.9,42.8624,-97.8964
+Springfield (Ma),2016,,6.2,20.9,44.2372,-94.9819
+Springfield (Ma),2016,,6.2,20.9,41.0854,-96.1333
+Springfield (Ma),2016,,6.2,20.9,40.706,-74.313
+Springfield (Ma),2016,,6.2,20.9,37.405,-102.6189
+Springfield (Ma),2016,,6.2,20.9,33.4967,-81.2795
+Springfield (Ma),2016,,6.2,20.9,30.4255,-90.5444
+Springfield (Ma),2016,,6.2,20.9,39.445,-78.6976
+Springfield (Ma),2016,,6.2,20.9,35.2729,-92.5549
+Springfield (Ma),2016,,6.2,20.9,42.6407,-88.4135
+Springfield (Ma),2017,,6.0,16.3,42.1155,-72.5395
+Springfield (Ma),2017,,6.0,16.3,37.1943,-93.2916
+Springfield (Ma),2017,,6.0,16.3,39.7709,-89.654
+Springfield (Ma),2017,,6.0,16.3,39.93,-83.7959
+Springfield (Ma),2017,,6.0,16.3,44.0538,-122.9811
+Springfield (Ma),2017,,6.0,16.3,38.781,-77.1839
+Springfield (Ma),2017,,6.0,16.3,36.4949,-86.8711
+Springfield (Ma),2017,,6.0,16.3,30.1711,-85.609
+Springfield (Ma),2017,,6.0,16.3,42.3246,-85.2371
+Springfield (Ma),2017,,6.0,16.3,37.6922,-85.2193
+Springfield (Ma),2017,,6.0,16.3,32.3636,-81.303
+Springfield (Ma),2017,,6.0,16.3,42.8624,-97.8964
+Springfield (Ma),2017,,6.0,16.3,44.2372,-94.9819
+Springfield (Ma),2017,,6.0,16.3,41.0854,-96.1333
+Springfield (Ma),2017,,6.0,16.3,40.706,-74.313
+Springfield (Ma),2017,,6.0,16.3,37.405,-102.6189
+Springfield (Ma),2017,,6.0,16.3,33.4967,-81.2795
+Springfield (Ma),2017,,6.0,16.3,30.4255,-90.5444
+Springfield (Ma),2017,,6.0,16.3,39.445,-78.6976
+Springfield (Ma),2017,,6.0,16.3,35.2729,-92.5549
+Springfield (Ma),2017,,6.0,16.3,42.6407,-88.4135
+Springfield (Ma),2018,4.9,5.1,7.05,42.1155,-72.5395
+Springfield (Ma),2018,4.9,5.1,7.05,37.1943,-93.2916
+Springfield (Ma),2018,4.9,5.1,7.05,39.7709,-89.654
+Springfield (Ma),2018,4.9,5.1,7.05,39.93,-83.7959
+Springfield (Ma),2018,4.9,5.1,7.05,44.0538,-122.9811
+Springfield (Ma),2018,4.9,5.1,7.05,38.781,-77.1839
+Springfield (Ma),2018,4.9,5.1,7.05,36.4949,-86.8711
+Springfield (Ma),2018,4.9,5.1,7.05,30.1711,-85.609
+Springfield (Ma),2018,4.9,5.1,7.05,42.3246,-85.2371
+Springfield (Ma),2018,4.9,5.1,7.05,37.6922,-85.2193
+Springfield (Ma),2018,4.9,5.1,7.05,32.3636,-81.303
+Springfield (Ma),2018,4.9,5.1,7.05,42.8624,-97.8964
+Springfield (Ma),2018,4.9,5.1,7.05,44.2372,-94.9819
+Springfield (Ma),2018,4.9,5.1,7.05,41.0854,-96.1333
+Springfield (Ma),2018,4.9,5.1,7.05,40.706,-74.313
+Springfield (Ma),2018,4.9,5.1,7.05,37.405,-102.6189
+Springfield (Ma),2018,4.9,5.1,7.05,33.4967,-81.2795
+Springfield (Ma),2018,4.9,5.1,7.05,30.4255,-90.5444
+Springfield (Ma),2018,4.9,5.1,7.05,39.445,-78.6976
+Springfield (Ma),2018,4.9,5.1,7.05,35.2729,-92.5549
+Springfield (Ma),2018,4.9,5.1,7.05,42.6407,-88.4135
+Springfield (Ma),2019,,6.0,5.9,42.1155,-72.5395
+Springfield (Ma),2019,,6.0,5.9,37.1943,-93.2916
+Springfield (Ma),2019,,6.0,5.9,39.7709,-89.654
+Springfield (Ma),2019,,6.0,5.9,39.93,-83.7959
+Springfield (Ma),2019,,6.0,5.9,44.0538,-122.9811
+Springfield (Ma),2019,,6.0,5.9,38.781,-77.1839
+Springfield (Ma),2019,,6.0,5.9,36.4949,-86.8711
+Springfield (Ma),2019,,6.0,5.9,30.1711,-85.609
+Springfield (Ma),2019,,6.0,5.9,42.3246,-85.2371
+Springfield (Ma),2019,,6.0,5.9,37.6922,-85.2193
+Springfield (Ma),2019,,6.0,5.9,32.3636,-81.303
+Springfield (Ma),2019,,6.0,5.9,42.8624,-97.8964
+Springfield (Ma),2019,,6.0,5.9,44.2372,-94.9819
+Springfield (Ma),2019,,6.0,5.9,41.0854,-96.1333
+Springfield (Ma),2019,,6.0,5.9,40.706,-74.313
+Springfield (Ma),2019,,6.0,5.9,37.405,-102.6189
+Springfield (Ma),2019,,6.0,5.9,33.4967,-81.2795
+Springfield (Ma),2019,,6.0,5.9,30.4255,-90.5444
+Springfield (Ma),2019,,6.0,5.9,39.445,-78.6976
+Springfield (Ma),2019,,6.0,5.9,35.2729,-92.5549
+Springfield (Ma),2019,,6.0,5.9,42.6407,-88.4135
+St. Louis (Mo-Il),2010,,,22.9,38.6359,-90.2451
+St. Louis (Mo-Il),2010,,,22.9,43.4082,-84.6118
+St. Louis (Mo-Il),2010,,,22.9,35.0812,-96.8598
+St. Louis (Mo-Il),2011,,,16.7,38.6359,-90.2451
+St. Louis (Mo-Il),2011,,,16.7,43.4082,-84.6118
+St. Louis (Mo-Il),2011,,,16.7,35.0812,-96.8598
+St. Louis (Mo-Il),2012,12.2,46.0,22.8,38.6359,-90.2451
+St. Louis (Mo-Il),2012,12.2,46.0,22.8,43.4082,-84.6118
+St. Louis (Mo-Il),2012,12.2,46.0,22.8,35.0812,-96.8598
+St. Louis (Mo-Il),2013,,25.9,21.1,38.6359,-90.2451
+St. Louis (Mo-Il),2013,,25.9,21.1,43.4082,-84.6118
+St. Louis (Mo-Il),2013,,25.9,21.1,35.0812,-96.8598
+St. Louis (Mo-Il),2014,,,20.4,38.6359,-90.2451
+St. Louis (Mo-Il),2014,,,20.4,43.4082,-84.6118
+St. Louis (Mo-Il),2014,,,20.4,35.0812,-96.8598
+St. Louis (Mo-Il),2015,,27.8,17.9,38.6359,-90.2451
+St. Louis (Mo-Il),2015,,27.8,17.9,43.4082,-84.6118
+St. Louis (Mo-Il),2015,,27.8,17.9,35.0812,-96.8598
+St. Louis (Mo-Il),2016,,18.7,,38.6359,-90.2451
+St. Louis (Mo-Il),2016,,18.7,,43.4082,-84.6118
+St. Louis (Mo-Il),2016,,18.7,,35.0812,-96.8598
+St. Louis (Mo-Il),2017,,27.3,17.8,38.6359,-90.2451
+St. Louis (Mo-Il),2017,,27.3,17.8,43.4082,-84.6118
+St. Louis (Mo-Il),2017,,27.3,17.8,35.0812,-96.8598
+St. Louis (Mo-Il),2018,,24.8,17.8,38.6359,-90.2451
+St. Louis (Mo-Il),2018,,24.8,17.8,43.4082,-84.6118
+St. Louis (Mo-Il),2018,,24.8,17.8,35.0812,-96.8598
+St. Louis (Mo-Il),2019,,22.8,,38.6359,-90.2451
+St. Louis (Mo-Il),2019,,22.8,,43.4082,-84.6118
+St. Louis (Mo-Il),2019,,22.8,,35.0812,-96.8598
+State College (Pa),2010,,,9.8,40.7909,-77.8567
+State College (Pa),2012,,,9.1,40.7909,-77.8567
+State College (Pa),2013,,,9.0,40.7909,-77.8567
+State College (Pa),2014,,,9.4,40.7909,-77.8567
+State College (Pa),2017,,,6.7,40.7909,-77.8567
+State College (Pa),2019,,,6.3,40.7909,-77.8567
+Steamboat Springs (Co),2010,,21.7,,40.4777,-106.8243
+Steamboat Springs (Co),2011,,20.4,,40.4777,-106.8243
+Steamboat Springs (Co),2016,,17.9,,40.4777,-106.8243
+Steamboat Springs (Co),2017,,19.3,,40.4777,-106.8243
+Stilwell,2012,,20.0,,35.8145,-94.6317
+Stockton-Lodi (Ca),2010,10.6,15.25,12.0,,
+Stockton-Lodi (Ca),2011,,23.77,20.5,,
+Stockton-Lodi (Ca),2012,12.4,22.7,27.0,,
+Stockton-Lodi (Ca),2013,14.65,32.0,20.9,,
+Stockton-Lodi (Ca),2014,10.95,20.1,18.45,,
+Stockton-Lodi (Ca),2015,12.8,25.03,,,
+Stockton-Lodi (Ca),2016,,24.5,15.95,,
+Stockton-Lodi (Ca),2017,11.1,26.03,15.5,,
+Stockton-Lodi (Ca),2018,17.6,29.3,16.55,,
+Stockton-Lodi (Ca),2019,9.3,26.35,15.55,,
+Syracuse (Ny),2017,5.3,,,43.0407,-76.1437
+Syracuse (Ny),2017,5.3,,,41.0859,-112.0698
+Syracuse (Ny),2017,5.3,,,41.4226,-85.7492
+Syracuse (Ny),2017,5.3,,,40.6635,-96.1827
+Syracuse (Ny),2017,5.3,,,37.962,-101.7782
+Syracuse (Ny),2017,5.3,,,38.9984,-81.9699
+Syracuse (Ny),2017,5.3,,,38.6695,-92.8764
+Talladega-Sylacauga (Al),2010,11.7,,,,
+Talladega-Sylacauga (Al),2011,12.4,,,,
+Talladega-Sylacauga (Al),2012,10.3,,,,
+Talladega-Sylacauga (Al),2015,10.0,,,,
+Talladega-Sylacauga (Al),2016,8.6,,,,
+Talladega-Sylacauga (Al),2017,8.7,,,,
+Tampa-St. Petersburg-Clearwater (Fl),2010,,21.65,10.7,,
+Tampa-St. Petersburg-Clearwater (Fl),2011,,16.18,,,
+Tampa-St. Petersburg-Clearwater (Fl),2012,,16.0,8.9,,
+Tampa-St. Petersburg-Clearwater (Fl),2013,,,8.7,,
+Tampa-St. Petersburg-Clearwater (Fl),2014,,16.94,,,
+Tampa-St. Petersburg-Clearwater (Fl),2015,,14.3,7.3,,
+Tampa-St. Petersburg-Clearwater (Fl),2016,,15.85,,,
+Tampa-St. Petersburg-Clearwater (Fl),2017,,19.4,,,
+Tampa-St. Petersburg-Clearwater (Fl),2018,,11.8,7.3,,
+Tampa-St. Petersburg-Clearwater (Fl),2019,,22.5,6.5,,
+Terre Haute (In),2013,,16.5,,39.466,-87.3751
+Terre Haute (In),2014,11.0,17.6,,39.466,-87.3751
+Terre Haute (In),2017,,15.2,,39.466,-87.3751
+Topeka (Ks),2011,,23.7,,39.0346,-95.6955
+Topeka (Ks),2011,,23.7,,41.5394,-85.5475
+Topeka (Ks),2011,,23.7,,40.3304,-89.9306
+Torrington (Ct),2010,6.0,,,41.8349,-73.1282
+Torrington (Ct),2010,6.0,,,42.0653,-104.1737
+Torrington (Ct),2016,5.0,,,41.8349,-73.1282
+Torrington (Ct),2016,5.0,,,42.0653,-104.1737
+Torrington (Ct),2017,3.5,,,41.8349,-73.1282
+Torrington (Ct),2017,3.5,,,42.0653,-104.1737
+Torrington (Ct),2018,4.2,,,41.8349,-73.1282
+Torrington (Ct),2018,4.2,,,42.0653,-104.1737
+Torrington (Ct),2019,4.6,,,41.8349,-73.1282
+Torrington (Ct),2019,4.6,,,42.0653,-104.1737
+Truckee-Grass Valley (Ca),2011,4.2,,,,
+Truckee-Grass Valley (Ca),2012,3.8,,,,
+Truckee-Grass Valley (Ca),2016,4.6,,,,
+Truckee-Grass Valley (Ca),2017,4.9,,,,
+Truckee-Grass Valley (Ca),2018,6.0,,,,
+Tucson (Az),2010,5.1,22.56,20.3,32.1541,-110.8787
+Tucson (Az),2011,5.7,25.95,22.3,32.1541,-110.8787
+Tucson (Az),2012,5.5,29.21,23.15,32.1541,-110.8787
+Tucson (Az),2013,5.7,27.9,19.4,32.1541,-110.8787
+Tucson (Az),2014,5.9,24.5,19.6,32.1541,-110.8787
+Tucson (Az),2015,4.75,20.01,16.35,32.1541,-110.8787
+Tucson (Az),2016,5.65,23.18,14.85,32.1541,-110.8787
+Tucson (Az),2017,6.6,21.91,15.7,32.1541,-110.8787
+Tucson (Az),2018,4.5,22.87,15.5,32.1541,-110.8787
+Tucson (Az),2019,3.45,18.24,13.9,32.1541,-110.8787
+Tulsa (Ok),2013,,,14.8,36.1283,-95.9042
+Tulsa (Ok),2014,,,13.7,36.1283,-95.9042
+Tulsa (Ok),2019,,,13.2,36.1283,-95.9042
+Tuscaloosa (Al),2010,11.0,,,33.2348,-87.5268
+Tuscaloosa (Al),2011,10.8,,,33.2348,-87.5268
+Tuscaloosa (Al),2012,9.4,,,33.2348,-87.5268
+Tuscaloosa (Al),2017,8.2,,,33.2348,-87.5268
+Tuscaloosa (Al),2019,7.9,,,33.2348,-87.5268
+Tyler (Tx),2012,,,5.8,32.3184,-95.3062
+Tyler (Tx),2012,,,5.8,44.2785,-96.1359
+Tyler (Tx),2014,,,4.8,32.3184,-95.3062
+Tyler (Tx),2014,,,4.8,44.2785,-96.1359
+Tyler (Tx),2016,,,3.0,32.3184,-95.3062
+Tyler (Tx),2016,,,3.0,44.2785,-96.1359
+Tyler (Tx),2017,,,3.0,32.3184,-95.3062
+Tyler (Tx),2017,,,3.0,44.2785,-96.1359
+Ukiah (Ca),2010,7.1,,,39.1464,-123.2105
+Ukiah (Ca),2010,7.1,,,45.1344,-118.9331
+Ukiah (Ca),2011,9.8,,,39.1464,-123.2105
+Ukiah (Ca),2011,9.8,,,45.1344,-118.9331
+Ukiah (Ca),2012,6.05,12.8,,39.1464,-123.2105
+Ukiah (Ca),2012,6.05,12.8,,45.1344,-118.9331
+Ukiah (Ca),2013,,13.7,,39.1464,-123.2105
+Ukiah (Ca),2013,,13.7,,45.1344,-118.9331
+Ukiah (Ca),2014,,11.8,,39.1464,-123.2105
+Ukiah (Ca),2014,,11.8,,45.1344,-118.9331
+Ukiah (Ca),2015,8.0,13.4,,39.1464,-123.2105
+Ukiah (Ca),2015,8.0,13.4,,45.1344,-118.9331
+Ukiah (Ca),2016,,11.7,,39.1464,-123.2105
+Ukiah (Ca),2016,,11.7,,45.1344,-118.9331
+Ukiah (Ca),2017,,12.6,,39.1464,-123.2105
+Ukiah (Ca),2017,,12.6,,45.1344,-118.9331
+Ukiah (Ca),2018,,14.8,,39.1464,-123.2105
+Ukiah (Ca),2018,,14.8,,45.1344,-118.9331
+Ukiah (Ca),2019,5.65,12.1,,39.1464,-123.2105
+Ukiah (Ca),2019,5.65,12.1,,45.1344,-118.9331
+Union Township,2012,,,2.9,,
+Union Township,2014,,,3.9,,
+Union Township,2016,,,3.5,,
+Union Township,2017,,,3.6,,
+Union Township,2018,,,1.2,,
+Union Township,2019,,,1.1,,
+Urban Honolulu (Hi),2010,4.47,15.63,,,
+Urban Honolulu (Hi),2011,7.0,,5.4,,
+Urban Honolulu (Hi),2012,6.3,18.5,5.4,,
+Urban Honolulu (Hi),2013,2.8,11.4,5.6,,
+Urban Honolulu (Hi),2014,4.27,12.6,6.5,,
+Urban Honolulu (Hi),2015,4.43,16.3,6.6,,
+Urban Honolulu (Hi),2016,2.93,19.8,,,
+Urban Honolulu (Hi),2017,3.0,13.1,,,
+Urban Honolulu (Hi),2018,3.1,12.4,,,
+Urban Honolulu (Hi),2019,3.0,11.83,7.6,,
+Valdosta (Ga),2012,8.6,,,30.8502,-83.2788
+Vallejo-Fairfield (Ca),2010,,12.2,17.5,,
+Vallejo-Fairfield (Ca),2011,,13.1,19.2,,
+Vallejo-Fairfield (Ca),2012,9.0,11.1,17.2,,
+Vallejo-Fairfield (Ca),2013,,13.2,18.5,,
+Vallejo-Fairfield (Ca),2014,9.9,10.8,15.4,,
+Vallejo-Fairfield (Ca),2015,,12.2,15.4,,
+Vallejo-Fairfield (Ca),2016,,11.4,13.5,,
+Vallejo-Fairfield (Ca),2017,11.6,,15.2,,
+Vallejo-Fairfield (Ca),2018,,16.4,14.8,,
+Vallejo-Fairfield (Ca),2019,,,13.8,,
+Vernal (Ut),2010,,,8.7,40.4517,-109.5378
+Vernal (Ut),2011,,,8.05,40.4517,-109.5378
+Vernal (Ut),2012,,,6.6,40.4517,-109.5378
+Vernal (Ut),2013,,,11.3,40.4517,-109.5378
+Vernal (Ut),2015,,,4.6,40.4517,-109.5378
+Vernal (Ut),2016,,,5.8,40.4517,-109.5378
+Vernal (Ut),2017,,,4.4,40.4517,-109.5378
+Vernal (Ut),2018,,,3.8,40.4517,-109.5378
+Vernal (Ut),2019,,,6.2,40.4517,-109.5378
+Virginia Beach-Norfolk-Newport News (Va-Nc),2010,,17.6,9.1,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2011,,,14.5,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2013,,10.35,7.4,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2014,,10.1,15.6,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2015,,10.4,,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2016,,,10.0,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2017,,,14.0,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2018,,9.9,9.65,,
+Virginia Beach-Norfolk-Newport News (Va-Nc),2019,,10.25,,,
+Visalia-Porterville (Ca),2010,13.6,,23.5,,
+Visalia-Porterville (Ca),2011,16.1,,22.2,,
+Visalia-Porterville (Ca),2012,,,22.7,,
+Visalia-Porterville (Ca),2013,18.9,,23.9,,
+Visalia-Porterville (Ca),2014,17.9,,19.6,,
+Visalia-Porterville (Ca),2015,16.1,,18.2,,
+Visalia-Porterville (Ca),2016,14.7,,16.8,,
+Visalia-Porterville (Ca),2017,16.3,,20.4,,
+Visalia-Porterville (Ca),2018,17.3,,20.2,,
+Visalia-Porterville (Ca),2019,12.9,,18.0,,
+Waco (Tx),2011,,,7.0,31.5599,-97.1882
+Waco (Tx),2011,,,7.0,33.7026,-85.1893
+Waco (Tx),2011,,,7.0,35.3622,-81.4287
+Waco (Tx),2011,,,7.0,37.247,-94.6003
+Waco (Tx),2011,,,7.0,40.897,-97.4619
+Waco (Tx),2012,,,6.4,31.5599,-97.1882
+Waco (Tx),2012,,,6.4,33.7026,-85.1893
+Waco (Tx),2012,,,6.4,35.3622,-81.4287
+Waco (Tx),2012,,,6.4,37.247,-94.6003
+Waco (Tx),2012,,,6.4,40.897,-97.4619
+Waco (Tx),2013,,,4.9,31.5599,-97.1882
+Waco (Tx),2013,,,4.9,33.7026,-85.1893
+Waco (Tx),2013,,,4.9,35.3622,-81.4287
+Waco (Tx),2013,,,4.9,37.247,-94.6003
+Waco (Tx),2013,,,4.9,40.897,-97.4619
+Waco (Tx),2014,,,4.2,31.5599,-97.1882
+Waco (Tx),2014,,,4.2,33.7026,-85.1893
+Waco (Tx),2014,,,4.2,35.3622,-81.4287
+Waco (Tx),2014,,,4.2,37.247,-94.6003
+Waco (Tx),2014,,,4.2,40.897,-97.4619
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2010,,,22.06,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2011,,12.5,24.13,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2012,9.7,12.3,21.88,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2013,,,21.8,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2014,,12.1,17.25,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2015,,,14.5,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2016,,,21.13,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2017,10.0,9.4,20.45,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2018,,8.15,15.93,,
+Washington-Arlington-Alexandria (Dc-Va-Md-Wv),2019,,7.6,21.2,,
+Waterloo-Cedar Falls (Ia),2010,10.9,,,,
+Watertown (Sd),2017,,21.5,,43.9734,-75.9094
+Watertown (Sd),2017,,21.5,,43.1893,-88.7285
+Watertown (Sd),2017,,21.5,,44.9094,-97.1532
+Watertown (Sd),2017,,21.5,,44.9604,-93.8431
+Watertown (Sd),2017,,21.5,,30.1856,-82.6026
+Watertown (Sd),2017,,21.5,,36.1007,-86.1394
+Weirton-Steubenville (Wv-Oh),2010,,22.0,,,
+Weirton-Steubenville (Wv-Oh),2011,,14.6,,,
+Weirton-Steubenville (Wv-Oh),2015,12.1,21.4,,,
+Weirton-Steubenville (Wv-Oh),2016,11.0,,,,
+West Mercer,2010,,,4.4,,
+West Mercer,2015,,,4.0,,
+Wichita (Ks),2010,,20.3,6.9,37.6895,-97.3443
+Wichita (Ks),2011,,22.0,23.0,37.6895,-97.3443
+Wichita (Ks),2012,,,10.3,37.6895,-97.3443
+Wichita (Ks),2013,,22.7,16.6,37.6895,-97.3443
+Wichita (Ks),2014,,23.75,8.7,37.6895,-97.3443
+Wichita (Ks),2015,,23.6,7.6,37.6895,-97.3443
+Wichita (Ks),2016,,23.1,9.9,37.6895,-97.3443
+Wichita (Ks),2017,,34.9,13.1,37.6895,-97.3443
+Wichita (Ks),2018,,31.7,14.3,37.6895,-97.3443
+Wichita (Ks),2019,,21.2,5.9,37.6895,-97.3443
+Wilmington (Nc),2018,3.5,,,34.2099,-77.8866
+Wilmington (Nc),2018,3.5,,,39.7415,-75.5416
+Wilmington (Nc),2018,3.5,,,39.4362,-83.8141
+Wilmington (Nc),2018,3.5,,,41.3207,-88.164
+Winchester (Va-Wv),2013,,9.9,,39.1735,-78.1746
+Winchester (Va-Wv),2013,,9.9,,36.1365,-115.137
+Winchester (Va-Wv),2013,,9.9,,38.0018,-84.1908
+Winchester (Va-Wv),2013,,9.9,,35.1898,-86.1075
+Winchester (Va-Wv),2013,,9.9,,40.1719,-84.9764
+Winchester (Va-Wv),2013,,9.9,,33.7146,-117.0775
+Winchester (Va-Wv),2013,,9.9,,38.5897,-90.526
+Winchester (Va-Wv),2013,,9.9,,39.6298,-90.456
+Winchester (Va-Wv),2013,,9.9,,38.9436,-83.654
+Winchester (Va-Wv),2013,,9.9,,44.1982,-88.6599
+Winchester (Va-Wv),2013,,9.9,,35.7906,-95.9981
+Winchester (Va-Wv),2013,,9.9,,39.3226,-95.2688
+Winchester (Va-Wv),2013,,9.9,,46.2409,-116.6242
+Winchester (Va-Wv),2013,,9.9,,33.7741,-91.4737
+Winston-Salem (Nc),2011,,,14.5,36.1029,-80.261
+Winston-Salem (Nc),2012,,13.0,,36.1029,-80.261
+Winston-Salem (Nc),2013,,11.5,11.5,36.1029,-80.261
+Winston-Salem (Nc),2014,,,12.0,36.1029,-80.261
+Winston-Salem (Nc),2016,,,12.3,36.1029,-80.261
+Winston-Salem (Nc),2017,,11.0,13.2,36.1029,-80.261
+Winston-Salem (Nc),2018,,,12.5,36.1029,-80.261
+Worcester (Ma-Ct),2010,,,26.3,42.2705,-71.8079
+Worcester (Ma-Ct),2011,,,32.6,42.2705,-71.8079
+Worcester (Ma-Ct),2013,,18.2,,42.2705,-71.8079
+Worcester (Ma-Ct),2014,,,24.5,42.2705,-71.8079
+Worcester (Ma-Ct),2016,,14.9,,42.2705,-71.8079
+Worcester (Ma-Ct),2017,5.4,,21.5,42.2705,-71.8079
+Worcester (Ma-Ct),2018,,13.4,,42.2705,-71.8079
+Worcester (Ma-Ct),2019,,,19.7,42.2705,-71.8079
+York-Hanover (Pa),2011,,,23.8,,
+York-Hanover (Pa),2012,,,22.2,,
+York-Hanover (Pa),2013,,,18.8,,
+York-Hanover (Pa),2014,,,20.4,,
+York-Hanover (Pa),2015,,,19.5,,
+York-Hanover (Pa),2018,,,11.0,,
+Youngstown-Warren-Boardman (Oh-Pa),2012,,18.3,,,
+Youngstown-Warren-Boardman (Oh-Pa),2014,,12.0,,,
+Youngstown-Warren-Boardman (Oh-Pa),2015,,12.8,,,
+Youngstown-Warren-Boardman (Oh-Pa),2018,,16.5,,,
+Yreka,2010,4.5,,,41.7291,-122.6312
+Yreka,2011,5.5,,,41.7291,-122.6312
+Yreka,2012,5.7,,,41.7291,-122.6312
+Yreka,2013,7.9,,,41.7291,-122.6312
+Yreka,2018,14.4,,,41.7291,-122.6312
+Yreka,2019,5.9,,,41.7291,-122.6312
+Yuba City (Ca),2010,,,14.1,39.1357,-121.6383
+Yuba City (Ca),2011,8.0,,15.7,39.1357,-121.6383
+Yuba City (Ca),2012,6.9,,18.0,39.1357,-121.6383
+Yuba City (Ca),2013,8.2,,18.1,39.1357,-121.6383
+Yuba City (Ca),2018,,,14.1,39.1357,-121.6383
+Yuba City (Ca),2019,,,12.2,39.1357,-121.6383
+Yuma (Az),2010,7.4,,,32.5995,-114.5491
+Yuma (Az),2010,7.4,,,40.1235,-102.7161
+Yuma (Az),2010,7.4,,,35.8438,-88.3372
+Yuma (Az),2011,7.6,29.7,,32.5995,-114.5491
+Yuma (Az),2011,7.6,29.7,,40.1235,-102.7161
+Yuma (Az),2011,7.6,29.7,,35.8438,-88.3372
+Yuma (Az),2012,8.5,43.2,,32.5995,-114.5491
+Yuma (Az),2012,8.5,43.2,,40.1235,-102.7161
+Yuma (Az),2012,8.5,43.2,,35.8438,-88.3372
+Yuma (Az),2013,7.4,41.1,,32.5995,-114.5491
+Yuma (Az),2013,7.4,41.1,,40.1235,-102.7161
+Yuma (Az),2013,7.4,41.1,,35.8438,-88.3372
+Yuma (Az),2014,,44.7,,32.5995,-114.5491
+Yuma (Az),2014,,44.7,,40.1235,-102.7161
+Yuma (Az),2014,,44.7,,35.8438,-88.3372
+Yuma (Az),2015,5.6,38.5,,32.5995,-114.5491
+Yuma (Az),2015,5.6,38.5,,40.1235,-102.7161
+Yuma (Az),2015,5.6,38.5,,35.8438,-88.3372
+Yuma (Az),2016,8.3,47.7,,32.5995,-114.5491
+Yuma (Az),2016,8.3,47.7,,40.1235,-102.7161
+Yuma (Az),2016,8.3,47.7,,35.8438,-88.3372
+Yuma (Az),2017,8.5,41.8,,32.5995,-114.5491
+Yuma (Az),2017,8.5,41.8,,40.1235,-102.7161
+Yuma (Az),2017,8.5,41.8,,35.8438,-88.3372
+Yuma (Az),2018,,42.5,,32.5995,-114.5491
+Yuma (Az),2018,,42.5,,40.1235,-102.7161
+Yuma (Az),2018,,42.5,,35.8438,-88.3372
+Yuma (Az),2019,,35.0,,32.5995,-114.5491
+Yuma (Az),2019,,35.0,,40.1235,-102.7161
+Yuma (Az),2019,,35.0,,35.8438,-88.3372
